@@ -1,0 +1,26 @@
+{
+  "scope": "In-process API handler against disposable PostgreSQL. Excludes HTTP, Vercel, hosted PostgreSQL, cold starts and browser rendering. Not production capacity certification.",
+  "measuredAt": "2026-09-06T14:07:29.407Z",
+  "results": [
+    {
+      "players": 100,
+      "tables": 20,
+      "seatsPerTable": 5,
+      "requests": 300,
+      "elapsedMs": 7723,
+      "p50Ms": 2168,
+      "p95Ms": 2603,
+      "responseBytes": 4489428
+    },
+    {
+      "players": 100,
+      "tables": 50,
+      "seatsPerTable": 2,
+      "requests": 300,
+      "elapsedMs": 5793,
+      "p50Ms": 1681,
+      "p95Ms": 1970,
+      "responseBytes": 3632670
+    }
+  ]
+}

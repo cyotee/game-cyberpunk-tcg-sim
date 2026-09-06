@@ -1,0 +1,4280 @@
+[
+  {
+    "number": "1",
+    "type": "section",
+    "anchor": "rule-0ef7599d-d21e-5efb-bb17-375f7950991c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0ef7599d-d21e-5efb-bb17-375f7950991c"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-c2ea97c5-471a-5c4e-bf32-e97504da33b5",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c2ea97c5-471a-5c4e-bf32-e97504da33b5"
+  },
+  {
+    "number": "1.1",
+    "type": "rule",
+    "anchor": "rule-3e266cc2-9fcc-56c4-ad9d-0f4b4eccfa7a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3e266cc2-9fcc-56c4-ad9d-0f4b4eccfa7a"
+  },
+  {
+    "number": "1.2",
+    "type": "rule",
+    "anchor": "rule-2cc46293-e43b-5a94-94d9-3d666387e673",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2cc46293-e43b-5a94-94d9-3d666387e673"
+  },
+  {
+    "number": "1.3",
+    "type": "rule",
+    "anchor": "rule-03541924-383c-53f3-b4eb-cc80c641143b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-03541924-383c-53f3-b4eb-cc80c641143b"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-9e3dd7e3-f7b4-529d-9294-9fc9a75f8ddc",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9e3dd7e3-f7b4-529d-9294-9fc9a75f8ddc"
+  },
+  {
+    "number": "1.4",
+    "type": "rule",
+    "anchor": "rule-4b6319c6-476a-5abe-9009-ebf58fa4fcbb",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4b6319c6-476a-5abe-9009-ebf58fa4fcbb"
+  },
+  {
+    "number": "1.4.1",
+    "type": "rule",
+    "anchor": "rule-ae2f6b8e-7fd9-5a1e-a34c-f549ad96c113",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ae2f6b8e-7fd9-5a1e-a34c-f549ad96c113"
+  },
+  {
+    "number": "1.5",
+    "type": "rule",
+    "anchor": "rule-e84e03d4-4d1f-51f0-a91e-b3817acf0494",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e84e03d4-4d1f-51f0-a91e-b3817acf0494"
+  },
+  {
+    "number": "1.6",
+    "type": "rule",
+    "anchor": "rule-25a061f0-67f4-5843-99ac-a3ebdd2d9d91",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-25a061f0-67f4-5843-99ac-a3ebdd2d9d91"
+  },
+  {
+    "number": "1.7",
+    "type": "rule",
+    "anchor": "rule-3c3ad85e-5cae-5723-9394-c00147bfde9f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3c3ad85e-5cae-5723-9394-c00147bfde9f"
+  },
+  {
+    "number": "1.7.1",
+    "type": "rule",
+    "anchor": "rule-7e879230-33e5-5e3b-8436-5afe78bc58c1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-7e879230-33e5-5e3b-8436-5afe78bc58c1"
+  },
+  {
+    "number": "1.7.2",
+    "type": "rule",
+    "anchor": "rule-1ccf9062-699e-5f7c-8a59-c49c0ef11129",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1ccf9062-699e-5f7c-8a59-c49c0ef11129"
+  },
+  {
+    "number": "1.7.2.1",
+    "type": "rule",
+    "anchor": "rule-3dabc665-1d56-5362-ac53-52558a94d3f3",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3dabc665-1d56-5362-ac53-52558a94d3f3"
+  },
+  {
+    "number": "1.7.2.2",
+    "type": "rule",
+    "anchor": "rule-926e29f1-28ec-5b44-8122-9b1993b1b355",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-926e29f1-28ec-5b44-8122-9b1993b1b355"
+  },
+  {
+    "number": "1.7.3",
+    "type": "rule",
+    "anchor": "rule-10b50de6-da65-54d5-ad1c-89be6cf64b50",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-10b50de6-da65-54d5-ad1c-89be6cf64b50"
+  },
+  {
+    "number": "1.7.3.1",
+    "type": "rule",
+    "anchor": "rule-3cc52dcc-7024-52e2-8cf1-7cee07616371",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3cc52dcc-7024-52e2-8cf1-7cee07616371"
+  },
+  {
+    "number": "1.7.3.2",
+    "type": "rule",
+    "anchor": "rule-0e1984ab-735f-5cc1-b370-4af94a0cd09f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0e1984ab-735f-5cc1-b370-4af94a0cd09f"
+  },
+  {
+    "number": "1.8",
+    "type": "rule",
+    "anchor": "rule-b20ea52a-97db-59ac-8a13-c1c5b0f2c842",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b20ea52a-97db-59ac-8a13-c1c5b0f2c842"
+  },
+  {
+    "number": "1.9",
+    "type": "rule",
+    "anchor": "rule-b38c212f-1120-53ad-851f-17b1d57d5c83",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b38c212f-1120-53ad-851f-17b1d57d5c83"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-8008d6a4-9033-5412-931f-d669c00fade1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8008d6a4-9033-5412-931f-d669c00fade1"
+  },
+  {
+    "number": "1.10",
+    "type": "rule",
+    "anchor": "rule-a95f0bcb-c903-5523-ad04-b844bcd74320",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a95f0bcb-c903-5523-ad04-b844bcd74320"
+  },
+  {
+    "number": "1.10.1",
+    "type": "rule",
+    "anchor": "rule-f2146a3d-137a-53b6-aa54-3cef8e76ed40",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f2146a3d-137a-53b6-aa54-3cef8e76ed40"
+  },
+  {
+    "number": "1.11",
+    "type": "rule",
+    "anchor": "rule-6c17b861-5d24-52bf-8cae-98f1a333b9cb",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6c17b861-5d24-52bf-8cae-98f1a333b9cb"
+  },
+  {
+    "number": "1.11.1",
+    "type": "rule",
+    "anchor": "rule-42918654-95fe-5e43-b31c-5f8809d34bbe",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-42918654-95fe-5e43-b31c-5f8809d34bbe"
+  },
+  {
+    "number": "1.11.2",
+    "type": "rule",
+    "anchor": "rule-e39057c6-cb77-5e66-9a8b-fd5acf6a4f16",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e39057c6-cb77-5e66-9a8b-fd5acf6a4f16"
+  },
+  {
+    "number": "1.12",
+    "type": "rule",
+    "anchor": "rule-835a4757-4acb-5055-a966-66a124a79f37",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-835a4757-4acb-5055-a966-66a124a79f37"
+  },
+  {
+    "number": "1.13",
+    "type": "rule",
+    "anchor": "rule-ad1634d3-f4b8-5ffa-8d33-02c646abf3cf",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ad1634d3-f4b8-5ffa-8d33-02c646abf3cf"
+  },
+  {
+    "number": "1.13.1",
+    "type": "rule",
+    "anchor": "rule-abd075f3-4191-51f4-8e04-26d3b54f50b2",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-abd075f3-4191-51f4-8e04-26d3b54f50b2"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-6102756a-cd45-50fb-8ded-eea683b79df7",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6102756a-cd45-50fb-8ded-eea683b79df7"
+  },
+  {
+    "number": "1.14",
+    "type": "rule",
+    "anchor": "rule-2aaa4cd0-9eb2-5c7c-ae51-93f9eafee0af",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2aaa4cd0-9eb2-5c7c-ae51-93f9eafee0af"
+  },
+  {
+    "number": "1.14.1",
+    "type": "rule",
+    "anchor": "rule-92078cbe-88f1-5a06-bd8c-3474c57a4def",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-92078cbe-88f1-5a06-bd8c-3474c57a4def"
+  },
+  {
+    "number": "1.15",
+    "type": "rule",
+    "anchor": "rule-d9cf9cfb-1be6-5dbe-9016-4206ef08821c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d9cf9cfb-1be6-5dbe-9016-4206ef08821c"
+  },
+  {
+    "number": "1.16",
+    "type": "rule",
+    "anchor": "rule-e7983909-6a6a-5a5e-a968-a893e7d675b3",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e7983909-6a6a-5a5e-a968-a893e7d675b3"
+  },
+  {
+    "number": "1.16.1",
+    "type": "rule",
+    "anchor": "rule-ec767913-51d3-533f-9d70-a0ca376cdc41",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ec767913-51d3-533f-9d70-a0ca376cdc41"
+  },
+  {
+    "number": "1.17",
+    "type": "rule",
+    "anchor": "rule-5ce22234-1f12-55ca-ac3d-1719e7cc20b5",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5ce22234-1f12-55ca-ac3d-1719e7cc20b5"
+  },
+  {
+    "number": "1.17.1",
+    "type": "rule",
+    "anchor": "rule-5cfbaf4e-5477-5bc7-8270-3e33605d895d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5cfbaf4e-5477-5bc7-8270-3e33605d895d"
+  },
+  {
+    "number": "2",
+    "type": "section",
+    "anchor": "rule-68b314b6-4bba-5507-b8f0-929a8baff26d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-68b314b6-4bba-5507-b8f0-929a8baff26d"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-a1137877-3824-5786-bc49-9ca22d5054ba",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a1137877-3824-5786-bc49-9ca22d5054ba"
+  },
+  {
+    "number": "2.1",
+    "type": "rule",
+    "anchor": "rule-96d56da1-aa70-5346-a8e9-ccb1d08d4d0c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-96d56da1-aa70-5346-a8e9-ccb1d08d4d0c"
+  },
+  {
+    "number": "2.1.1",
+    "type": "rule",
+    "anchor": "rule-486ac92e-8d19-5824-88d0-035da4904e60",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-486ac92e-8d19-5824-88d0-035da4904e60"
+  },
+  {
+    "number": "2.2",
+    "type": "rule",
+    "anchor": "rule-9c3db371-9223-555f-997f-c8d17beb8b90",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9c3db371-9223-555f-997f-c8d17beb8b90"
+  },
+  {
+    "number": "2.3",
+    "type": "rule",
+    "anchor": "rule-07536cd2-8894-532e-bebb-c9f16977bd9c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-07536cd2-8894-532e-bebb-c9f16977bd9c"
+  },
+  {
+    "number": "2.4",
+    "type": "rule",
+    "anchor": "rule-401e37f2-1b25-504b-9986-23e90688e45d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-401e37f2-1b25-504b-9986-23e90688e45d"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-c6f421c5-a59a-54d4-b6f3-30ae86921306",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c6f421c5-a59a-54d4-b6f3-30ae86921306"
+  },
+  {
+    "number": "2.5",
+    "type": "rule",
+    "anchor": "rule-6acab530-ea32-5468-be0e-327f8692fbe8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6acab530-ea32-5468-be0e-327f8692fbe8"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-786a41f3-f3c5-5b6a-abc3-6f155b390a58",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-786a41f3-f3c5-5b6a-abc3-6f155b390a58"
+  },
+  {
+    "number": "2.6",
+    "type": "rule",
+    "anchor": "rule-249b130a-a6ae-5a34-a1c1-72fac6288797",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-249b130a-a6ae-5a34-a1c1-72fac6288797"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-2adfc1b2-6205-55b0-8043-c78f62311f3a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2adfc1b2-6205-55b0-8043-c78f62311f3a"
+  },
+  {
+    "number": "2.7",
+    "type": "rule",
+    "anchor": "rule-8565bd4a-0811-5643-8e7f-6d8e17a605ce",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8565bd4a-0811-5643-8e7f-6d8e17a605ce"
+  },
+  {
+    "number": "2.8",
+    "type": "rule",
+    "anchor": "rule-7a04239e-1c55-5d44-92b8-e94bdbe3f7a4",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-7a04239e-1c55-5d44-92b8-e94bdbe3f7a4"
+  },
+  {
+    "number": "2.9",
+    "type": "rule",
+    "anchor": "rule-4d292ffe-7c65-5e1b-91cf-e73e8f873cb5",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4d292ffe-7c65-5e1b-91cf-e73e8f873cb5"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-fa89b551-4f45-51be-a591-de4867b4c18f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-fa89b551-4f45-51be-a591-de4867b4c18f"
+  },
+  {
+    "number": "2.10",
+    "type": "rule",
+    "anchor": "rule-123a91af-524d-5339-a69e-0eff836de7c1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-123a91af-524d-5339-a69e-0eff836de7c1"
+  },
+  {
+    "number": "2.10.1",
+    "type": "rule",
+    "anchor": "rule-04efd0de-f46f-56e9-aa86-4a474a0334ec",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-04efd0de-f46f-56e9-aa86-4a474a0334ec"
+  },
+  {
+    "number": "2.10.2",
+    "type": "rule",
+    "anchor": "rule-1e7c43da-18be-535b-9345-686a970ffc07",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1e7c43da-18be-535b-9345-686a970ffc07"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-52e7f11d-d6d2-588d-97dc-609e843c133b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-52e7f11d-d6d2-588d-97dc-609e843c133b"
+  },
+  {
+    "number": "2.11",
+    "type": "rule",
+    "anchor": "rule-98121761-36aa-5820-9e8f-13b0b85e7e6d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-98121761-36aa-5820-9e8f-13b0b85e7e6d"
+  },
+  {
+    "number": "2.12",
+    "type": "rule",
+    "anchor": "rule-ae53b4fa-c809-5bfa-97b7-dd474cb21f13",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ae53b4fa-c809-5bfa-97b7-dd474cb21f13"
+  },
+  {
+    "number": "2.12.1",
+    "type": "rule",
+    "anchor": "rule-30c90dfc-d287-5b0d-9a53-9370292a8a94",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-30c90dfc-d287-5b0d-9a53-9370292a8a94"
+  },
+  {
+    "number": "2.12.2",
+    "type": "rule",
+    "anchor": "rule-be54fa49-d944-53d4-8eb2-40fa90189978",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-be54fa49-d944-53d4-8eb2-40fa90189978"
+  },
+  {
+    "number": "2.12.3",
+    "type": "rule",
+    "anchor": "rule-7ee1853e-ca4f-5b55-9ea8-48c56d595e9d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-7ee1853e-ca4f-5b55-9ea8-48c56d595e9d"
+  },
+  {
+    "number": "2.13",
+    "type": "rule",
+    "anchor": "rule-428cbe96-c117-51f0-b234-aaee3a652704",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-428cbe96-c117-51f0-b234-aaee3a652704"
+  },
+  {
+    "number": "2.13.1",
+    "type": "rule",
+    "anchor": "rule-9d834ff3-4f45-5250-befe-0f26e73e8335",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9d834ff3-4f45-5250-befe-0f26e73e8335"
+  },
+  {
+    "number": "3",
+    "type": "section",
+    "anchor": "rule-407067f3-d2ba-5476-89e1-3865adf9ada3",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-407067f3-d2ba-5476-89e1-3865adf9ada3"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-38cfb5b3-57d2-5038-8c50-2bcd2fd5768b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-38cfb5b3-57d2-5038-8c50-2bcd2fd5768b"
+  },
+  {
+    "number": "3.1",
+    "type": "rule",
+    "anchor": "rule-b13f05e2-96ee-5d88-851f-a09a8a0640bf",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b13f05e2-96ee-5d88-851f-a09a8a0640bf"
+  },
+  {
+    "number": "3.2",
+    "type": "rule",
+    "anchor": "rule-2a423f63-d89c-5ecb-bef3-483a74221f30",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2a423f63-d89c-5ecb-bef3-483a74221f30"
+  },
+  {
+    "number": "3.2.1",
+    "type": "rule",
+    "anchor": "rule-cca911d3-fcc9-5140-8673-377c19be2569",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-cca911d3-fcc9-5140-8673-377c19be2569"
+  },
+  {
+    "number": "3.3",
+    "type": "rule",
+    "anchor": "rule-65020dff-0429-530e-b857-7f66e42f15c6",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-65020dff-0429-530e-b857-7f66e42f15c6"
+  },
+  {
+    "number": "3.4",
+    "type": "rule",
+    "anchor": "rule-f03aaaa2-4ef7-512c-8f69-b34aa0de56fa",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f03aaaa2-4ef7-512c-8f69-b34aa0de56fa"
+  },
+  {
+    "number": "3.4.1",
+    "type": "rule",
+    "anchor": "rule-60901bbc-a469-5f8b-a9d6-8689ecad69a0",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-60901bbc-a469-5f8b-a9d6-8689ecad69a0"
+  },
+  {
+    "number": "3.5",
+    "type": "rule",
+    "anchor": "rule-5407f592-8083-5bf7-b0a2-d0bdc7500c3b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5407f592-8083-5bf7-b0a2-d0bdc7500c3b"
+  },
+  {
+    "number": "3.6",
+    "type": "rule",
+    "anchor": "rule-fde82870-d55a-526c-b007-111bc0633411",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-fde82870-d55a-526c-b007-111bc0633411"
+  },
+  {
+    "number": "3.7",
+    "type": "rule",
+    "anchor": "rule-2d629c4f-d830-52a1-b205-3a259d92ff34",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2d629c4f-d830-52a1-b205-3a259d92ff34"
+  },
+  {
+    "number": "3.8",
+    "type": "rule",
+    "anchor": "rule-c33d83d9-0c2d-56a1-bb63-86b34df9a32b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c33d83d9-0c2d-56a1-bb63-86b34df9a32b"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-2b88f84e-ad09-5610-b747-d68e9e08ae02",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2b88f84e-ad09-5610-b747-d68e9e08ae02"
+  },
+  {
+    "number": "3.9",
+    "type": "rule",
+    "anchor": "rule-b311e5d2-a624-5770-a2fa-86d1db7faf78",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b311e5d2-a624-5770-a2fa-86d1db7faf78"
+  },
+  {
+    "number": "3.9.1",
+    "type": "rule",
+    "anchor": "rule-ed94109c-37fd-5593-a77a-82e9d7e2431f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ed94109c-37fd-5593-a77a-82e9d7e2431f"
+  },
+  {
+    "number": "3.9.1.1",
+    "type": "rule",
+    "anchor": "rule-bdb40992-4e0e-5f0a-87df-3abf7bfcf468",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-bdb40992-4e0e-5f0a-87df-3abf7bfcf468"
+  },
+  {
+    "number": "3.9.1.2",
+    "type": "rule",
+    "anchor": "rule-c31c5a86-a0d4-5db8-ab94-1e13d61f01f9",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c31c5a86-a0d4-5db8-ab94-1e13d61f01f9"
+  },
+  {
+    "number": "3.9.1.3",
+    "type": "rule",
+    "anchor": "rule-a26a4cb6-e184-5b9a-ac80-3879dd1a369d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a26a4cb6-e184-5b9a-ac80-3879dd1a369d"
+  },
+  {
+    "number": "3.9.2",
+    "type": "rule",
+    "anchor": "rule-3f82ac58-8251-54af-9d94-23714cc09d97",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3f82ac58-8251-54af-9d94-23714cc09d97"
+  },
+  {
+    "number": "3.10",
+    "type": "rule",
+    "anchor": "rule-c701fa0b-697f-5089-b149-aa9222be9d51",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c701fa0b-697f-5089-b149-aa9222be9d51"
+  },
+  {
+    "number": "3.10.1",
+    "type": "rule",
+    "anchor": "rule-13a607cb-e4bf-5ead-9b95-b50129c0d064",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-13a607cb-e4bf-5ead-9b95-b50129c0d064"
+  },
+  {
+    "number": "3.10.2",
+    "type": "rule",
+    "anchor": "rule-43fe5721-6066-5297-a20a-1bf1d2bb9660",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-43fe5721-6066-5297-a20a-1bf1d2bb9660"
+  },
+  {
+    "number": "3.11",
+    "type": "rule",
+    "anchor": "rule-01f4fc04-687c-59c8-a97c-665e3ebcecde",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-01f4fc04-687c-59c8-a97c-665e3ebcecde"
+  },
+  {
+    "number": "3.11.1",
+    "type": "rule",
+    "anchor": "rule-a77ac281-ef4c-5fb5-be72-c2159112f17a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a77ac281-ef4c-5fb5-be72-c2159112f17a"
+  },
+  {
+    "number": "3.11.1.1",
+    "type": "rule",
+    "anchor": "rule-d2bd2875-d5fd-55e9-87d9-296e49f27592",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d2bd2875-d5fd-55e9-87d9-296e49f27592"
+  },
+  {
+    "number": "3.11.1.2",
+    "type": "rule",
+    "anchor": "rule-16aa9653-7f7b-500a-8508-30dcc05b896b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-16aa9653-7f7b-500a-8508-30dcc05b896b"
+  },
+  {
+    "number": "3.11.2",
+    "type": "rule",
+    "anchor": "rule-a4a7645c-22ae-5af9-bed2-9664e294dc45",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a4a7645c-22ae-5af9-bed2-9664e294dc45"
+  },
+  {
+    "number": "3.11.2.1",
+    "type": "rule",
+    "anchor": "rule-bbc253af-a3a8-5b0a-a610-b71637bffbbc",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-bbc253af-a3a8-5b0a-a610-b71637bffbbc"
+  },
+  {
+    "number": "3.11.2.2",
+    "type": "rule",
+    "anchor": "rule-c2b9f044-c932-52ed-abc8-75f37ca25d86",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c2b9f044-c932-52ed-abc8-75f37ca25d86"
+  },
+  {
+    "number": "3.11.2.3",
+    "type": "rule",
+    "anchor": "rule-888aa240-c4cc-50ac-9c87-15342f200162",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-888aa240-c4cc-50ac-9c87-15342f200162"
+  },
+  {
+    "number": "3.12",
+    "type": "rule",
+    "anchor": "rule-9f14c250-de04-54d6-9bd7-50d6691359b8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9f14c250-de04-54d6-9bd7-50d6691359b8"
+  },
+  {
+    "number": "3.12.1",
+    "type": "rule",
+    "anchor": "rule-9ddc577b-6bc1-5a06-bdf3-0e7950e53e64",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9ddc577b-6bc1-5a06-bdf3-0e7950e53e64"
+  },
+  {
+    "number": "3.12.2",
+    "type": "rule",
+    "anchor": "rule-f2b0ae86-d2fe-5049-aee4-003cc9138a99",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f2b0ae86-d2fe-5049-aee4-003cc9138a99"
+  },
+  {
+    "number": "3.13",
+    "type": "rule",
+    "anchor": "rule-ad77866d-76be-5371-9dd2-f205b587f119",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ad77866d-76be-5371-9dd2-f205b587f119"
+  },
+  {
+    "number": "3.13.1",
+    "type": "rule",
+    "anchor": "rule-84c6b14b-d9e8-54bf-a6ab-2f3e0928d079",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-84c6b14b-d9e8-54bf-a6ab-2f3e0928d079"
+  },
+  {
+    "number": "3.13.1.1",
+    "type": "rule",
+    "anchor": "rule-166b8c49-3696-5df4-9319-d49ed6125d1a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-166b8c49-3696-5df4-9319-d49ed6125d1a"
+  },
+  {
+    "number": "3.13.1.2",
+    "type": "rule",
+    "anchor": "rule-b6a39fdf-93ee-549a-80ee-d25c849205f6",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b6a39fdf-93ee-549a-80ee-d25c849205f6"
+  },
+  {
+    "number": "3.13.2",
+    "type": "rule",
+    "anchor": "rule-5907ea98-c314-599f-adf0-776d04e91c2a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5907ea98-c314-599f-adf0-776d04e91c2a"
+  },
+  {
+    "number": "3.14",
+    "type": "rule",
+    "anchor": "rule-09b04e32-d407-55da-af59-c72c29b8db42",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-09b04e32-d407-55da-af59-c72c29b8db42"
+  },
+  {
+    "number": "3.14.1",
+    "type": "rule",
+    "anchor": "rule-e6460dd1-5287-535d-8055-3bad172f2e67",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e6460dd1-5287-535d-8055-3bad172f2e67"
+  },
+  {
+    "number": "3.14.2",
+    "type": "rule",
+    "anchor": "rule-1cc287a3-0e00-5344-815b-b5c3bce67bfe",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1cc287a3-0e00-5344-815b-b5c3bce67bfe"
+  },
+  {
+    "number": "3.14.3",
+    "type": "rule",
+    "anchor": "rule-e06d97b2-648d-5990-a660-9530d9b66809",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e06d97b2-648d-5990-a660-9530d9b66809"
+  },
+  {
+    "number": "3.15",
+    "type": "rule",
+    "anchor": "rule-2817e4c9-3727-5bb2-b42b-a4fae0981130",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2817e4c9-3727-5bb2-b42b-a4fae0981130"
+  },
+  {
+    "number": "3.15.1",
+    "type": "rule",
+    "anchor": "rule-d9a7a124-4b66-5490-b476-1be2086fdf96",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d9a7a124-4b66-5490-b476-1be2086fdf96"
+  },
+  {
+    "number": "3.16",
+    "type": "rule",
+    "anchor": "rule-edf8b353-fd00-51f7-9495-0c3ef3b44e70",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-edf8b353-fd00-51f7-9495-0c3ef3b44e70"
+  },
+  {
+    "number": "3.16.1",
+    "type": "rule",
+    "anchor": "rule-07c961fe-34bf-5227-a491-0efc9cd98fc9",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-07c961fe-34bf-5227-a491-0efc9cd98fc9"
+  },
+  {
+    "number": "3.17",
+    "type": "rule",
+    "anchor": "rule-104cb393-9d26-5c10-94d2-ba30530d2f0e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-104cb393-9d26-5c10-94d2-ba30530d2f0e"
+  },
+  {
+    "number": "3.17.1",
+    "type": "rule",
+    "anchor": "rule-20748ef2-7d60-5b2d-899c-9c1cded43038",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-20748ef2-7d60-5b2d-899c-9c1cded43038"
+  },
+  {
+    "number": "3.17.2",
+    "type": "rule",
+    "anchor": "rule-f926f7b2-61ab-5bd5-9260-6d2da35ffd31",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f926f7b2-61ab-5bd5-9260-6d2da35ffd31"
+  },
+  {
+    "number": "3.17.3",
+    "type": "rule",
+    "anchor": "rule-b9271de5-4461-53a1-9482-9813a9e3eac0",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b9271de5-4461-53a1-9482-9813a9e3eac0"
+  },
+  {
+    "number": "3.17.3.1",
+    "type": "rule",
+    "anchor": "rule-ef3be49d-7fbc-5475-9953-ae2ce4265edb",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ef3be49d-7fbc-5475-9953-ae2ce4265edb"
+  },
+  {
+    "number": "3.17.3.2",
+    "type": "rule",
+    "anchor": "rule-f97b8fff-f47c-5a4c-8640-cc3f9b860244",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f97b8fff-f47c-5a4c-8640-cc3f9b860244"
+  },
+  {
+    "number": "3.17.3.3",
+    "type": "rule",
+    "anchor": "rule-7036f5c8-c17e-5552-b678-ccfc0387a280",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-7036f5c8-c17e-5552-b678-ccfc0387a280"
+  },
+  {
+    "number": "3.17.4",
+    "type": "rule",
+    "anchor": "rule-605d6e2a-172e-57a5-a6af-bb3ef8647556",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-605d6e2a-172e-57a5-a6af-bb3ef8647556"
+  },
+  {
+    "number": "3.18",
+    "type": "rule",
+    "anchor": "rule-961e54db-63ed-58b2-b90a-68fe6d568122",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-961e54db-63ed-58b2-b90a-68fe6d568122"
+  },
+  {
+    "number": "3.18.1",
+    "type": "rule",
+    "anchor": "rule-032c8aff-092c-54e8-96f9-6a8f7cd7d691",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-032c8aff-092c-54e8-96f9-6a8f7cd7d691"
+  },
+  {
+    "number": "3.18.1.1",
+    "type": "rule",
+    "anchor": "rule-76e9f552-96d0-5736-b1ef-9726007ca8fc",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-76e9f552-96d0-5736-b1ef-9726007ca8fc"
+  },
+  {
+    "number": "3.18.1.2",
+    "type": "rule",
+    "anchor": "rule-1aa0bbb1-08d0-5459-92a1-8726787f6f09",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1aa0bbb1-08d0-5459-92a1-8726787f6f09"
+  },
+  {
+    "number": "3.18.1.2.1",
+    "type": "rule",
+    "anchor": "rule-6e64e100-84f0-5745-a390-43d7e60f23c2",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6e64e100-84f0-5745-a390-43d7e60f23c2"
+  },
+  {
+    "number": "3.18.1.2.1.1",
+    "type": "rule",
+    "anchor": "rule-c370da83-3c57-5ec3-b588-71df06e27d2a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c370da83-3c57-5ec3-b588-71df06e27d2a"
+  },
+  {
+    "number": "3.18.1.2.2",
+    "type": "rule",
+    "anchor": "rule-3a7c3f1a-2f66-5e55-b6ff-96597774aabb",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3a7c3f1a-2f66-5e55-b6ff-96597774aabb"
+  },
+  {
+    "number": "3.18.1.2.2.1",
+    "type": "rule",
+    "anchor": "rule-8ada70a6-7f4e-5e3f-8161-9b04a7cb414f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8ada70a6-7f4e-5e3f-8161-9b04a7cb414f"
+  },
+  {
+    "number": "3.18.1.2.2.2",
+    "type": "rule",
+    "anchor": "rule-25b85d7c-a82d-51f2-b647-6fcdf36b065e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-25b85d7c-a82d-51f2-b647-6fcdf36b065e"
+  },
+  {
+    "number": "3.18.1.2.3",
+    "type": "rule",
+    "anchor": "rule-62ba168b-9ec6-5f73-b46e-77325bd6f95d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-62ba168b-9ec6-5f73-b46e-77325bd6f95d"
+  },
+  {
+    "number": "3.18.1.2.3.1",
+    "type": "rule",
+    "anchor": "rule-da246517-0de9-57d5-8465-595fe2d054a3",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-da246517-0de9-57d5-8465-595fe2d054a3"
+  },
+  {
+    "number": "3.18.2",
+    "type": "rule",
+    "anchor": "rule-b9ba30bb-9705-51b9-96b6-e6dac8bf5538",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b9ba30bb-9705-51b9-96b6-e6dac8bf5538"
+  },
+  {
+    "number": "3.18.3",
+    "type": "rule",
+    "anchor": "rule-c79003f1-0da7-5ed5-a55a-803fee2a4a82",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c79003f1-0da7-5ed5-a55a-803fee2a4a82"
+  },
+  {
+    "number": "3.19",
+    "type": "rule",
+    "anchor": "rule-4733effd-6f53-51d1-9694-4616c5152384",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4733effd-6f53-51d1-9694-4616c5152384"
+  },
+  {
+    "number": "3.19.1",
+    "type": "rule",
+    "anchor": "rule-d9fa45dd-b611-5ba7-8b9a-15e4b72e1752",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d9fa45dd-b611-5ba7-8b9a-15e4b72e1752"
+  },
+  {
+    "number": "3.20",
+    "type": "rule",
+    "anchor": "rule-0667d8bc-c614-55a5-bd7d-ac8f7c6ab606",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0667d8bc-c614-55a5-bd7d-ac8f7c6ab606"
+  },
+  {
+    "number": "3.20.1",
+    "type": "rule",
+    "anchor": "rule-1187d288-b3b4-5928-91ef-2e9e03abdd94",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1187d288-b3b4-5928-91ef-2e9e03abdd94"
+  },
+  {
+    "number": "3.20.1.1",
+    "type": "rule",
+    "anchor": "rule-7dcfb3d2-37c0-5e7a-b04e-16d6c6cb4389",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-7dcfb3d2-37c0-5e7a-b04e-16d6c6cb4389"
+  },
+  {
+    "number": "3.20.1.2",
+    "type": "rule",
+    "anchor": "rule-4b10d283-1f0a-54f5-a615-d49864d99d8c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4b10d283-1f0a-54f5-a615-d49864d99d8c"
+  },
+  {
+    "number": "3.20.2",
+    "type": "rule",
+    "anchor": "rule-fae86c71-babf-52cd-be48-2f9b69a21f97",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-fae86c71-babf-52cd-be48-2f9b69a21f97"
+  },
+  {
+    "number": "3.20.3",
+    "type": "rule",
+    "anchor": "rule-19e2bce7-9557-5b13-b954-006a06dd48c9",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-19e2bce7-9557-5b13-b954-006a06dd48c9"
+  },
+  {
+    "number": "3.20.4",
+    "type": "rule",
+    "anchor": "rule-06a1b4c6-beb3-5bc8-bc91-e70569267e54",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-06a1b4c6-beb3-5bc8-bc91-e70569267e54"
+  },
+  {
+    "number": "3.20.5",
+    "type": "rule",
+    "anchor": "rule-45e8d3cc-cf6d-57a7-9217-9831722d552a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-45e8d3cc-cf6d-57a7-9217-9831722d552a"
+  },
+  {
+    "number": "3.20.5.1",
+    "type": "rule",
+    "anchor": "rule-52566d07-1183-5c21-8d09-a05d66ebe38b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-52566d07-1183-5c21-8d09-a05d66ebe38b"
+  },
+  {
+    "number": "3.20.5.2",
+    "type": "rule",
+    "anchor": "rule-04579643-2634-5c60-aa1b-986abd20d78a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-04579643-2634-5c60-aa1b-986abd20d78a"
+  },
+  {
+    "number": "3.20.6",
+    "type": "rule",
+    "anchor": "rule-04bbb785-d8bd-5072-af8f-da497c39b349",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-04bbb785-d8bd-5072-af8f-da497c39b349"
+  },
+  {
+    "number": "3.20.6.1",
+    "type": "rule",
+    "anchor": "rule-4766677d-3620-5ced-8bfb-d721f7bdb423",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4766677d-3620-5ced-8bfb-d721f7bdb423"
+  },
+  {
+    "number": "3.21",
+    "type": "rule",
+    "anchor": "rule-550c9024-e88c-5618-a7d0-7741f493f973",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-550c9024-e88c-5618-a7d0-7741f493f973"
+  },
+  {
+    "number": "3.21.1",
+    "type": "rule",
+    "anchor": "rule-2e468ec7-8329-5073-9576-b8e93c01a872",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2e468ec7-8329-5073-9576-b8e93c01a872"
+  },
+  {
+    "number": "4",
+    "type": "section",
+    "anchor": "rule-8f5f8271-4cf5-5f9a-9c92-a76084ed6eed",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8f5f8271-4cf5-5f9a-9c92-a76084ed6eed"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-f81ffcbf-b5c6-43c9-b507-24ae8e0f5932",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f81ffcbf-b5c6-43c9-b507-24ae8e0f5932"
+  },
+  {
+    "number": "4.1",
+    "type": "rule",
+    "anchor": "rule-e74240a6-d073-5525-87e3-aeb31e435d5c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e74240a6-d073-5525-87e3-aeb31e435d5c"
+  },
+  {
+    "number": "4.2",
+    "type": "rule",
+    "anchor": "rule-9c189daf-1607-5fe0-8f37-cccebfbd2e70",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9c189daf-1607-5fe0-8f37-cccebfbd2e70"
+  },
+  {
+    "number": "4.2.1",
+    "type": "rule",
+    "anchor": "rule-0f260c99-80e0-5566-a47a-fd883c064bd5",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0f260c99-80e0-5566-a47a-fd883c064bd5"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-3d3d2579-6a0c-566c-9159-9f4c32cc9f5b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3d3d2579-6a0c-566c-9159-9f4c32cc9f5b"
+  },
+  {
+    "number": "4.3",
+    "type": "rule",
+    "anchor": "rule-534c518f-bb19-5c5c-84d5-e3bde00675bf",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-534c518f-bb19-5c5c-84d5-e3bde00675bf"
+  },
+  {
+    "number": "4.3.1",
+    "type": "rule",
+    "anchor": "rule-6d095e7c-cb50-5bfb-aae9-6b2b4fe4df4a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6d095e7c-cb50-5bfb-aae9-6b2b4fe4df4a"
+  },
+  {
+    "number": "4.4",
+    "type": "rule",
+    "anchor": "rule-0d9d927a-909b-5e40-a8b1-353c6e36c90e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0d9d927a-909b-5e40-a8b1-353c6e36c90e"
+  },
+  {
+    "number": "4.4.1",
+    "type": "rule",
+    "anchor": "rule-5730b038-4ef1-520b-bc7f-f06a1ebb1aba",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5730b038-4ef1-520b-bc7f-f06a1ebb1aba"
+  },
+  {
+    "number": "4.4.2",
+    "type": "rule",
+    "anchor": "rule-98dc9a7d-1ab2-547f-9014-58f6132e5cd1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-98dc9a7d-1ab2-547f-9014-58f6132e5cd1"
+  },
+  {
+    "number": "4.5",
+    "type": "rule",
+    "anchor": "rule-0dae7b35-d43e-5acd-b416-1e2ec953b8ba",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0dae7b35-d43e-5acd-b416-1e2ec953b8ba"
+  },
+  {
+    "number": "4.5.1",
+    "type": "rule",
+    "anchor": "rule-062d171e-6694-5849-9a51-a3bbe949985c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-062d171e-6694-5849-9a51-a3bbe949985c"
+  },
+  {
+    "number": "4.5.2",
+    "type": "rule",
+    "anchor": "rule-02876568-bfa6-54dc-a023-8bf54e9d3d6a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-02876568-bfa6-54dc-a023-8bf54e9d3d6a"
+  },
+  {
+    "number": "4.5.3",
+    "type": "rule",
+    "anchor": "rule-d5a0dbd7-d443-5d18-95ca-3e97311b3e63",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d5a0dbd7-d443-5d18-95ca-3e97311b3e63"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-1cd8bea3-a2e2-52ee-b00a-7e4dfe3c5824",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1cd8bea3-a2e2-52ee-b00a-7e4dfe3c5824"
+  },
+  {
+    "number": "4.6",
+    "type": "rule",
+    "anchor": "rule-78332bcf-ffc5-5915-97a5-fc56e1538119",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-78332bcf-ffc5-5915-97a5-fc56e1538119"
+  },
+  {
+    "number": "4.7",
+    "type": "rule",
+    "anchor": "rule-8ee28507-5b5b-5f5f-865c-874849f1199e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8ee28507-5b5b-5f5f-865c-874849f1199e"
+  },
+  {
+    "number": "4.8",
+    "type": "rule",
+    "anchor": "rule-39c8f153-af32-590a-8eff-d6198195e720",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-39c8f153-af32-590a-8eff-d6198195e720"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-0dffbbac-b466-5f3f-9f66-0ff9ef80cd49",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0dffbbac-b466-5f3f-9f66-0ff9ef80cd49"
+  },
+  {
+    "number": "4.9",
+    "type": "rule",
+    "anchor": "rule-ee725a5f-cd63-5bf6-abec-4d077f5d8694",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ee725a5f-cd63-5bf6-abec-4d077f5d8694"
+  },
+  {
+    "number": "4.10",
+    "type": "rule",
+    "anchor": "rule-23a1586b-0ed0-5848-9557-163ab0a8e2e1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-23a1586b-0ed0-5848-9557-163ab0a8e2e1"
+  },
+  {
+    "number": "4.10.1",
+    "type": "rule",
+    "anchor": "rule-a31b06c0-0c9c-5d45-b6b2-29da9338893d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a31b06c0-0c9c-5d45-b6b2-29da9338893d"
+  },
+  {
+    "number": "4.10.2",
+    "type": "rule",
+    "anchor": "rule-0c40411a-c512-58d2-b46b-d6e067e712ac",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0c40411a-c512-58d2-b46b-d6e067e712ac"
+  },
+  {
+    "number": "4.10.3",
+    "type": "rule",
+    "anchor": "rule-0f617f28-f590-52fe-b4ba-6dc4b0fdc762",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0f617f28-f590-52fe-b4ba-6dc4b0fdc762"
+  },
+  {
+    "number": "4.11",
+    "type": "rule",
+    "anchor": "rule-01c2ebb3-9041-54c4-a9b7-050ec2d4d90f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-01c2ebb3-9041-54c4-a9b7-050ec2d4d90f"
+  },
+  {
+    "number": "4.11.1",
+    "type": "rule",
+    "anchor": "rule-94a99339-2032-58a5-9c48-eb432917a0ca",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-94a99339-2032-58a5-9c48-eb432917a0ca"
+  },
+  {
+    "number": "4.11.2",
+    "type": "rule",
+    "anchor": "rule-2a744c0b-eff5-5a50-b3f2-4c3422fddb61",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2a744c0b-eff5-5a50-b3f2-4c3422fddb61"
+  },
+  {
+    "number": "4.11.3",
+    "type": "rule",
+    "anchor": "rule-67bc13d2-b858-5e40-9b96-6661a5e349ea",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-67bc13d2-b858-5e40-9b96-6661a5e349ea"
+  },
+  {
+    "number": "4.11.3.1",
+    "type": "rule",
+    "anchor": "rule-426ee104-576a-5767-a1ee-54898592c3d7",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-426ee104-576a-5767-a1ee-54898592c3d7"
+  },
+  {
+    "number": "4.11.3.2",
+    "type": "rule",
+    "anchor": "rule-70eb0b07-06f7-5cac-9cab-fe9cae84fdee",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-70eb0b07-06f7-5cac-9cab-fe9cae84fdee"
+  },
+  {
+    "number": "4.12",
+    "type": "rule",
+    "anchor": "rule-b6d7e5f9-bd3e-5b7c-908c-5825037bbe05",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b6d7e5f9-bd3e-5b7c-908c-5825037bbe05"
+  },
+  {
+    "number": "4.12.1",
+    "type": "rule",
+    "anchor": "rule-b618ed26-6eba-5017-b371-919c26678067",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b618ed26-6eba-5017-b371-919c26678067"
+  },
+  {
+    "number": "4.12.2",
+    "type": "rule",
+    "anchor": "rule-3721dc50-41bb-54bb-9dc9-87508cd9c986",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3721dc50-41bb-54bb-9dc9-87508cd9c986"
+  },
+  {
+    "number": "4.12.3",
+    "type": "rule",
+    "anchor": "rule-c9841503-7b08-5b96-a0df-e4453f6fd0e1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c9841503-7b08-5b96-a0df-e4453f6fd0e1"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-54ed1f0e-09d0-5aaf-b2ad-212183c73bda",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-54ed1f0e-09d0-5aaf-b2ad-212183c73bda"
+  },
+  {
+    "number": "4.13",
+    "type": "rule",
+    "anchor": "rule-0d1a31bb-0322-5335-89c0-bdc17a2e3eb5",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0d1a31bb-0322-5335-89c0-bdc17a2e3eb5"
+  },
+  {
+    "number": "4.14",
+    "type": "rule",
+    "anchor": "rule-306c1910-50d5-5622-8a0d-46751d17f933",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-306c1910-50d5-5622-8a0d-46751d17f933"
+  },
+  {
+    "number": "4.14.1",
+    "type": "rule",
+    "anchor": "rule-8ebf7c75-f1dd-59cd-b2c6-f2cc65553ef9",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8ebf7c75-f1dd-59cd-b2c6-f2cc65553ef9"
+  },
+  {
+    "number": "4.14.2",
+    "type": "rule",
+    "anchor": "rule-e13cfcdf-2f8f-5016-8b0e-4f01e04a7887",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e13cfcdf-2f8f-5016-8b0e-4f01e04a7887"
+  },
+  {
+    "number": "5",
+    "type": "section",
+    "anchor": "rule-3f22994a-0339-5f20-9f10-6cf1f8113110",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3f22994a-0339-5f20-9f10-6cf1f8113110"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-0fd6cfc8-0013-453a-8824-a9a7154bd637",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0fd6cfc8-0013-453a-8824-a9a7154bd637"
+  },
+  {
+    "number": "5.1",
+    "type": "rule",
+    "anchor": "rule-3fa6413c-1fd9-5a80-b652-e20202e45447",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3fa6413c-1fd9-5a80-b652-e20202e45447"
+  },
+  {
+    "number": "5.2",
+    "type": "rule",
+    "anchor": "rule-a145815e-e168-5aa8-a024-e550a9143f36",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a145815e-e168-5aa8-a024-e550a9143f36"
+  },
+  {
+    "number": "5.2.1",
+    "type": "rule",
+    "anchor": "rule-0eab2ad8-de63-50ad-ad14-8243c2eba3ff",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0eab2ad8-de63-50ad-ad14-8243c2eba3ff"
+  },
+  {
+    "number": "5.2.1.1",
+    "type": "rule",
+    "anchor": "rule-6bf6ed7e-5a2b-58cb-af14-9b86f9ea2dd8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6bf6ed7e-5a2b-58cb-af14-9b86f9ea2dd8"
+  },
+  {
+    "number": "5.3",
+    "type": "rule",
+    "anchor": "rule-c1d76c82-d276-5adb-b899-9ffda2d2439d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c1d76c82-d276-5adb-b899-9ffda2d2439d"
+  },
+  {
+    "number": "5.3.1",
+    "type": "rule",
+    "anchor": "rule-0b417e30-a18f-5b88-a3ef-146fc46f41f2",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0b417e30-a18f-5b88-a3ef-146fc46f41f2"
+  },
+  {
+    "number": "5.3.1.1",
+    "type": "rule",
+    "anchor": "rule-02e70014-982b-59c7-9592-05651bd57d28",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-02e70014-982b-59c7-9592-05651bd57d28"
+  },
+  {
+    "number": "5.3.1.2",
+    "type": "rule",
+    "anchor": "rule-f17ce79a-2ad9-5dfa-8251-0dfe74633b01",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f17ce79a-2ad9-5dfa-8251-0dfe74633b01"
+  },
+  {
+    "number": "5.3.2",
+    "type": "rule",
+    "anchor": "rule-3fae03cf-a089-553e-91d3-88e0694e138c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3fae03cf-a089-553e-91d3-88e0694e138c"
+  },
+  {
+    "number": "5.3.2.1",
+    "type": "rule",
+    "anchor": "rule-d4f624ca-ae83-5f5c-93bf-9210664e1eb1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d4f624ca-ae83-5f5c-93bf-9210664e1eb1"
+  },
+  {
+    "number": "5.3.2.2",
+    "type": "rule",
+    "anchor": "rule-c913d344-1004-5494-ba08-ea1e391ac393",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c913d344-1004-5494-ba08-ea1e391ac393"
+  },
+  {
+    "number": "5.3.2.3",
+    "type": "rule",
+    "anchor": "rule-bb642852-5c79-52d9-b226-62ebb6fbd7d1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-bb642852-5c79-52d9-b226-62ebb6fbd7d1"
+  },
+  {
+    "number": "5.3.2.4",
+    "type": "rule",
+    "anchor": "rule-ddce507a-89b2-500d-8580-a64165edbd70",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ddce507a-89b2-500d-8580-a64165edbd70"
+  },
+  {
+    "number": "5.3.2.4.1",
+    "type": "rule",
+    "anchor": "rule-d0caeae7-fb76-58e1-b982-da590e7d25b6",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d0caeae7-fb76-58e1-b982-da590e7d25b6"
+  },
+  {
+    "number": "5.3.2.5",
+    "type": "rule",
+    "anchor": "rule-c3a1ca44-6594-57c9-a7a1-748996cef500",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c3a1ca44-6594-57c9-a7a1-748996cef500"
+  },
+  {
+    "number": "5.3.2.6",
+    "type": "rule",
+    "anchor": "rule-af46dd89-397c-52eb-ac13-4ba2a85663d2",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-af46dd89-397c-52eb-ac13-4ba2a85663d2"
+  },
+  {
+    "number": "5.4",
+    "type": "rule",
+    "anchor": "rule-a953e9e2-9ed4-528c-98ab-7ced3fbe957f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a953e9e2-9ed4-528c-98ab-7ced3fbe957f"
+  },
+  {
+    "number": "5.4.1",
+    "type": "rule",
+    "anchor": "rule-942141c1-0120-58cb-bb15-84dfd24f8064",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-942141c1-0120-58cb-bb15-84dfd24f8064"
+  },
+  {
+    "number": "5.4.2",
+    "type": "rule",
+    "anchor": "rule-ccead848-2ed7-5089-ab6c-e1ab6bc3fce3",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ccead848-2ed7-5089-ab6c-e1ab6bc3fce3"
+  },
+  {
+    "number": "5.4.3",
+    "type": "rule",
+    "anchor": "rule-128e0b95-90c5-53e9-8e8b-3c10ca4bc6bf",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-128e0b95-90c5-53e9-8e8b-3c10ca4bc6bf"
+  },
+  {
+    "number": "5.4.4",
+    "type": "rule",
+    "anchor": "rule-1289fd5b-c8bd-5be0-9028-726bd54eebc3",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1289fd5b-c8bd-5be0-9028-726bd54eebc3"
+  },
+  {
+    "number": "5.4.5",
+    "type": "rule",
+    "anchor": "rule-9d56df81-90f9-5c60-ac63-497a5abb98e5",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9d56df81-90f9-5c60-ac63-497a5abb98e5"
+  },
+  {
+    "number": "5.5",
+    "type": "rule",
+    "anchor": "rule-27c60c5d-8544-52cf-97e2-4321190e5b0f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-27c60c5d-8544-52cf-97e2-4321190e5b0f"
+  },
+  {
+    "number": "5.5.1",
+    "type": "rule",
+    "anchor": "rule-726fdca4-9551-5f02-9966-b92103f31eda",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-726fdca4-9551-5f02-9966-b92103f31eda"
+  },
+  {
+    "number": "5.5.2",
+    "type": "rule",
+    "anchor": "rule-a5feb042-8ee5-5aa9-be45-85f4a72c3e31",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a5feb042-8ee5-5aa9-be45-85f4a72c3e31"
+  },
+  {
+    "number": "5.5.3",
+    "type": "rule",
+    "anchor": "rule-02784109-6c9a-5901-9397-e1b692e6dfc9",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-02784109-6c9a-5901-9397-e1b692e6dfc9"
+  },
+  {
+    "number": "5.5.4",
+    "type": "rule",
+    "anchor": "rule-b42d2da5-445c-5312-ad16-f1a33d33a943",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b42d2da5-445c-5312-ad16-f1a33d33a943"
+  },
+  {
+    "number": "5.5.5",
+    "type": "rule",
+    "anchor": "rule-d0dc97cb-4add-5620-b017-9ee5ceae181b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d0dc97cb-4add-5620-b017-9ee5ceae181b"
+  },
+  {
+    "number": "5.5.6",
+    "type": "rule",
+    "anchor": "rule-9b9cf876-68f0-5e6e-af32-b9d1fd40f694",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9b9cf876-68f0-5e6e-af32-b9d1fd40f694"
+  },
+  {
+    "number": "5.5.7",
+    "type": "rule",
+    "anchor": "rule-48b4c9c0-ec6c-53b1-84f5-602272b9cfeb",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-48b4c9c0-ec6c-53b1-84f5-602272b9cfeb"
+  },
+  {
+    "number": "5.5.8",
+    "type": "rule",
+    "anchor": "rule-c1b1217c-fde6-52af-8285-b26c23daa90a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c1b1217c-fde6-52af-8285-b26c23daa90a"
+  },
+  {
+    "number": "5.6",
+    "type": "rule",
+    "anchor": "rule-0641ee10-93bb-5ea9-a1a6-cf5e956c5d1b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0641ee10-93bb-5ea9-a1a6-cf5e956c5d1b"
+  },
+  {
+    "number": "5.6.1",
+    "type": "rule",
+    "anchor": "rule-23da9c7c-3fe6-55e7-9bfd-eeb2b7498740",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-23da9c7c-3fe6-55e7-9bfd-eeb2b7498740"
+  },
+  {
+    "number": "5.6.2",
+    "type": "rule",
+    "anchor": "rule-43c016c7-439d-5b81-b037-2f1806b92465",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-43c016c7-439d-5b81-b037-2f1806b92465"
+  },
+  {
+    "number": "5.6.2.1",
+    "type": "rule",
+    "anchor": "rule-9d23217e-a3b1-50a4-8c3e-1ce6dcc3d678",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9d23217e-a3b1-50a4-8c3e-1ce6dcc3d678"
+  },
+  {
+    "number": "5.6.2.2",
+    "type": "rule",
+    "anchor": "rule-6341a4a2-c0d8-5ed0-afbc-ce5e65d5dd4b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6341a4a2-c0d8-5ed0-afbc-ce5e65d5dd4b"
+  },
+  {
+    "number": "5.6.3",
+    "type": "rule",
+    "anchor": "rule-ec7ae389-a823-516c-80de-4e49d9df41d8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ec7ae389-a823-516c-80de-4e49d9df41d8"
+  },
+  {
+    "number": "5.6.4",
+    "type": "rule",
+    "anchor": "rule-a0721db5-9be8-5468-ad9a-34da589830b9",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a0721db5-9be8-5468-ad9a-34da589830b9"
+  },
+  {
+    "number": "5.6.5",
+    "type": "rule",
+    "anchor": "rule-587017a4-f1bc-5d30-a90b-37327937aa6a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-587017a4-f1bc-5d30-a90b-37327937aa6a"
+  },
+  {
+    "number": "5.7",
+    "type": "rule",
+    "anchor": "rule-6f72928e-c185-5863-89c7-5cc91b8f85c7",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6f72928e-c185-5863-89c7-5cc91b8f85c7"
+  },
+  {
+    "number": "5.7.1",
+    "type": "rule",
+    "anchor": "rule-1b5425ea-beba-5715-8435-52cebf536a39",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1b5425ea-beba-5715-8435-52cebf536a39"
+  },
+  {
+    "number": "5.7.2",
+    "type": "rule",
+    "anchor": "rule-52c96470-9a30-5d2c-a6d2-d250e5c7949e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-52c96470-9a30-5d2c-a6d2-d250e5c7949e"
+  },
+  {
+    "number": "5.7.2.1",
+    "type": "rule",
+    "anchor": "rule-fcc1c514-3813-5c20-9059-32b34dab6bad",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-fcc1c514-3813-5c20-9059-32b34dab6bad"
+  },
+  {
+    "number": "5.7.2.2",
+    "type": "rule",
+    "anchor": "rule-af73c842-7bae-561d-ac24-fe22e521530e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-af73c842-7bae-561d-ac24-fe22e521530e"
+  },
+  {
+    "number": "5.7.3",
+    "type": "rule",
+    "anchor": "rule-6c068149-90de-5c83-9bd6-85d7f1ead976",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6c068149-90de-5c83-9bd6-85d7f1ead976"
+  },
+  {
+    "number": "5.7.4",
+    "type": "rule",
+    "anchor": "rule-fd630f9d-1348-5969-806e-26beb788fa40",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-fd630f9d-1348-5969-806e-26beb788fa40"
+  },
+  {
+    "number": "5.7.4.1",
+    "type": "rule",
+    "anchor": "rule-aec011e4-5164-521b-91de-78eb79a4c2c8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-aec011e4-5164-521b-91de-78eb79a4c2c8"
+  },
+  {
+    "number": "5.7.4.2",
+    "type": "rule",
+    "anchor": "rule-cdbf436f-cd54-5187-bc2d-64cf2d45ebc8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-cdbf436f-cd54-5187-bc2d-64cf2d45ebc8"
+  },
+  {
+    "number": "5.7.4.3",
+    "type": "rule",
+    "anchor": "rule-9911567f-52b3-5927-8e5b-49995d8b1aaa",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9911567f-52b3-5927-8e5b-49995d8b1aaa"
+  },
+  {
+    "number": "5.7.5",
+    "type": "rule",
+    "anchor": "rule-bee49910-dec7-5433-bcb5-3993caaa9bcd",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-bee49910-dec7-5433-bcb5-3993caaa9bcd"
+  },
+  {
+    "number": "5.7.6",
+    "type": "rule",
+    "anchor": "rule-e9ec6b38-8b27-56ac-8f14-e85768aef87e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e9ec6b38-8b27-56ac-8f14-e85768aef87e"
+  },
+  {
+    "number": "5.7.7",
+    "type": "rule",
+    "anchor": "rule-c2771db4-1d91-5573-89bb-3c049010f82d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c2771db4-1d91-5573-89bb-3c049010f82d"
+  },
+  {
+    "number": "5.8",
+    "type": "rule",
+    "anchor": "rule-5753f17e-b02c-5b63-87e7-60fb27880068",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5753f17e-b02c-5b63-87e7-60fb27880068"
+  },
+  {
+    "number": "5.8.1",
+    "type": "rule",
+    "anchor": "rule-ea5569e1-b750-50c5-9210-cc92aaa38499",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ea5569e1-b750-50c5-9210-cc92aaa38499"
+  },
+  {
+    "number": "5.8.1.1",
+    "type": "rule",
+    "anchor": "rule-50deb7e0-b160-558c-b242-0af2ca3c170d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-50deb7e0-b160-558c-b242-0af2ca3c170d"
+  },
+  {
+    "number": "5.8.1.2",
+    "type": "rule",
+    "anchor": "rule-b4dc6014-e235-57f2-94de-1361b1507765",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b4dc6014-e235-57f2-94de-1361b1507765"
+  },
+  {
+    "number": "5.8.1.3",
+    "type": "rule",
+    "anchor": "rule-ae2da853-c101-5a3d-b7c4-66c353c3c2f4",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ae2da853-c101-5a3d-b7c4-66c353c3c2f4"
+  },
+  {
+    "number": "5.8.2",
+    "type": "rule",
+    "anchor": "rule-9b15d850-9e64-5829-ac15-19c5033fedad",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9b15d850-9e64-5829-ac15-19c5033fedad"
+  },
+  {
+    "number": "5.8.2.1",
+    "type": "rule",
+    "anchor": "rule-79225935-37fd-5a56-acc2-844b509e034d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-79225935-37fd-5a56-acc2-844b509e034d"
+  },
+  {
+    "number": "5.8.2.2",
+    "type": "rule",
+    "anchor": "rule-559cfeca-661c-5e16-87b7-6a1f3fa50e1c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-559cfeca-661c-5e16-87b7-6a1f3fa50e1c"
+  },
+  {
+    "number": "5.8.2.3",
+    "type": "rule",
+    "anchor": "rule-6ad6d626-f2e5-50d4-bd15-34e7478053b6",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6ad6d626-f2e5-50d4-bd15-34e7478053b6"
+  },
+  {
+    "number": "5.8.3",
+    "type": "rule",
+    "anchor": "rule-61c9d6d2-ed96-5949-9e13-bd6ec1045b00",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-61c9d6d2-ed96-5949-9e13-bd6ec1045b00"
+  },
+  {
+    "number": "5.8.3.1",
+    "type": "rule",
+    "anchor": "rule-dcf3c9bb-71a4-5d4b-b818-23db77de6b6a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-dcf3c9bb-71a4-5d4b-b818-23db77de6b6a"
+  },
+  {
+    "number": "5.8.4",
+    "type": "rule",
+    "anchor": "rule-9dab3bb8-bd28-5c07-b321-3a49d5efefa2",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9dab3bb8-bd28-5c07-b321-3a49d5efefa2"
+  },
+  {
+    "number": "5.9",
+    "type": "rule",
+    "anchor": "rule-1135bc55-1aa7-5667-beb2-33c4d60a26ce",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1135bc55-1aa7-5667-beb2-33c4d60a26ce"
+  },
+  {
+    "number": "5.9.1",
+    "type": "rule",
+    "anchor": "rule-966eb280-670e-569b-84dd-c2e83e8fdbb9",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-966eb280-670e-569b-84dd-c2e83e8fdbb9"
+  },
+  {
+    "number": "5.9.2",
+    "type": "rule",
+    "anchor": "rule-d739f271-7040-5972-acaf-5100ee190e3d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d739f271-7040-5972-acaf-5100ee190e3d"
+  },
+  {
+    "number": "5.9.3",
+    "type": "rule",
+    "anchor": "rule-3b558886-f5f3-55c0-b3fd-91b72e7d798d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3b558886-f5f3-55c0-b3fd-91b72e7d798d"
+  },
+  {
+    "number": "5.9.4",
+    "type": "rule",
+    "anchor": "rule-a6ed25a5-31d7-5cfc-90dc-a12494daab1b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a6ed25a5-31d7-5cfc-90dc-a12494daab1b"
+  },
+  {
+    "number": "5.9.4.1",
+    "type": "rule",
+    "anchor": "rule-6d9e701b-0a53-5260-83eb-a0b99a754a8c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6d9e701b-0a53-5260-83eb-a0b99a754a8c"
+  },
+  {
+    "number": "5.9.4.2",
+    "type": "rule",
+    "anchor": "rule-ab228c3a-b6c5-55f1-82fc-e55635dd69c4",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ab228c3a-b6c5-55f1-82fc-e55635dd69c4"
+  },
+  {
+    "number": "5.10",
+    "type": "rule",
+    "anchor": "rule-ba156dac-127f-5576-908b-d3f6b6d9741d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ba156dac-127f-5576-908b-d3f6b6d9741d"
+  },
+  {
+    "number": "5.10.1",
+    "type": "rule",
+    "anchor": "rule-9fc5b141-264f-55a3-8352-3e1139ac1718",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9fc5b141-264f-55a3-8352-3e1139ac1718"
+  },
+  {
+    "number": "5.10.2",
+    "type": "rule",
+    "anchor": "rule-4e727c16-86bd-5a97-bcc4-34cff2bd4828",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4e727c16-86bd-5a97-bcc4-34cff2bd4828"
+  },
+  {
+    "number": "5.10.3",
+    "type": "rule",
+    "anchor": "rule-de3b2a91-24b7-582d-919a-6f342f50cbc9",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-de3b2a91-24b7-582d-919a-6f342f50cbc9"
+  },
+  {
+    "number": "5.10.4",
+    "type": "rule",
+    "anchor": "rule-3730a421-84c3-502d-9330-c176bae60646",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3730a421-84c3-502d-9330-c176bae60646"
+  },
+  {
+    "number": "5.10.5",
+    "type": "rule",
+    "anchor": "rule-ac022bc1-b237-58bf-a8a2-f0289f2638bc",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ac022bc1-b237-58bf-a8a2-f0289f2638bc"
+  },
+  {
+    "number": "5.11",
+    "type": "rule",
+    "anchor": "rule-efa5818d-11a1-56b8-a97f-d4a863971633",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-efa5818d-11a1-56b8-a97f-d4a863971633"
+  },
+  {
+    "number": "5.11.1",
+    "type": "rule",
+    "anchor": "rule-f3b859ea-8bc9-579d-a00e-a99470902e54",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f3b859ea-8bc9-579d-a00e-a99470902e54"
+  },
+  {
+    "number": "5.11.2",
+    "type": "rule",
+    "anchor": "rule-db1f6142-8ecc-56ba-b229-70a68632e8fe",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-db1f6142-8ecc-56ba-b229-70a68632e8fe"
+  },
+  {
+    "number": "5.11.3",
+    "type": "rule",
+    "anchor": "rule-cd3bdbb7-37d3-52d5-83f0-0eede04e8844",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-cd3bdbb7-37d3-52d5-83f0-0eede04e8844"
+  },
+  {
+    "number": "5.11.4",
+    "type": "rule",
+    "anchor": "rule-bee13a24-a235-51cf-88a8-5baa717b2329",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-bee13a24-a235-51cf-88a8-5baa717b2329"
+  },
+  {
+    "number": "5.11.4.1",
+    "type": "rule",
+    "anchor": "rule-a41c1403-cfba-5582-9148-26395d205219",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a41c1403-cfba-5582-9148-26395d205219"
+  },
+  {
+    "number": "5.11.4.2",
+    "type": "rule",
+    "anchor": "rule-db33c93f-f6fb-5591-af98-790d3e2a915b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-db33c93f-f6fb-5591-af98-790d3e2a915b"
+  },
+  {
+    "number": "5.12",
+    "type": "rule",
+    "anchor": "rule-857d5577-9680-579d-824c-a7f8494145d0",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-857d5577-9680-579d-824c-a7f8494145d0"
+  },
+  {
+    "number": "5.12.1",
+    "type": "rule",
+    "anchor": "rule-2f3ea81c-0698-5bbe-9289-1c3f67b06244",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2f3ea81c-0698-5bbe-9289-1c3f67b06244"
+  },
+  {
+    "number": "5.12.2",
+    "type": "rule",
+    "anchor": "rule-d1962add-72a0-51c1-9049-7850add25cf8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d1962add-72a0-51c1-9049-7850add25cf8"
+  },
+  {
+    "number": "5.12.3",
+    "type": "rule",
+    "anchor": "rule-a1b10cca-0b07-51b1-b9b8-33994007890f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a1b10cca-0b07-51b1-b9b8-33994007890f"
+  },
+  {
+    "number": "5.12.4",
+    "type": "rule",
+    "anchor": "rule-eb168021-b54b-51d0-8688-6e1a424d89f8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-eb168021-b54b-51d0-8688-6e1a424d89f8"
+  },
+  {
+    "number": "5.12.4.1",
+    "type": "rule",
+    "anchor": "rule-b7776032-dcbc-56cc-be5e-f616df749ced",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b7776032-dcbc-56cc-be5e-f616df749ced"
+  },
+  {
+    "number": "5.13",
+    "type": "rule",
+    "anchor": "rule-52d7f22c-807b-552f-afa9-bfd16bff8103",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-52d7f22c-807b-552f-afa9-bfd16bff8103"
+  },
+  {
+    "number": "5.13.1",
+    "type": "rule",
+    "anchor": "rule-4e0bbb2e-e2e8-5ea4-a58a-ba465e0440ec",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4e0bbb2e-e2e8-5ea4-a58a-ba465e0440ec"
+  },
+  {
+    "number": "5.13.2",
+    "type": "rule",
+    "anchor": "rule-bf3a5d80-4b4c-5baa-ab94-7d2f3977bce6",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-bf3a5d80-4b4c-5baa-ab94-7d2f3977bce6"
+  },
+  {
+    "number": "5.13.2.1",
+    "type": "rule",
+    "anchor": "rule-0afe1f32-1a5e-5979-bfef-766cb75a818a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0afe1f32-1a5e-5979-bfef-766cb75a818a"
+  },
+  {
+    "number": "5.13.2.2",
+    "type": "rule",
+    "anchor": "rule-8944aa32-fa25-5ab3-ada9-d31f2debd885",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8944aa32-fa25-5ab3-ada9-d31f2debd885"
+  },
+  {
+    "number": "6",
+    "type": "section",
+    "anchor": "rule-d2d18e0a-f330-58d5-bc89-217431be0ac0",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d2d18e0a-f330-58d5-bc89-217431be0ac0"
+  },
+  {
+    "number": "6.1",
+    "type": "rule",
+    "anchor": "rule-fb9bb5b1-e4a7-5840-95bb-75521911544e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-fb9bb5b1-e4a7-5840-95bb-75521911544e"
+  },
+  {
+    "number": "6.1.1",
+    "type": "rule",
+    "anchor": "rule-e2dfc498-1087-5daa-8a44-235fb2f0a010",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e2dfc498-1087-5daa-8a44-235fb2f0a010"
+  },
+  {
+    "number": "6.1.2",
+    "type": "rule",
+    "anchor": "rule-4c01a79b-9004-5c6d-b59c-b258dd3c6565",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4c01a79b-9004-5c6d-b59c-b258dd3c6565"
+  },
+  {
+    "number": "6.1.3",
+    "type": "rule",
+    "anchor": "rule-ae6a9e69-a32e-5dc6-aa7e-a8283bf881fc",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ae6a9e69-a32e-5dc6-aa7e-a8283bf881fc"
+  },
+  {
+    "number": "6.1.4",
+    "type": "rule",
+    "anchor": "rule-a284830d-1380-5879-8bb7-dafcd069ffeb",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a284830d-1380-5879-8bb7-dafcd069ffeb"
+  },
+  {
+    "number": "6.2",
+    "type": "rule",
+    "anchor": "rule-05419959-6d95-5739-bf4b-67e094a3d459",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-05419959-6d95-5739-bf4b-67e094a3d459"
+  },
+  {
+    "number": "6.2.1",
+    "type": "rule",
+    "anchor": "rule-624496c7-9c8b-5c6d-8130-1f6607ea2edd",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-624496c7-9c8b-5c6d-8130-1f6607ea2edd"
+  },
+  {
+    "number": "6.2.2",
+    "type": "rule",
+    "anchor": "rule-0b25ce1d-51de-526b-a5fb-41da1300b76e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0b25ce1d-51de-526b-a5fb-41da1300b76e"
+  },
+  {
+    "number": "6.2.3",
+    "type": "rule",
+    "anchor": "rule-e82ba34a-5128-5f4f-b17c-b8137fb90391",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e82ba34a-5128-5f4f-b17c-b8137fb90391"
+  },
+  {
+    "number": "6.2.4",
+    "type": "rule",
+    "anchor": "rule-edb6567b-9c38-43e3-ad2e-48550f8a6fa4",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-edb6567b-9c38-43e3-ad2e-48550f8a6fa4"
+  },
+  {
+    "number": "6.2.5",
+    "type": "rule",
+    "anchor": "rule-a182e7aa-fb78-536f-b6dd-1810e74d5d42",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a182e7aa-fb78-536f-b6dd-1810e74d5d42"
+  },
+  {
+    "number": "6.2.6",
+    "type": "rule",
+    "anchor": "rule-3e87fc78-0ce0-54ea-8b25-80bafcdab6a1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3e87fc78-0ce0-54ea-8b25-80bafcdab6a1"
+  },
+  {
+    "number": "6.3",
+    "type": "rule",
+    "anchor": "rule-5f658b1f-3900-5309-8f5e-1229a0fdf179",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5f658b1f-3900-5309-8f5e-1229a0fdf179"
+  },
+  {
+    "number": "6.3.1",
+    "type": "rule",
+    "anchor": "rule-5db8ecc8-ada2-50ca-b91f-0896969ef3f2",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5db8ecc8-ada2-50ca-b91f-0896969ef3f2"
+  },
+  {
+    "number": "6.3.2",
+    "type": "rule",
+    "anchor": "rule-c0eb3d4a-d5ec-59ae-8526-b0db516f8459",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c0eb3d4a-d5ec-59ae-8526-b0db516f8459"
+  },
+  {
+    "number": "6.3.3",
+    "type": "rule",
+    "anchor": "rule-7678b19e-d743-5c72-ab6a-4ef87c765687",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-7678b19e-d743-5c72-ab6a-4ef87c765687"
+  },
+  {
+    "number": "6.4",
+    "type": "rule",
+    "anchor": "rule-a931ba2a-1747-59a5-b9f1-8792fb434319",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a931ba2a-1747-59a5-b9f1-8792fb434319"
+  },
+  {
+    "number": "6.4.1",
+    "type": "rule",
+    "anchor": "rule-1ea2051c-027f-5182-a2c1-c44da8d632b4",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1ea2051c-027f-5182-a2c1-c44da8d632b4"
+  },
+  {
+    "number": "6.4.2",
+    "type": "rule",
+    "anchor": "rule-e0edecd9-748f-5e35-b3ae-8c7793d70ee4",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e0edecd9-748f-5e35-b3ae-8c7793d70ee4"
+  },
+  {
+    "number": "6.4.3",
+    "type": "rule",
+    "anchor": "rule-633a0b67-9bfc-507f-9bbb-6123bb036511",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-633a0b67-9bfc-507f-9bbb-6123bb036511"
+  },
+  {
+    "number": "6.4.4",
+    "type": "rule",
+    "anchor": "rule-0d6b3504-8e3b-5f1a-b6e0-9501f7c49946",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0d6b3504-8e3b-5f1a-b6e0-9501f7c49946"
+  },
+  {
+    "number": "6.4.5",
+    "type": "rule",
+    "anchor": "rule-75ea0556-9d24-5528-a09a-e0b9922047f8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-75ea0556-9d24-5528-a09a-e0b9922047f8"
+  },
+  {
+    "number": "6.5",
+    "type": "rule",
+    "anchor": "rule-29131322-116a-5fb5-bfc3-a565bb03cfbb",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-29131322-116a-5fb5-bfc3-a565bb03cfbb"
+  },
+  {
+    "number": "6.5.1",
+    "type": "rule",
+    "anchor": "rule-e1cef856-06f8-5abf-b580-8222750cf30e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e1cef856-06f8-5abf-b580-8222750cf30e"
+  },
+  {
+    "number": "6.6",
+    "type": "rule",
+    "anchor": "rule-54dbb891-30b3-5518-a217-3e03a41bbd5d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-54dbb891-30b3-5518-a217-3e03a41bbd5d"
+  },
+  {
+    "number": "6.6.1",
+    "type": "rule",
+    "anchor": "rule-ce1fcf3a-a170-5ad8-ad1e-8b214bc9434e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ce1fcf3a-a170-5ad8-ad1e-8b214bc9434e"
+  },
+  {
+    "number": "6.6.2",
+    "type": "rule",
+    "anchor": "rule-6e219c90-99be-5770-8185-eb384bbb2c2e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6e219c90-99be-5770-8185-eb384bbb2c2e"
+  },
+  {
+    "number": "6.7",
+    "type": "rule",
+    "anchor": "rule-5d44d437-09ec-5c19-aac8-72c32e407825",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5d44d437-09ec-5c19-aac8-72c32e407825"
+  },
+  {
+    "number": "6.7.1",
+    "type": "rule",
+    "anchor": "rule-e2a7b231-e03e-5e5a-beab-bf9373e8b324",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e2a7b231-e03e-5e5a-beab-bf9373e8b324"
+  },
+  {
+    "number": "6.7.1.1",
+    "type": "rule",
+    "anchor": "rule-f4b1641f-4a32-5bda-b4e6-d793fabecda7",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f4b1641f-4a32-5bda-b4e6-d793fabecda7"
+  },
+  {
+    "number": "6.7.1.2",
+    "type": "rule",
+    "anchor": "rule-227a404b-6678-5856-b080-573301433053",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-227a404b-6678-5856-b080-573301433053"
+  },
+  {
+    "number": "6.7.2",
+    "type": "rule",
+    "anchor": "rule-649172e3-4466-511d-8ef7-e145d518d10c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-649172e3-4466-511d-8ef7-e145d518d10c"
+  },
+  {
+    "number": "6.7.2.1",
+    "type": "rule",
+    "anchor": "rule-88718bc9-ef96-5b30-aa73-5bec51efd1d5",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-88718bc9-ef96-5b30-aa73-5bec51efd1d5"
+  },
+  {
+    "number": "6.7.2.2",
+    "type": "rule",
+    "anchor": "rule-6a8d7147-98f5-597c-a211-127962805fe4",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6a8d7147-98f5-597c-a211-127962805fe4"
+  },
+  {
+    "number": "6.7.2.2.1",
+    "type": "rule",
+    "anchor": "rule-72a51d78-d7b0-5df1-b893-2dc09409f06f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-72a51d78-d7b0-5df1-b893-2dc09409f06f"
+  },
+  {
+    "number": "6.7.2.3",
+    "type": "rule",
+    "anchor": "rule-b5217008-0f1b-54d1-b33c-bfc829a24856",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b5217008-0f1b-54d1-b33c-bfc829a24856"
+  },
+  {
+    "number": "6.7.3",
+    "type": "rule",
+    "anchor": "rule-7ed96159-955d-5d00-b8a8-4e0167603b43",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-7ed96159-955d-5d00-b8a8-4e0167603b43"
+  },
+  {
+    "number": "6.7.4",
+    "type": "rule",
+    "anchor": "rule-e997f405-24ce-561e-a322-c446f928afcc",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e997f405-24ce-561e-a322-c446f928afcc"
+  },
+  {
+    "number": "6.7.5",
+    "type": "rule",
+    "anchor": "rule-05ace379-7e02-56c7-a280-e3558952944c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-05ace379-7e02-56c7-a280-e3558952944c"
+  },
+  {
+    "number": "7",
+    "type": "section",
+    "anchor": "rule-549d0f31-0614-58c3-9646-2a5c13ff4adb",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-549d0f31-0614-58c3-9646-2a5c13ff4adb"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-4a1ca2b7-4c20-5b09-9874-380e9dbcb3c8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4a1ca2b7-4c20-5b09-9874-380e9dbcb3c8"
+  },
+  {
+    "number": "7.1",
+    "type": "rule",
+    "anchor": "rule-8c31aa63-c2d3-5d4c-b963-498a00febe08",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8c31aa63-c2d3-5d4c-b963-498a00febe08"
+  },
+  {
+    "number": "7.2",
+    "type": "rule",
+    "anchor": "rule-5e803514-130c-5fe3-a20e-bc05f0818370",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5e803514-130c-5fe3-a20e-bc05f0818370"
+  },
+  {
+    "number": "7.2.1",
+    "type": "rule",
+    "anchor": "rule-e0573cc0-9950-53ae-80ae-077bd020d4e5",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e0573cc0-9950-53ae-80ae-077bd020d4e5"
+  },
+  {
+    "number": "7.2.2",
+    "type": "rule",
+    "anchor": "rule-96dda4b0-8dd6-53de-a705-fbf53e6a04b5",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-96dda4b0-8dd6-53de-a705-fbf53e6a04b5"
+  },
+  {
+    "number": "7.2.3",
+    "type": "rule",
+    "anchor": "rule-62dc0705-ed39-5b58-8cf8-839c23f349cf",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-62dc0705-ed39-5b58-8cf8-839c23f349cf"
+  },
+  {
+    "number": "7.2.4",
+    "type": "rule",
+    "anchor": "rule-43a1ba04-68d3-5558-aa9d-d931894c247b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-43a1ba04-68d3-5558-aa9d-d931894c247b"
+  },
+  {
+    "number": "7.3",
+    "type": "rule",
+    "anchor": "rule-6fca42f1-3267-5893-abbc-e17147f949a7",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6fca42f1-3267-5893-abbc-e17147f949a7"
+  },
+  {
+    "number": "7.3.1",
+    "type": "rule",
+    "anchor": "rule-5aa5a7e4-de39-5e9a-925d-4025ae516adc",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5aa5a7e4-de39-5e9a-925d-4025ae516adc"
+  },
+  {
+    "number": "7.3.2",
+    "type": "rule",
+    "anchor": "rule-f22df22f-92bc-57c5-9dcb-2ca2874128d5",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f22df22f-92bc-57c5-9dcb-2ca2874128d5"
+  },
+  {
+    "number": "7.3.3",
+    "type": "rule",
+    "anchor": "rule-5969b948-9e68-5eab-b220-503baa03dbd7",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5969b948-9e68-5eab-b220-503baa03dbd7"
+  },
+  {
+    "number": "7.3.4",
+    "type": "rule",
+    "anchor": "rule-92a98b2a-1090-5b79-ba5a-42cdd6f77ecd",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-92a98b2a-1090-5b79-ba5a-42cdd6f77ecd"
+  },
+  {
+    "number": "7.3.5",
+    "type": "rule",
+    "anchor": "rule-16f269a4-193c-52bd-971b-c58f7c25cef6",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-16f269a4-193c-52bd-971b-c58f7c25cef6"
+  },
+  {
+    "number": "7.3.6",
+    "type": "rule",
+    "anchor": "rule-0f58f5a4-f887-5d04-9639-b6615699c7a3",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0f58f5a4-f887-5d04-9639-b6615699c7a3"
+  },
+  {
+    "number": "7.3.7",
+    "type": "rule",
+    "anchor": "rule-4aa85005-a2f6-525d-a96a-b3d3cb84fe58",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4aa85005-a2f6-525d-a96a-b3d3cb84fe58"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-5c6c550b-a5b9-5c34-8de0-ac69293d358f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5c6c550b-a5b9-5c34-8de0-ac69293d358f"
+  },
+  {
+    "number": "7.4",
+    "type": "rule",
+    "anchor": "rule-d976c0eb-3de4-5302-a029-263fa63769d4",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d976c0eb-3de4-5302-a029-263fa63769d4"
+  },
+  {
+    "number": "7.5",
+    "type": "rule",
+    "anchor": "rule-94dc6a39-b3ea-512b-bdc5-dcb430a1b87a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-94dc6a39-b3ea-512b-bdc5-dcb430a1b87a"
+  },
+  {
+    "number": "7.5.1",
+    "type": "rule",
+    "anchor": "rule-ab48c13d-8a69-5eb6-94c6-49eccd0a7ca7",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ab48c13d-8a69-5eb6-94c6-49eccd0a7ca7"
+  },
+  {
+    "number": "7.5.2",
+    "type": "rule",
+    "anchor": "rule-0011e28c-7729-5219-a28f-c390d1a3efcb",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0011e28c-7729-5219-a28f-c390d1a3efcb"
+  },
+  {
+    "number": "7.6",
+    "type": "rule",
+    "anchor": "rule-0bb219ac-32c1-5a94-8913-5bd511f826d5",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0bb219ac-32c1-5a94-8913-5bd511f826d5"
+  },
+  {
+    "number": "7.6.1",
+    "type": "rule",
+    "anchor": "rule-87b37be1-b361-5c30-a056-f9b1e331ee4f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-87b37be1-b361-5c30-a056-f9b1e331ee4f"
+  },
+  {
+    "number": "7.6.2",
+    "type": "rule",
+    "anchor": "rule-899afa0c-7c58-5f98-8b92-abd98475ab4e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-899afa0c-7c58-5f98-8b92-abd98475ab4e"
+  },
+  {
+    "number": "7.6.3",
+    "type": "rule",
+    "anchor": "rule-bcd7c49c-8b34-51db-8d0f-faf494c8cf47",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-bcd7c49c-8b34-51db-8d0f-faf494c8cf47"
+  },
+  {
+    "number": "7.7",
+    "type": "rule",
+    "anchor": "rule-a874c239-436b-5edc-af6d-acefc38d774d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a874c239-436b-5edc-af6d-acefc38d774d"
+  },
+  {
+    "number": "7.7.1",
+    "type": "rule",
+    "anchor": "rule-43e3cce3-8561-5a78-8533-7f917e4fb3b5",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-43e3cce3-8561-5a78-8533-7f917e4fb3b5"
+  },
+  {
+    "number": "7.7.2",
+    "type": "rule",
+    "anchor": "rule-51e5cc05-f77b-5e50-8642-3077779bf054",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-51e5cc05-f77b-5e50-8642-3077779bf054"
+  },
+  {
+    "number": "7.7.3",
+    "type": "rule",
+    "anchor": "rule-18053075-e1ce-585f-8623-0bd712f9d307",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-18053075-e1ce-585f-8623-0bd712f9d307"
+  },
+  {
+    "number": "7.7.4",
+    "type": "rule",
+    "anchor": "rule-07d3b666-c2b7-5bac-8438-b7eda93fe942",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-07d3b666-c2b7-5bac-8438-b7eda93fe942"
+  },
+  {
+    "number": "7.8",
+    "type": "rule",
+    "anchor": "rule-280ae118-ae77-5eb7-af1d-b0cbeb856e61",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-280ae118-ae77-5eb7-af1d-b0cbeb856e61"
+  },
+  {
+    "number": "7.8.1",
+    "type": "rule",
+    "anchor": "rule-1341ed90-416f-51ca-bf6c-5a995d22a6ce",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1341ed90-416f-51ca-bf6c-5a995d22a6ce"
+  },
+  {
+    "number": "7.9",
+    "type": "rule",
+    "anchor": "rule-5c2fa2e2-8494-51ea-8581-fef8a126806d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5c2fa2e2-8494-51ea-8581-fef8a126806d"
+  },
+  {
+    "number": "7.9.1",
+    "type": "rule",
+    "anchor": "rule-544bb6d5-534d-5ea0-89e9-255b500f0c01",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-544bb6d5-534d-5ea0-89e9-255b500f0c01"
+  },
+  {
+    "number": "7.9.2",
+    "type": "rule",
+    "anchor": "rule-78255489-5be1-5c1c-b220-79c79ba715ec",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-78255489-5be1-5c1c-b220-79c79ba715ec"
+  },
+  {
+    "number": "7.9.3",
+    "type": "rule",
+    "anchor": "rule-4aed895b-2e38-547d-8b45-1e8ec4b50b8e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4aed895b-2e38-547d-8b45-1e8ec4b50b8e"
+  },
+  {
+    "number": "7.9.3.1",
+    "type": "rule",
+    "anchor": "rule-d43e720a-8a7f-5794-98e7-bf9c2c0348dd",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d43e720a-8a7f-5794-98e7-bf9c2c0348dd"
+  },
+  {
+    "number": "7.9.3.2",
+    "type": "rule",
+    "anchor": "rule-2965c7e5-63d7-5fde-b293-802af2de35ae",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2965c7e5-63d7-5fde-b293-802af2de35ae"
+  },
+  {
+    "number": "7.9.3.3",
+    "type": "rule",
+    "anchor": "rule-a095aa99-d6f1-5611-8ad5-dc73b2193e9a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a095aa99-d6f1-5611-8ad5-dc73b2193e9a"
+  },
+  {
+    "number": "8",
+    "type": "section",
+    "anchor": "rule-a3a2dfd1-0994-5217-b99d-509608fc3b2e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a3a2dfd1-0994-5217-b99d-509608fc3b2e"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-62e86349-7ab6-5fe0-af82-79f7af564648",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-62e86349-7ab6-5fe0-af82-79f7af564648"
+  },
+  {
+    "number": "8.1",
+    "type": "rule",
+    "anchor": "rule-db16fcf5-7d19-5cbf-ab31-f356d056189f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-db16fcf5-7d19-5cbf-ab31-f356d056189f"
+  },
+  {
+    "number": "8.1.1",
+    "type": "rule",
+    "anchor": "rule-a84b2c62-71c5-5931-af0f-c21ac5faf12c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a84b2c62-71c5-5931-af0f-c21ac5faf12c"
+  },
+  {
+    "number": "8.2",
+    "type": "rule",
+    "anchor": "rule-649c28cd-2ea9-5b39-b000-a22c5e463fff",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-649c28cd-2ea9-5b39-b000-a22c5e463fff"
+  },
+  {
+    "number": "8.2.1",
+    "type": "rule",
+    "anchor": "rule-f77e9323-1cd0-5e16-9dde-2ff86d0ac9d9",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f77e9323-1cd0-5e16-9dde-2ff86d0ac9d9"
+  },
+  {
+    "number": "8.3",
+    "type": "rule",
+    "anchor": "rule-c8bd8fcf-432c-5d80-93c1-34bf2cebd4fa",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c8bd8fcf-432c-5d80-93c1-34bf2cebd4fa"
+  },
+  {
+    "number": "8.4",
+    "type": "rule",
+    "anchor": "rule-18484f0e-7be6-5f49-8463-5a046c8c96a6",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-18484f0e-7be6-5f49-8463-5a046c8c96a6"
+  },
+  {
+    "number": "8.4.1",
+    "type": "rule",
+    "anchor": "rule-2beefaa9-e624-5a32-9cf3-f197fc5f21f0",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2beefaa9-e624-5a32-9cf3-f197fc5f21f0"
+  },
+  {
+    "number": "8.4.2",
+    "type": "rule",
+    "anchor": "rule-8c24e9e2-0999-5776-a3ac-0c6a87d0780b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8c24e9e2-0999-5776-a3ac-0c6a87d0780b"
+  },
+  {
+    "number": "8.5",
+    "type": "rule",
+    "anchor": "rule-13d86454-aee1-57bf-817a-7274ad62dab3",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-13d86454-aee1-57bf-817a-7274ad62dab3"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-2b86cac9-5107-534b-b958-0fa6330a2a0a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2b86cac9-5107-534b-b958-0fa6330a2a0a"
+  },
+  {
+    "number": "8.6",
+    "type": "rule",
+    "anchor": "rule-6f320005-106c-5b7f-bd12-c2bdcb4c580f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6f320005-106c-5b7f-bd12-c2bdcb4c580f"
+  },
+  {
+    "number": "8.6.1",
+    "type": "rule",
+    "anchor": "rule-3fc1e5d9-1abf-5d97-acfc-4145cf434ea3",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3fc1e5d9-1abf-5d97-acfc-4145cf434ea3"
+  },
+  {
+    "number": "8.6.2",
+    "type": "rule",
+    "anchor": "rule-71bb5224-b215-5634-a46c-5292b596005c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-71bb5224-b215-5634-a46c-5292b596005c"
+  },
+  {
+    "number": "8.6.2.1",
+    "type": "rule",
+    "anchor": "rule-35e1869f-dec2-5d0c-83c9-d41a19036e8e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-35e1869f-dec2-5d0c-83c9-d41a19036e8e"
+  },
+  {
+    "number": "8.6.2.2",
+    "type": "rule",
+    "anchor": "rule-73b76e62-6528-5cc8-97dc-90c5662fb7f0",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-73b76e62-6528-5cc8-97dc-90c5662fb7f0"
+  },
+  {
+    "number": "8.6.3",
+    "type": "rule",
+    "anchor": "rule-f60345f9-1f36-5758-b6a3-349b82f80aa3",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f60345f9-1f36-5758-b6a3-349b82f80aa3"
+  },
+  {
+    "number": "8.6.4",
+    "type": "rule",
+    "anchor": "rule-86ee2687-bb0c-503f-b9dd-430650404a6b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-86ee2687-bb0c-503f-b9dd-430650404a6b"
+  },
+  {
+    "number": "8.6.4.1",
+    "type": "rule",
+    "anchor": "rule-6c9f8d77-0657-5c57-b860-6e25114d6d0c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6c9f8d77-0657-5c57-b860-6e25114d6d0c"
+  },
+  {
+    "number": "8.6.5",
+    "type": "rule",
+    "anchor": "rule-644aab28-b966-50c3-be8b-a2ba1fd3e349",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-644aab28-b966-50c3-be8b-a2ba1fd3e349"
+  },
+  {
+    "number": "8.6.5.1",
+    "type": "rule",
+    "anchor": "rule-6199f8fb-c4a8-57bd-8721-60f3d9fcb7cc",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6199f8fb-c4a8-57bd-8721-60f3d9fcb7cc"
+  },
+  {
+    "number": "8.6.5.1.1",
+    "type": "rule",
+    "anchor": "rule-aae9d4fa-243f-5f89-ad5d-529370f56e34",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-aae9d4fa-243f-5f89-ad5d-529370f56e34"
+  },
+  {
+    "number": "8.6.5.2",
+    "type": "rule",
+    "anchor": "rule-36fe411d-e18f-5590-ad79-f8acc92a39fd",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-36fe411d-e18f-5590-ad79-f8acc92a39fd"
+  },
+  {
+    "number": "8.6.5.3",
+    "type": "rule",
+    "anchor": "rule-ee477c25-8dbc-5700-8a75-681be425deb9",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ee477c25-8dbc-5700-8a75-681be425deb9"
+  },
+  {
+    "number": "8.7",
+    "type": "rule",
+    "anchor": "rule-0d2e8af0-2fdd-51d7-a278-af7a4ce7ae85",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0d2e8af0-2fdd-51d7-a278-af7a4ce7ae85"
+  },
+  {
+    "number": "8.8",
+    "type": "rule",
+    "anchor": "rule-f18cefd1-be32-50cc-b9f6-8b0bf64a828a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f18cefd1-be32-50cc-b9f6-8b0bf64a828a"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-6b35d117-68b9-5655-992b-d642e8de476d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6b35d117-68b9-5655-992b-d642e8de476d"
+  },
+  {
+    "number": "8.9",
+    "type": "rule",
+    "anchor": "rule-d331ba06-f3df-521d-981e-4374ea35d790",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d331ba06-f3df-521d-981e-4374ea35d790"
+  },
+  {
+    "number": "8.10",
+    "type": "rule",
+    "anchor": "rule-97812245-4680-5ed4-b695-1936f8d276bb",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-97812245-4680-5ed4-b695-1936f8d276bb"
+  },
+  {
+    "number": "8.10.1",
+    "type": "rule",
+    "anchor": "rule-c215eaa3-1145-5c48-8a2d-2a94393d1d52",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c215eaa3-1145-5c48-8a2d-2a94393d1d52"
+  },
+  {
+    "number": "8.11",
+    "type": "rule",
+    "anchor": "rule-be5fdfb0-1cad-5806-8b14-1b3bd8aa260b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-be5fdfb0-1cad-5806-8b14-1b3bd8aa260b"
+  },
+  {
+    "number": "8.11.1",
+    "type": "rule",
+    "anchor": "rule-c4112639-e9bb-5d40-b1ca-1163a8b1815e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c4112639-e9bb-5d40-b1ca-1163a8b1815e"
+  },
+  {
+    "number": "8.11.2",
+    "type": "rule",
+    "anchor": "rule-4d3a5ad7-4b81-54d0-94c2-368c770823cf",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4d3a5ad7-4b81-54d0-94c2-368c770823cf"
+  },
+  {
+    "number": "8.12",
+    "type": "rule",
+    "anchor": "rule-0433aeda-d14a-5d7b-ad19-8e4823220c2a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0433aeda-d14a-5d7b-ad19-8e4823220c2a"
+  },
+  {
+    "number": "8.12.1",
+    "type": "rule",
+    "anchor": "rule-25765575-9ce7-514c-b9f5-4497ccf44130",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-25765575-9ce7-514c-b9f5-4497ccf44130"
+  },
+  {
+    "number": "8.12.2",
+    "type": "rule",
+    "anchor": "rule-0e09c380-7a6a-54b8-9284-f269cad0bf88",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0e09c380-7a6a-54b8-9284-f269cad0bf88"
+  },
+  {
+    "number": "8.13",
+    "type": "rule",
+    "anchor": "rule-c296824f-461c-52cb-a263-bab6627e4067",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c296824f-461c-52cb-a263-bab6627e4067"
+  },
+  {
+    "number": "8.14",
+    "type": "rule",
+    "anchor": "rule-45095f45-5c31-5a8d-826f-e122556ebc3d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-45095f45-5c31-5a8d-826f-e122556ebc3d"
+  },
+  {
+    "number": "8.14.1",
+    "type": "rule",
+    "anchor": "rule-3d6b69c6-6f03-5077-8d84-6dab0068b833",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3d6b69c6-6f03-5077-8d84-6dab0068b833"
+  },
+  {
+    "number": "8.15",
+    "type": "rule",
+    "anchor": "rule-c358242d-9fc1-5bfd-8991-374021553a70",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c358242d-9fc1-5bfd-8991-374021553a70"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-5cf5dfb4-f5b3-57c9-b846-99ceef96783e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5cf5dfb4-f5b3-57c9-b846-99ceef96783e"
+  },
+  {
+    "number": "8.16",
+    "type": "rule",
+    "anchor": "rule-19d52da0-82bb-5e12-af89-e7fd8a68201d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-19d52da0-82bb-5e12-af89-e7fd8a68201d"
+  },
+  {
+    "number": "8.16.1",
+    "type": "rule",
+    "anchor": "rule-a28bdd1c-bbfc-53f1-ba68-529005c13fed",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a28bdd1c-bbfc-53f1-ba68-529005c13fed"
+  },
+  {
+    "number": "8.16.2",
+    "type": "rule",
+    "anchor": "rule-03982c0b-0739-5805-abe5-4a8cb1ccdc42",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-03982c0b-0739-5805-abe5-4a8cb1ccdc42"
+  },
+  {
+    "number": "8.17",
+    "type": "rule",
+    "anchor": "rule-7c7fec94-83c4-5311-9ac3-277a670bd2ee",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-7c7fec94-83c4-5311-9ac3-277a670bd2ee"
+  },
+  {
+    "number": "8.18",
+    "type": "rule",
+    "anchor": "rule-fc3d0649-8077-56ef-924a-23d11968a01f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-fc3d0649-8077-56ef-924a-23d11968a01f"
+  },
+  {
+    "number": "9",
+    "type": "section",
+    "anchor": "rule-2a2dba05-9f3d-5e54-a3ec-495c89b148e1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2a2dba05-9f3d-5e54-a3ec-495c89b148e1"
+  },
+  {
+    "number": "9.1",
+    "type": "rule",
+    "anchor": "rule-5f6b0afb-fed0-58b3-aa69-9b54ac67dfa4",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5f6b0afb-fed0-58b3-aa69-9b54ac67dfa4"
+  },
+  {
+    "number": "9.2",
+    "type": "rule",
+    "anchor": "rule-661d95d9-f3fd-5ddb-92e7-f4c379a6d305",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-661d95d9-f3fd-5ddb-92e7-f4c379a6d305"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-d65346a6-8898-5f13-8729-0693c12610fa",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d65346a6-8898-5f13-8729-0693c12610fa"
+  },
+  {
+    "number": "9.3",
+    "type": "rule",
+    "anchor": "rule-e9d19e18-4c1c-57f1-9f0b-d5ab5b101e81",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e9d19e18-4c1c-57f1-9f0b-d5ab5b101e81"
+  },
+  {
+    "number": "9.3.1",
+    "type": "rule",
+    "anchor": "rule-2e2b516e-093f-5b7e-b178-6a27c802414a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2e2b516e-093f-5b7e-b178-6a27c802414a"
+  },
+  {
+    "number": "9.3.1.1",
+    "type": "rule",
+    "anchor": "rule-5bb65614-c057-5b11-982d-5f7679b9b14b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5bb65614-c057-5b11-982d-5f7679b9b14b"
+  },
+  {
+    "number": "9.3.2",
+    "type": "rule",
+    "anchor": "rule-d7a09f30-e9a6-520a-8cef-8b7731c2b464",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d7a09f30-e9a6-520a-8cef-8b7731c2b464"
+  },
+  {
+    "number": "9.3.2.1",
+    "type": "rule",
+    "anchor": "rule-f2d4aeed-c40d-5cf7-8751-686d1e52c83c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f2d4aeed-c40d-5cf7-8751-686d1e52c83c"
+  },
+  {
+    "number": "9.3.2.2",
+    "type": "rule",
+    "anchor": "rule-9f5de539-f6d2-52cb-bcec-430cac31038d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9f5de539-f6d2-52cb-bcec-430cac31038d"
+  },
+  {
+    "number": "9.3.2.3",
+    "type": "rule",
+    "anchor": "rule-c97e6f91-3be6-5759-9e62-913a9cee4ce3",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c97e6f91-3be6-5759-9e62-913a9cee4ce3"
+  },
+  {
+    "number": "9.3.2.3.1",
+    "type": "rule",
+    "anchor": "rule-a3b18b61-7692-50f3-aef5-275758e78334",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a3b18b61-7692-50f3-aef5-275758e78334"
+  },
+  {
+    "number": "9.3.2.4",
+    "type": "rule",
+    "anchor": "rule-2319c671-c822-5d78-a9d6-c831a1ce2cd0",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2319c671-c822-5d78-a9d6-c831a1ce2cd0"
+  },
+  {
+    "number": "9.3.3",
+    "type": "rule",
+    "anchor": "rule-221e68be-96b3-58f4-99e8-447324167c81",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-221e68be-96b3-58f4-99e8-447324167c81"
+  },
+  {
+    "number": "9.3.4",
+    "type": "rule",
+    "anchor": "rule-a3e5eeb6-4888-5a67-bea0-996685a44a5b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a3e5eeb6-4888-5a67-bea0-996685a44a5b"
+  },
+  {
+    "number": "9.4",
+    "type": "rule",
+    "anchor": "rule-edc15c25-ee00-5d8e-9518-569d182a74e0",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-edc15c25-ee00-5d8e-9518-569d182a74e0"
+  },
+  {
+    "number": "9.4.1",
+    "type": "rule",
+    "anchor": "rule-286eb308-2273-5e86-8857-bfc89e75b995",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-286eb308-2273-5e86-8857-bfc89e75b995"
+  },
+  {
+    "number": "9.4.2",
+    "type": "rule",
+    "anchor": "rule-a50ac766-070c-577d-adea-213a232e7007",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a50ac766-070c-577d-adea-213a232e7007"
+  },
+  {
+    "number": "9.4.3",
+    "type": "rule",
+    "anchor": "rule-7ba602ff-9852-5bda-9bee-7bb4e7b06544",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-7ba602ff-9852-5bda-9bee-7bb4e7b06544"
+  },
+  {
+    "number": "9.4.4",
+    "type": "rule",
+    "anchor": "rule-0d926506-a445-5b92-a1d1-0da2f1e82bb0",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0d926506-a445-5b92-a1d1-0da2f1e82bb0"
+  },
+  {
+    "number": "9.4.5",
+    "type": "rule",
+    "anchor": "rule-eb32413e-3f94-5801-bd43-b9976b219201",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-eb32413e-3f94-5801-bd43-b9976b219201"
+  },
+  {
+    "number": "9.5",
+    "type": "rule",
+    "anchor": "rule-98fb6551-ecf3-50f1-bceb-ecdb5e2d7895",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-98fb6551-ecf3-50f1-bceb-ecdb5e2d7895"
+  },
+  {
+    "number": "9.6",
+    "type": "rule",
+    "anchor": "rule-5bc44f77-c7bd-58ac-bbe8-d359ca912314",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5bc44f77-c7bd-58ac-bbe8-d359ca912314"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-8e1db91d-c376-5f3a-b208-7df7a64bed30",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8e1db91d-c376-5f3a-b208-7df7a64bed30"
+  },
+  {
+    "number": "9.7",
+    "type": "rule",
+    "anchor": "rule-73687ada-7c32-5c94-884e-e586ace56215",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-73687ada-7c32-5c94-884e-e586ace56215"
+  },
+  {
+    "number": "9.7.1",
+    "type": "rule",
+    "anchor": "rule-63b1cec4-b5ec-52e0-adb0-7fa80f1e899b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-63b1cec4-b5ec-52e0-adb0-7fa80f1e899b"
+  },
+  {
+    "number": "9.8",
+    "type": "rule",
+    "anchor": "rule-9f6e2e53-4879-5ff5-a6f2-465acbbcebe1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9f6e2e53-4879-5ff5-a6f2-465acbbcebe1"
+  },
+  {
+    "number": "9.9",
+    "type": "rule",
+    "anchor": "rule-667fe871-6547-540f-b80d-fdeaffd7c902",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-667fe871-6547-540f-b80d-fdeaffd7c902"
+  },
+  {
+    "number": "9.9.1",
+    "type": "rule",
+    "anchor": "rule-f750f032-8f61-59bd-b8ce-c531a8ac1de8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f750f032-8f61-59bd-b8ce-c531a8ac1de8"
+  },
+  {
+    "number": "9.10",
+    "type": "rule",
+    "anchor": "rule-33ceced0-3ac7-528d-897f-e325becd65ce",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-33ceced0-3ac7-528d-897f-e325becd65ce"
+  },
+  {
+    "number": "9.10.1",
+    "type": "rule",
+    "anchor": "rule-a534984e-fb8c-5714-84b2-8cd694cb4bf2",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a534984e-fb8c-5714-84b2-8cd694cb4bf2"
+  },
+  {
+    "number": "9.11",
+    "type": "rule",
+    "anchor": "rule-4b6eaecb-2cd4-56bc-85d0-0bd2060eb216",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4b6eaecb-2cd4-56bc-85d0-0bd2060eb216"
+  },
+  {
+    "number": "9.12",
+    "type": "rule",
+    "anchor": "rule-77227232-a647-5a33-a4dc-c75e08a24597",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-77227232-a647-5a33-a4dc-c75e08a24597"
+  },
+  {
+    "number": "9.13",
+    "type": "rule",
+    "anchor": "rule-11f4e1ee-f4e6-5f01-85bf-06bc22477cb0",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-11f4e1ee-f4e6-5f01-85bf-06bc22477cb0"
+  },
+  {
+    "number": "9.14",
+    "type": "rule",
+    "anchor": "rule-f6ef9833-aa7a-5fd9-b5c7-d388ac1e3b83",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f6ef9833-aa7a-5fd9-b5c7-d388ac1e3b83"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-5fec8182-90d6-57ea-8723-515c9d227614",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5fec8182-90d6-57ea-8723-515c9d227614"
+  },
+  {
+    "number": "9.15",
+    "type": "rule",
+    "anchor": "rule-2eccd78c-f426-5340-8e87-7e4a0727467a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2eccd78c-f426-5340-8e87-7e4a0727467a"
+  },
+  {
+    "number": "9.16",
+    "type": "rule",
+    "anchor": "rule-2430e40e-2c86-5e06-aad7-1b675d5fdf29",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2430e40e-2c86-5e06-aad7-1b675d5fdf29"
+  },
+  {
+    "number": "9.16.1",
+    "type": "rule",
+    "anchor": "rule-89a54a75-1ddc-565d-9b63-74c154e3996d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-89a54a75-1ddc-565d-9b63-74c154e3996d"
+  },
+  {
+    "number": "9.17",
+    "type": "rule",
+    "anchor": "rule-4f2e1390-513a-5c0f-acb2-fd433bb147ec",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4f2e1390-513a-5c0f-acb2-fd433bb147ec"
+  },
+  {
+    "number": "9.17.1",
+    "type": "rule",
+    "anchor": "rule-f1b9f710-b030-53a9-9773-c0bca2743388",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f1b9f710-b030-53a9-9773-c0bca2743388"
+  },
+  {
+    "number": "9.17.1.1",
+    "type": "rule",
+    "anchor": "rule-50200c9f-9c99-5a47-a9a9-bec81981695b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-50200c9f-9c99-5a47-a9a9-bec81981695b"
+  },
+  {
+    "number": "9.17.2",
+    "type": "rule",
+    "anchor": "rule-986c2d09-97ad-5044-97c4-5ae6da561205",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-986c2d09-97ad-5044-97c4-5ae6da561205"
+  },
+  {
+    "number": "9.17.3",
+    "type": "rule",
+    "anchor": "rule-fa905023-a6ed-5461-86bc-33a228bb5a89",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-fa905023-a6ed-5461-86bc-33a228bb5a89"
+  },
+  {
+    "number": "9.17.4",
+    "type": "rule",
+    "anchor": "rule-97c80648-e6f2-55df-8cbe-c86333767d0e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-97c80648-e6f2-55df-8cbe-c86333767d0e"
+  },
+  {
+    "number": "9.18",
+    "type": "rule",
+    "anchor": "rule-73fb2caa-abf2-5cc0-aa16-2501bea4e0ef",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-73fb2caa-abf2-5cc0-aa16-2501bea4e0ef"
+  },
+  {
+    "number": "9.19",
+    "type": "rule",
+    "anchor": "rule-ec31f1aa-ce52-56f5-994b-976159630a9f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ec31f1aa-ce52-56f5-994b-976159630a9f"
+  },
+  {
+    "number": "9.19.1",
+    "type": "rule",
+    "anchor": "rule-a4b426bb-bc68-5f77-a1d4-35f6c6bde900",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a4b426bb-bc68-5f77-a1d4-35f6c6bde900"
+  },
+  {
+    "number": "9.19.1.1",
+    "type": "rule",
+    "anchor": "rule-e51e925a-5b8d-5935-9a70-30c1a9c86458",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e51e925a-5b8d-5935-9a70-30c1a9c86458"
+  },
+  {
+    "number": "9.19.2",
+    "type": "rule",
+    "anchor": "rule-47755a0b-c4f0-5c10-a437-a8988ec7f83f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-47755a0b-c4f0-5c10-a437-a8988ec7f83f"
+  },
+  {
+    "number": "9.19.3",
+    "type": "rule",
+    "anchor": "rule-e0437823-1553-56b9-b683-49f87134c97d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e0437823-1553-56b9-b683-49f87134c97d"
+  },
+  {
+    "number": "9.20",
+    "type": "rule",
+    "anchor": "rule-78692d48-7932-5bde-9012-9eb15b42efa2",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-78692d48-7932-5bde-9012-9eb15b42efa2"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-b8fa6228-3285-5415-aa1d-c3cb590d93e8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b8fa6228-3285-5415-aa1d-c3cb590d93e8"
+  },
+  {
+    "number": "9.21",
+    "type": "rule",
+    "anchor": "rule-064ec26e-f6d1-52e4-8715-196456d41c91",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-064ec26e-f6d1-52e4-8715-196456d41c91"
+  },
+  {
+    "number": "9.22",
+    "type": "rule",
+    "anchor": "rule-d291c06d-b11e-505f-86b9-34624342909c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d291c06d-b11e-505f-86b9-34624342909c"
+  },
+  {
+    "number": "9.23",
+    "type": "rule",
+    "anchor": "rule-9a28ac05-ef02-5236-b368-0fa1bb2d868f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9a28ac05-ef02-5236-b368-0fa1bb2d868f"
+  },
+  {
+    "number": "9.23.1",
+    "type": "rule",
+    "anchor": "rule-ca5ccd41-d380-593b-82e2-20cc0b9ee223",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ca5ccd41-d380-593b-82e2-20cc0b9ee223"
+  },
+  {
+    "number": "9.23.2",
+    "type": "rule",
+    "anchor": "rule-60cab351-c7f0-5a33-bcda-92bb794f0049",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-60cab351-c7f0-5a33-bcda-92bb794f0049"
+  },
+  {
+    "number": "9.23.2.1",
+    "type": "rule",
+    "anchor": "rule-2af2fc60-d095-5130-a2ea-93289542818b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2af2fc60-d095-5130-a2ea-93289542818b"
+  },
+  {
+    "number": "9.23.2.2",
+    "type": "rule",
+    "anchor": "rule-80a2d1d2-600a-5577-8c28-da9710140f38",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-80a2d1d2-600a-5577-8c28-da9710140f38"
+  },
+  {
+    "number": "9.23.3",
+    "type": "rule",
+    "anchor": "rule-500fe3df-f8c4-52cd-a33f-72c1eb156e8a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-500fe3df-f8c4-52cd-a33f-72c1eb156e8a"
+  },
+  {
+    "number": "9.23.3.1",
+    "type": "rule",
+    "anchor": "rule-4acea9ca-0bbc-52f8-9b80-dd7a78d398b3",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4acea9ca-0bbc-52f8-9b80-dd7a78d398b3"
+  },
+  {
+    "number": "9.23.3.2",
+    "type": "rule",
+    "anchor": "rule-1b5a5c15-1248-55ab-848a-e59893c2fb22",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1b5a5c15-1248-55ab-848a-e59893c2fb22"
+  },
+  {
+    "number": "9.23.3.3",
+    "type": "rule",
+    "anchor": "rule-1f2a39cf-ca0f-5fe5-81c8-e8aee4ced16b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1f2a39cf-ca0f-5fe5-81c8-e8aee4ced16b"
+  },
+  {
+    "number": "9.23.4",
+    "type": "rule",
+    "anchor": "rule-d120f9ed-2f9c-54e8-8a6f-7ff89c19b7d1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d120f9ed-2f9c-54e8-8a6f-7ff89c19b7d1"
+  },
+  {
+    "number": "9.23.5",
+    "type": "rule",
+    "anchor": "rule-f5724900-9a83-5a2c-b56c-de1c8ef11ef9",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f5724900-9a83-5a2c-b56c-de1c8ef11ef9"
+  },
+  {
+    "number": "9.23.5.1",
+    "type": "rule",
+    "anchor": "rule-bac7cd78-0ebc-53a3-bfe6-bf3e884d1775",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-bac7cd78-0ebc-53a3-bfe6-bf3e884d1775"
+  },
+  {
+    "number": "9.23.5.2",
+    "type": "rule",
+    "anchor": "rule-fc115a52-beb0-51b0-a360-1a5992bf6047",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-fc115a52-beb0-51b0-a360-1a5992bf6047"
+  },
+  {
+    "number": "9.23.6",
+    "type": "rule",
+    "anchor": "rule-121a0197-fbf0-5ccf-af62-30b3501215a8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-121a0197-fbf0-5ccf-af62-30b3501215a8"
+  },
+  {
+    "number": "9.24",
+    "type": "rule",
+    "anchor": "rule-471e0211-8597-5b78-b587-892b249d5948",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-471e0211-8597-5b78-b587-892b249d5948"
+  },
+  {
+    "number": "9.25",
+    "type": "rule",
+    "anchor": "rule-9480fd68-3952-5c06-984a-5dc2a20f7206",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9480fd68-3952-5c06-984a-5dc2a20f7206"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-ea5b950d-f8e1-5b3d-8cd5-20dec6ef700a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ea5b950d-f8e1-5b3d-8cd5-20dec6ef700a"
+  },
+  {
+    "number": "9.26",
+    "type": "rule",
+    "anchor": "rule-f53bede0-1c22-52e8-8721-1973a5e95204",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f53bede0-1c22-52e8-8721-1973a5e95204"
+  },
+  {
+    "number": "9.26.1",
+    "type": "rule",
+    "anchor": "rule-1cdaedf0-f4a5-58a4-890b-a181ed6f5c4c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1cdaedf0-f4a5-58a4-890b-a181ed6f5c4c"
+  },
+  {
+    "number": "9.26.2",
+    "type": "rule",
+    "anchor": "rule-27b6ba31-9863-5c64-b63f-623158c7f662",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-27b6ba31-9863-5c64-b63f-623158c7f662"
+  },
+  {
+    "number": "9.26.3",
+    "type": "rule",
+    "anchor": "rule-c6d2d8b5-8a3d-5ac0-a33c-01197afca1bb",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c6d2d8b5-8a3d-5ac0-a33c-01197afca1bb"
+  },
+  {
+    "number": "9.26.4",
+    "type": "rule",
+    "anchor": "rule-eb79c932-fba6-5269-a07c-1de73767bea5",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-eb79c932-fba6-5269-a07c-1de73767bea5"
+  },
+  {
+    "number": "9.27",
+    "type": "rule",
+    "anchor": "rule-3de7e018-025b-5169-b2ae-8da6b221806e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3de7e018-025b-5169-b2ae-8da6b221806e"
+  },
+  {
+    "number": "9.27.1",
+    "type": "rule",
+    "anchor": "rule-0e491b94-8f2a-5f2d-850d-9a64284d72d7",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0e491b94-8f2a-5f2d-850d-9a64284d72d7"
+  },
+  {
+    "number": "9.27.2",
+    "type": "rule",
+    "anchor": "rule-1ea306a9-128d-5609-aae9-0675bbeaa863",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1ea306a9-128d-5609-aae9-0675bbeaa863"
+  },
+  {
+    "number": "9.28",
+    "type": "rule",
+    "anchor": "rule-e14f3c0a-07bb-5ca9-a8bd-3c4b0a8d3132",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e14f3c0a-07bb-5ca9-a8bd-3c4b0a8d3132"
+  },
+  {
+    "number": "9.29",
+    "type": "rule",
+    "anchor": "rule-d5cb24fd-e5d8-5fb4-bae1-f47eb07ecc82",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d5cb24fd-e5d8-5fb4-bae1-f47eb07ecc82"
+  },
+  {
+    "number": "10",
+    "type": "section",
+    "anchor": "rule-3efdf554-b6f9-5c20-837e-5146363dd5ed",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3efdf554-b6f9-5c20-837e-5146363dd5ed"
+  },
+  {
+    "number": "10.1",
+    "type": "rule",
+    "anchor": "rule-c219ebad-8ed1-56b8-a35f-73ca6412537b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c219ebad-8ed1-56b8-a35f-73ca6412537b"
+  },
+  {
+    "number": "10.1.1",
+    "type": "rule",
+    "anchor": "rule-74deaf07-db1c-559c-a171-b40dc5ab1c60",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-74deaf07-db1c-559c-a171-b40dc5ab1c60"
+  },
+  {
+    "number": "10.1.2",
+    "type": "rule",
+    "anchor": "rule-1eee554a-2ad4-59e6-9542-47c4046de6a4",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1eee554a-2ad4-59e6-9542-47c4046de6a4"
+  },
+  {
+    "number": "10.1.3",
+    "type": "rule",
+    "anchor": "rule-8d414a58-b786-5893-a95e-2f6dab51ce4d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8d414a58-b786-5893-a95e-2f6dab51ce4d"
+  },
+  {
+    "number": "10.1.4",
+    "type": "rule",
+    "anchor": "rule-e56ed385-9b53-5b7e-a026-567e4ec6dc29",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e56ed385-9b53-5b7e-a026-567e4ec6dc29"
+  },
+  {
+    "number": "10.2",
+    "type": "rule",
+    "anchor": "rule-6b8f9b42-8aa3-55da-b138-5d08abd5e28b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6b8f9b42-8aa3-55da-b138-5d08abd5e28b"
+  },
+  {
+    "number": "10.2.1",
+    "type": "rule",
+    "anchor": "rule-e4980f30-535f-5d56-af07-6463dd07c656",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e4980f30-535f-5d56-af07-6463dd07c656"
+  },
+  {
+    "number": "10.2.2",
+    "type": "rule",
+    "anchor": "rule-c1a81d95-1ab1-5e2c-9a25-6c150f1f2fde",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c1a81d95-1ab1-5e2c-9a25-6c150f1f2fde"
+  },
+  {
+    "number": "10.2.3",
+    "type": "rule",
+    "anchor": "rule-ba829cde-068c-5a6c-8bf6-9361a2115ae3",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ba829cde-068c-5a6c-8bf6-9361a2115ae3"
+  },
+  {
+    "number": "10.2.4",
+    "type": "rule",
+    "anchor": "rule-97a7a9e2-a0ad-5240-b36b-16145a622345",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-97a7a9e2-a0ad-5240-b36b-16145a622345"
+  },
+  {
+    "number": "10.2.5",
+    "type": "rule",
+    "anchor": "rule-d81a968a-69df-5cc6-bcd7-83ad94fdc9fa",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d81a968a-69df-5cc6-bcd7-83ad94fdc9fa"
+  },
+  {
+    "number": "10.3",
+    "type": "rule",
+    "anchor": "rule-4e258414-b0ae-53c4-97d3-e33df227d07b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4e258414-b0ae-53c4-97d3-e33df227d07b"
+  },
+  {
+    "number": "10.3.1",
+    "type": "rule",
+    "anchor": "rule-7131180b-c8fe-584c-b173-068e40487e45",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-7131180b-c8fe-584c-b173-068e40487e45"
+  },
+  {
+    "number": "10.3.2",
+    "type": "rule",
+    "anchor": "rule-36ab1c38-a5cc-5384-b97a-ab629c7c62f1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-36ab1c38-a5cc-5384-b97a-ab629c7c62f1"
+  },
+  {
+    "number": "10.3.3",
+    "type": "rule",
+    "anchor": "rule-b6370cc1-5a38-5e8f-b95a-96142d534b25",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b6370cc1-5a38-5e8f-b95a-96142d534b25"
+  },
+  {
+    "number": "10.4",
+    "type": "rule",
+    "anchor": "rule-34cadb6a-0e7e-56bd-9599-a2b3f1f6b24f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-34cadb6a-0e7e-56bd-9599-a2b3f1f6b24f"
+  },
+  {
+    "number": "10.4.1",
+    "type": "rule",
+    "anchor": "rule-4735d48b-8a62-5e61-a4e9-240fad301797",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4735d48b-8a62-5e61-a4e9-240fad301797"
+  },
+  {
+    "number": "10.4.2",
+    "type": "rule",
+    "anchor": "rule-b79dca60-fda0-5b2c-b6d9-b5bcfa1e48fb",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b79dca60-fda0-5b2c-b6d9-b5bcfa1e48fb"
+  },
+  {
+    "number": "10.4.3",
+    "type": "rule",
+    "anchor": "rule-c5316d39-f7f3-54ef-bef1-c9b1f608aeda",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c5316d39-f7f3-54ef-bef1-c9b1f608aeda"
+  },
+  {
+    "number": "10.4.4",
+    "type": "rule",
+    "anchor": "rule-16e13945-7a99-5343-916d-32f7aa03102d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-16e13945-7a99-5343-916d-32f7aa03102d"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-da178967-2dfb-5484-b475-46e3cae8bf31",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-da178967-2dfb-5484-b475-46e3cae8bf31"
+  },
+  {
+    "number": "10.5",
+    "type": "rule",
+    "anchor": "rule-d7bb5ea5-b5b0-5774-bd91-69312f9ae452",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d7bb5ea5-b5b0-5774-bd91-69312f9ae452"
+  },
+  {
+    "number": "10.6",
+    "type": "rule",
+    "anchor": "rule-57d0bfe8-9057-54f2-b4b3-f66bd463a437",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-57d0bfe8-9057-54f2-b4b3-f66bd463a437"
+  },
+  {
+    "number": "10.6.1",
+    "type": "rule",
+    "anchor": "rule-2e69b1fb-d715-56b0-92e7-193fcd6205f3",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2e69b1fb-d715-56b0-92e7-193fcd6205f3"
+  },
+  {
+    "number": "10.6.2",
+    "type": "rule",
+    "anchor": "rule-0528a360-ee57-5639-889e-ca40eb7f6d1b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0528a360-ee57-5639-889e-ca40eb7f6d1b"
+  },
+  {
+    "number": "10.6.3",
+    "type": "rule",
+    "anchor": "rule-051dc151-0a3e-5aa5-9215-9cae90722199",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-051dc151-0a3e-5aa5-9215-9cae90722199"
+  },
+  {
+    "number": "10.7",
+    "type": "rule",
+    "anchor": "rule-f9243539-2df9-5f14-a9ff-033c56478247",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f9243539-2df9-5f14-a9ff-033c56478247"
+  },
+  {
+    "number": "10.8",
+    "type": "rule",
+    "anchor": "rule-6f04756a-97ce-579c-a751-5ba5f82d1c2e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6f04756a-97ce-579c-a751-5ba5f82d1c2e"
+  },
+  {
+    "number": "10.9",
+    "type": "rule",
+    "anchor": "rule-c632e40f-0b6a-57ff-a9e8-09ed782b7a07",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c632e40f-0b6a-57ff-a9e8-09ed782b7a07"
+  },
+  {
+    "number": "10.10",
+    "type": "rule",
+    "anchor": "rule-1d42cb6e-adf4-578e-81b6-6640a93ea601",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1d42cb6e-adf4-578e-81b6-6640a93ea601"
+  },
+  {
+    "number": "10.10.1",
+    "type": "rule",
+    "anchor": "rule-4ef0362f-9e46-5754-91bd-4c27522ec5f9",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4ef0362f-9e46-5754-91bd-4c27522ec5f9"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-9afed67a-613b-547b-bbc7-75c55ca75d57",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9afed67a-613b-547b-bbc7-75c55ca75d57"
+  },
+  {
+    "number": "10.11",
+    "type": "rule",
+    "anchor": "rule-b3b1dfc5-d8f3-5e31-a4a8-312381cb88b4",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b3b1dfc5-d8f3-5e31-a4a8-312381cb88b4"
+  },
+  {
+    "number": "10.11.1",
+    "type": "rule",
+    "anchor": "rule-b98ff85f-3a7e-538e-8f4f-6deeb63ffd2b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b98ff85f-3a7e-538e-8f4f-6deeb63ffd2b"
+  },
+  {
+    "number": "10.11.2",
+    "type": "rule",
+    "anchor": "rule-d623f3bd-5eaf-5103-a33d-f30ca1e962fa",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d623f3bd-5eaf-5103-a33d-f30ca1e962fa"
+  },
+  {
+    "number": "10.11.3",
+    "type": "rule",
+    "anchor": "rule-98982bab-d107-5637-99ec-07df38f5c8b6",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-98982bab-d107-5637-99ec-07df38f5c8b6"
+  },
+  {
+    "number": "10.12",
+    "type": "rule",
+    "anchor": "rule-73aaaba0-4ad8-5a17-8a2b-fbfef8b44cb6",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-73aaaba0-4ad8-5a17-8a2b-fbfef8b44cb6"
+  },
+  {
+    "number": "10.13",
+    "type": "rule",
+    "anchor": "rule-7efe9c08-6370-57fd-8f25-cdba7841252c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-7efe9c08-6370-57fd-8f25-cdba7841252c"
+  },
+  {
+    "number": "10.14",
+    "type": "rule",
+    "anchor": "rule-ed24f25b-1fdd-5a69-a719-ca9dcdfb5c2e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ed24f25b-1fdd-5a69-a719-ca9dcdfb5c2e"
+  },
+  {
+    "number": "10.14.1",
+    "type": "rule",
+    "anchor": "rule-c813bae1-25fa-5022-9fff-981e8c6f48fa",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c813bae1-25fa-5022-9fff-981e8c6f48fa"
+  },
+  {
+    "number": "10.15",
+    "type": "rule",
+    "anchor": "rule-dcfa1f54-b387-5591-b1a4-c3bd3980a13f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-dcfa1f54-b387-5591-b1a4-c3bd3980a13f"
+  },
+  {
+    "number": "10.15.1",
+    "type": "rule",
+    "anchor": "rule-57944814-ddbe-5b6d-86f0-99561a9714f4",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-57944814-ddbe-5b6d-86f0-99561a9714f4"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-96d45ee6-dd51-54d8-9666-082316298f42",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-96d45ee6-dd51-54d8-9666-082316298f42"
+  },
+  {
+    "number": "10.16",
+    "type": "rule",
+    "anchor": "rule-d3ae90c8-fbbd-5be0-834a-75f5e7b9f987",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d3ae90c8-fbbd-5be0-834a-75f5e7b9f987"
+  },
+  {
+    "number": "10.16.1",
+    "type": "rule",
+    "anchor": "rule-1764baec-eb76-5451-ab53-fde747ce4b51",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1764baec-eb76-5451-ab53-fde747ce4b51"
+  },
+  {
+    "number": "10.16.2",
+    "type": "rule",
+    "anchor": "rule-923aa8e8-7c26-5cd7-a8ba-e460359c74b9",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-923aa8e8-7c26-5cd7-a8ba-e460359c74b9"
+  },
+  {
+    "number": "10.16.3",
+    "type": "rule",
+    "anchor": "rule-9f65f00a-a297-5a8f-be46-a609aadd6944",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9f65f00a-a297-5a8f-be46-a609aadd6944"
+  },
+  {
+    "number": "10.17",
+    "type": "rule",
+    "anchor": "rule-d6f4f0ec-fd6e-506a-a0f0-178b60e75432",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d6f4f0ec-fd6e-506a-a0f0-178b60e75432"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-60be9d57-6a2a-5072-86d4-893bbe9de2b0",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-60be9d57-6a2a-5072-86d4-893bbe9de2b0"
+  },
+  {
+    "number": "10.18",
+    "type": "rule",
+    "anchor": "rule-4a439f01-3eab-5115-ae68-8dcdce49eaa1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4a439f01-3eab-5115-ae68-8dcdce49eaa1"
+  },
+  {
+    "number": "10.18.1",
+    "type": "rule",
+    "anchor": "rule-88ac622a-18b8-5e97-b377-d8962f90a275",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-88ac622a-18b8-5e97-b377-d8962f90a275"
+  },
+  {
+    "number": "10.19",
+    "type": "rule",
+    "anchor": "rule-2983417a-cb01-5db2-981f-9035e387cb92",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2983417a-cb01-5db2-981f-9035e387cb92"
+  },
+  {
+    "number": "10.19.1",
+    "type": "rule",
+    "anchor": "rule-bc2ce1a5-fd3d-58ba-9c6f-ee0f6d6767fd",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-bc2ce1a5-fd3d-58ba-9c6f-ee0f6d6767fd"
+  },
+  {
+    "number": "10.19.2",
+    "type": "rule",
+    "anchor": "rule-ffe43b5b-d10d-5c0c-b5c4-9edfbb107d9b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ffe43b5b-d10d-5c0c-b5c4-9edfbb107d9b"
+  },
+  {
+    "number": "10.19.3",
+    "type": "rule",
+    "anchor": "rule-9418140b-e420-58d7-b94d-61a07f9a5f55",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9418140b-e420-58d7-b94d-61a07f9a5f55"
+  },
+  {
+    "number": "10.20",
+    "type": "rule",
+    "anchor": "rule-c1ca813d-c771-54c8-a763-af94503be30b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c1ca813d-c771-54c8-a763-af94503be30b"
+  },
+  {
+    "number": "10.20.1",
+    "type": "rule",
+    "anchor": "rule-856deaab-7dd5-5dc0-8758-34d79ff00f5d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-856deaab-7dd5-5dc0-8758-34d79ff00f5d"
+  },
+  {
+    "number": "10.20.2",
+    "type": "rule",
+    "anchor": "rule-c9d462e9-f477-5f18-bc58-598409959e87",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c9d462e9-f477-5f18-bc58-598409959e87"
+  },
+  {
+    "number": "10.20.3",
+    "type": "rule",
+    "anchor": "rule-e5526b1c-94ca-5625-94c2-366534e12dff",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e5526b1c-94ca-5625-94c2-366534e12dff"
+  },
+  {
+    "number": "10.20.4",
+    "type": "rule",
+    "anchor": "rule-e6151846-52a1-5bae-868e-c603dc11c644",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e6151846-52a1-5bae-868e-c603dc11c644"
+  },
+  {
+    "number": "10.20.5",
+    "type": "rule",
+    "anchor": "rule-edf76476-48ed-5398-9aa9-18f93fd2eb78",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-edf76476-48ed-5398-9aa9-18f93fd2eb78"
+  },
+  {
+    "number": "10.20.6",
+    "type": "rule",
+    "anchor": "rule-834e6d9d-fed9-5d76-83c4-1d0f86918d6a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-834e6d9d-fed9-5d76-83c4-1d0f86918d6a"
+  },
+  {
+    "number": "10.20.7",
+    "type": "rule",
+    "anchor": "rule-fba30021-4537-55c3-b8a3-066dde12be5e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-fba30021-4537-55c3-b8a3-066dde12be5e"
+  },
+  {
+    "number": "10.21",
+    "type": "rule",
+    "anchor": "rule-76a8a196-457e-576f-8e50-c45868d76d21",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-76a8a196-457e-576f-8e50-c45868d76d21"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-f6778126-47df-5fa5-a522-17fcb728f468",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f6778126-47df-5fa5-a522-17fcb728f468"
+  },
+  {
+    "number": "10.22",
+    "type": "rule",
+    "anchor": "rule-4177d336-cd77-5ccc-8b37-4f4294651e83",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4177d336-cd77-5ccc-8b37-4f4294651e83"
+  },
+  {
+    "number": "10.22.1",
+    "type": "rule",
+    "anchor": "rule-da2cbcd4-3394-5281-8ff9-70a55bbdaf72",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-da2cbcd4-3394-5281-8ff9-70a55bbdaf72"
+  },
+  {
+    "number": "10.22.2",
+    "type": "rule",
+    "anchor": "rule-d6535522-a621-5cc2-a51c-16c3aa968a7d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d6535522-a621-5cc2-a51c-16c3aa968a7d"
+  },
+  {
+    "number": "10.22.3",
+    "type": "rule",
+    "anchor": "rule-b27f7dfb-74dc-532f-b3a3-941a0a75db93",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b27f7dfb-74dc-532f-b3a3-941a0a75db93"
+  },
+  {
+    "number": "10.23",
+    "type": "rule",
+    "anchor": "rule-6925e714-9ab6-537f-9f6e-032ec7fb0d05",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6925e714-9ab6-537f-9f6e-032ec7fb0d05"
+  },
+  {
+    "number": "10.23.1",
+    "type": "rule",
+    "anchor": "rule-375719e7-104c-503f-bab9-81da967292cc",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-375719e7-104c-503f-bab9-81da967292cc"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-aad331d7-a54c-54b9-bfdc-095fe62c5ddc",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-aad331d7-a54c-54b9-bfdc-095fe62c5ddc"
+  },
+  {
+    "number": "10.24",
+    "type": "rule",
+    "anchor": "rule-9d86d6a1-cdb3-5ead-9739-432d5c37b5b4",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9d86d6a1-cdb3-5ead-9739-432d5c37b5b4"
+  },
+  {
+    "number": "10.25",
+    "type": "rule",
+    "anchor": "rule-0fba57c7-034f-54ab-9e75-4a1ed2e22df3",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0fba57c7-034f-54ab-9e75-4a1ed2e22df3"
+  },
+  {
+    "number": "10.26",
+    "type": "rule",
+    "anchor": "rule-ed3da26f-ba87-50fd-ad4a-4caa26c66b3c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ed3da26f-ba87-50fd-ad4a-4caa26c66b3c"
+  },
+  {
+    "number": "10.27",
+    "type": "rule",
+    "anchor": "rule-70953021-9c2f-5d5c-9cb9-ca253cf95820",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-70953021-9c2f-5d5c-9cb9-ca253cf95820"
+  },
+  {
+    "number": "10.28",
+    "type": "rule",
+    "anchor": "rule-783fea6c-f051-522f-a726-09f3e45b53f8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-783fea6c-f051-522f-a726-09f3e45b53f8"
+  },
+  {
+    "number": "10.28.1",
+    "type": "rule",
+    "anchor": "rule-75207e41-2cd1-5b5b-b266-a6497797e331",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-75207e41-2cd1-5b5b-b266-a6497797e331"
+  },
+  {
+    "number": "10.28.2",
+    "type": "rule",
+    "anchor": "rule-a66e3600-b445-5c5b-b911-5f31f703c235",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a66e3600-b445-5c5b-b911-5f31f703c235"
+  },
+  {
+    "number": "10.29",
+    "type": "rule",
+    "anchor": "rule-fae2e3c5-1657-5769-9ae8-5053b3b312db",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-fae2e3c5-1657-5769-9ae8-5053b3b312db"
+  },
+  {
+    "number": "10.29.1",
+    "type": "rule",
+    "anchor": "rule-08ee013c-c193-508b-9d04-73ca7cf30615",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-08ee013c-c193-508b-9d04-73ca7cf30615"
+  },
+  {
+    "number": "10.30",
+    "type": "rule",
+    "anchor": "rule-c5110662-a274-5193-96a4-183148936592",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c5110662-a274-5193-96a4-183148936592"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-5158832e-dd3c-5b8c-98b2-5f7d87e17da8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5158832e-dd3c-5b8c-98b2-5f7d87e17da8"
+  },
+  {
+    "number": "10.31",
+    "type": "rule",
+    "anchor": "rule-8a3e8673-80c4-54bd-b699-2020465faca8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8a3e8673-80c4-54bd-b699-2020465faca8"
+  },
+  {
+    "number": "10.31.1",
+    "type": "rule",
+    "anchor": "rule-913ad20f-9e3a-526d-a47e-94f428e64dc7",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-913ad20f-9e3a-526d-a47e-94f428e64dc7"
+  },
+  {
+    "number": "10.31.2",
+    "type": "rule",
+    "anchor": "rule-cbc104cc-31b3-50a8-8dba-9a484acb4c0f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-cbc104cc-31b3-50a8-8dba-9a484acb4c0f"
+  },
+  {
+    "number": "10.31.3",
+    "type": "rule",
+    "anchor": "rule-29106dd9-96ec-5e7f-bd7a-fa45b2d11c77",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-29106dd9-96ec-5e7f-bd7a-fa45b2d11c77"
+  },
+  {
+    "number": "10.32",
+    "type": "rule",
+    "anchor": "rule-4f583af1-79fa-506f-b7a6-2dc75d23890d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4f583af1-79fa-506f-b7a6-2dc75d23890d"
+  },
+  {
+    "number": "10.33",
+    "type": "rule",
+    "anchor": "rule-2d0107be-686a-528d-bbad-8a803e0f91d8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2d0107be-686a-528d-bbad-8a803e0f91d8"
+  },
+  {
+    "number": "11",
+    "type": "section",
+    "anchor": "rule-d3031204-40a4-51fb-930c-feb00b9d3192",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d3031204-40a4-51fb-930c-feb00b9d3192"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-1fd3abec-fd76-53bf-8158-1564130d9575",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1fd3abec-fd76-53bf-8158-1564130d9575"
+  },
+  {
+    "number": "11.1",
+    "type": "rule",
+    "anchor": "rule-a2a83a05-cee0-530e-beb1-b3b588453fa6",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a2a83a05-cee0-530e-beb1-b3b588453fa6"
+  },
+  {
+    "number": "11.1.1",
+    "type": "rule",
+    "anchor": "rule-63d1a83a-7ade-5740-821d-99658da88f61",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-63d1a83a-7ade-5740-821d-99658da88f61"
+  },
+  {
+    "number": "11.1.1.1",
+    "type": "rule",
+    "anchor": "rule-ab4ab68f-28fd-54ce-b676-c16b0458968e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ab4ab68f-28fd-54ce-b676-c16b0458968e"
+  },
+  {
+    "number": "11.1.1.2",
+    "type": "rule",
+    "anchor": "rule-d3479ad5-fb5e-5170-a84e-5c5e34ac812c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d3479ad5-fb5e-5170-a84e-5c5e34ac812c"
+  },
+  {
+    "number": "11.1.2",
+    "type": "rule",
+    "anchor": "rule-e18957a1-82f2-5039-b079-75f61c41694a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e18957a1-82f2-5039-b079-75f61c41694a"
+  },
+  {
+    "number": "11.1.2.1",
+    "type": "rule",
+    "anchor": "rule-b114c487-23e5-5dd8-89b2-95a94393c31d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b114c487-23e5-5dd8-89b2-95a94393c31d"
+  },
+  {
+    "number": "11.2",
+    "type": "rule",
+    "anchor": "rule-d7f81bc9-3543-59bc-92cd-b0468c0e3a28",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d7f81bc9-3543-59bc-92cd-b0468c0e3a28"
+  },
+  {
+    "number": "11.2.1",
+    "type": "rule",
+    "anchor": "rule-8b604dc8-a78f-5b73-ac0e-81b3c65947f5",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8b604dc8-a78f-5b73-ac0e-81b3c65947f5"
+  },
+  {
+    "number": "11.2.2",
+    "type": "rule",
+    "anchor": "rule-79b8d63b-d00c-5cb4-a25e-b4f6aff0aad8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-79b8d63b-d00c-5cb4-a25e-b4f6aff0aad8"
+  },
+  {
+    "number": "11.2.3",
+    "type": "rule",
+    "anchor": "rule-0f6476e7-d985-5c75-b5c4-0e863d95a2d0",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0f6476e7-d985-5c75-b5c4-0e863d95a2d0"
+  },
+  {
+    "number": "11.3",
+    "type": "rule",
+    "anchor": "rule-6a4b19b9-eb52-5c00-af79-61a40eb948ca",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6a4b19b9-eb52-5c00-af79-61a40eb948ca"
+  },
+  {
+    "number": "11.3.1",
+    "type": "rule",
+    "anchor": "rule-89522fc2-84b8-5060-aa38-1c642d1245ef",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-89522fc2-84b8-5060-aa38-1c642d1245ef"
+  },
+  {
+    "number": "11.3.1.1",
+    "type": "rule",
+    "anchor": "rule-b9f6abfe-f672-594c-891b-a0f81ed2698e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b9f6abfe-f672-594c-891b-a0f81ed2698e"
+  },
+  {
+    "number": "11.3.1.2",
+    "type": "rule",
+    "anchor": "rule-79fcfe4d-18c1-56c1-b314-be1abda846fd",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-79fcfe4d-18c1-56c1-b314-be1abda846fd"
+  },
+  {
+    "number": "11.3.2",
+    "type": "rule",
+    "anchor": "rule-d0f4fd8c-8361-57da-8b5c-d74883ec008c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d0f4fd8c-8361-57da-8b5c-d74883ec008c"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-f1e04ee7-12d2-565f-8917-75ea798e6c4c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f1e04ee7-12d2-565f-8917-75ea798e6c4c"
+  },
+  {
+    "number": "11.4",
+    "type": "rule",
+    "anchor": "rule-aa988d35-9ddc-5697-ad1b-936546a0759a",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-aa988d35-9ddc-5697-ad1b-936546a0759a"
+  },
+  {
+    "number": "11.4.1",
+    "type": "rule",
+    "anchor": "rule-a43df43e-6bbf-5509-8c72-724df3c8a102",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a43df43e-6bbf-5509-8c72-724df3c8a102"
+  },
+  {
+    "number": "11.4.1.1",
+    "type": "rule",
+    "anchor": "rule-9e29272d-85ed-5919-8797-91ad4d2da5bb",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9e29272d-85ed-5919-8797-91ad4d2da5bb"
+  },
+  {
+    "number": "11.4.1.2",
+    "type": "rule",
+    "anchor": "rule-86b2fa2b-9ee1-5aca-bf3d-d6c84fc51937",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-86b2fa2b-9ee1-5aca-bf3d-d6c84fc51937"
+  },
+  {
+    "number": "11.4.2",
+    "type": "rule",
+    "anchor": "rule-1b9e04c5-6cd0-53e2-8b8d-594eddc95f6b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1b9e04c5-6cd0-53e2-8b8d-594eddc95f6b"
+  },
+  {
+    "number": "11.4.3",
+    "type": "rule",
+    "anchor": "rule-ac3adeec-4acc-5424-9c83-70f02873be79",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ac3adeec-4acc-5424-9c83-70f02873be79"
+  },
+  {
+    "number": "11.5",
+    "type": "rule",
+    "anchor": "rule-b07d7e94-c69d-5162-a49c-f77241f8d44b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b07d7e94-c69d-5162-a49c-f77241f8d44b"
+  },
+  {
+    "number": "11.5.1",
+    "type": "rule",
+    "anchor": "rule-6f6c0aaa-14cd-5e31-b36f-d7edfe45fbc8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6f6c0aaa-14cd-5e31-b36f-d7edfe45fbc8"
+  },
+  {
+    "number": "11.5.2",
+    "type": "rule",
+    "anchor": "rule-876c5e9c-5bb1-57ae-aa16-597689e100f2",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-876c5e9c-5bb1-57ae-aa16-597689e100f2"
+  },
+  {
+    "number": "11.5.2.1",
+    "type": "rule",
+    "anchor": "rule-6783320a-b798-5dc2-832f-8f4684f368b4",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6783320a-b798-5dc2-832f-8f4684f368b4"
+  },
+  {
+    "number": "11.5.2.2",
+    "type": "rule",
+    "anchor": "rule-b3d2acff-aefb-57ea-bae7-cdb911f2ef05",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b3d2acff-aefb-57ea-bae7-cdb911f2ef05"
+  },
+  {
+    "number": "11.5.2.3",
+    "type": "rule",
+    "anchor": "rule-8e54ab25-b33c-563b-b22c-87920ddc5bc1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8e54ab25-b33c-563b-b22c-87920ddc5bc1"
+  },
+  {
+    "number": "11.6",
+    "type": "rule",
+    "anchor": "rule-b076fca2-f099-5c4d-b80a-d789a90e2ce9",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b076fca2-f099-5c4d-b80a-d789a90e2ce9"
+  },
+  {
+    "number": "11.6.1",
+    "type": "rule",
+    "anchor": "rule-dfe3f07b-2449-5676-828a-31b341da458f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-dfe3f07b-2449-5676-828a-31b341da458f"
+  },
+  {
+    "number": "11.6.1.1",
+    "type": "rule",
+    "anchor": "rule-ed4d1538-f9d7-5e54-8500-4c3770f0f8ae",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ed4d1538-f9d7-5e54-8500-4c3770f0f8ae"
+  },
+  {
+    "number": "11.6.1.2",
+    "type": "rule",
+    "anchor": "rule-40b92b3a-9b49-57fa-908c-4295f9083702",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-40b92b3a-9b49-57fa-908c-4295f9083702"
+  },
+  {
+    "number": "11.6.2",
+    "type": "rule",
+    "anchor": "rule-a1b75014-bd29-5ac5-a542-0296a5f0999c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a1b75014-bd29-5ac5-a542-0296a5f0999c"
+  },
+  {
+    "number": "11.6.3",
+    "type": "rule",
+    "anchor": "rule-21ce4ea0-cc98-5bef-b98c-ae45efc578a8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-21ce4ea0-cc98-5bef-b98c-ae45efc578a8"
+  },
+  {
+    "number": "11.6.4",
+    "type": "rule",
+    "anchor": "rule-a66fea10-5a35-53a0-bfa0-2366515f2ad5",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a66fea10-5a35-53a0-bfa0-2366515f2ad5"
+  },
+  {
+    "number": "11.6.5",
+    "type": "rule",
+    "anchor": "rule-881287eb-718c-5108-aca6-fef0991dd8da",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-881287eb-718c-5108-aca6-fef0991dd8da"
+  },
+  {
+    "number": "11.6.6",
+    "type": "rule",
+    "anchor": "rule-f26adaec-1eb7-570b-8d26-de3e5dcc7003",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f26adaec-1eb7-570b-8d26-de3e5dcc7003"
+  },
+  {
+    "number": "11.7",
+    "type": "rule",
+    "anchor": "rule-a02e3323-55b6-506b-81a2-77a665e95503",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a02e3323-55b6-506b-81a2-77a665e95503"
+  },
+  {
+    "number": "11.7.1",
+    "type": "rule",
+    "anchor": "rule-caa43f36-3ad6-50b1-9a8e-0568710cf37d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-caa43f36-3ad6-50b1-9a8e-0568710cf37d"
+  },
+  {
+    "number": "11.7.2",
+    "type": "rule",
+    "anchor": "rule-3c78a3e5-0de0-54bd-b830-9fed691b1f93",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3c78a3e5-0de0-54bd-b830-9fed691b1f93"
+  },
+  {
+    "number": "11.7.2.1",
+    "type": "rule",
+    "anchor": "rule-ed3dae12-d23c-53d1-9342-4f2617f85e18",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ed3dae12-d23c-53d1-9342-4f2617f85e18"
+  },
+  {
+    "number": "11.7.2.1.1",
+    "type": "rule",
+    "anchor": "rule-2037ce23-58ad-5241-acf1-6a73c12944a1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-2037ce23-58ad-5241-acf1-6a73c12944a1"
+  },
+  {
+    "number": "11.7.2.1.2",
+    "type": "rule",
+    "anchor": "rule-b4cf3a7f-7983-5fce-8c9b-5629590be8af",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b4cf3a7f-7983-5fce-8c9b-5629590be8af"
+  },
+  {
+    "number": "11.8",
+    "type": "rule",
+    "anchor": "rule-0ed2bde9-70df-5941-acbe-47aae4afe45d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0ed2bde9-70df-5941-acbe-47aae4afe45d"
+  },
+  {
+    "number": "11.8.1",
+    "type": "rule",
+    "anchor": "rule-4596e054-f5ea-59b0-a4ee-b2b1ffaab538",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4596e054-f5ea-59b0-a4ee-b2b1ffaab538"
+  },
+  {
+    "number": "11.8.2",
+    "type": "rule",
+    "anchor": "rule-57cfc81f-6f04-5623-a6c5-2299c668a80b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-57cfc81f-6f04-5623-a6c5-2299c668a80b"
+  },
+  {
+    "number": "11.8.3",
+    "type": "rule",
+    "anchor": "rule-28910994-d5a4-520f-868b-f9351e54d0cc",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-28910994-d5a4-520f-868b-f9351e54d0cc"
+  },
+  {
+    "number": "11.8.4",
+    "type": "rule",
+    "anchor": "rule-14473938-0853-59a5-8b76-839815305b7d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-14473938-0853-59a5-8b76-839815305b7d"
+  },
+  {
+    "number": "11.8.4.1",
+    "type": "rule",
+    "anchor": "rule-57acba70-1b69-5ec1-bbbf-5b947fb828b0",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-57acba70-1b69-5ec1-bbbf-5b947fb828b0"
+  },
+  {
+    "number": "11.9",
+    "type": "rule",
+    "anchor": "rule-6975b781-cb43-5d29-ab97-01954f9127bb",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6975b781-cb43-5d29-ab97-01954f9127bb"
+  },
+  {
+    "number": "11.9.1",
+    "type": "rule",
+    "anchor": "rule-15c25b2b-d283-56ac-8a7b-1912e45fc493",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-15c25b2b-d283-56ac-8a7b-1912e45fc493"
+  },
+  {
+    "number": "11.9.1.1",
+    "type": "rule",
+    "anchor": "rule-69699c9c-1059-54ae-998f-57afbe7ae7f1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-69699c9c-1059-54ae-998f-57afbe7ae7f1"
+  },
+  {
+    "number": "11.9.1.2",
+    "type": "rule",
+    "anchor": "rule-c5bcad99-2328-575f-a4f3-be15857a7113",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c5bcad99-2328-575f-a4f3-be15857a7113"
+  },
+  {
+    "number": "11.9.2",
+    "type": "rule",
+    "anchor": "rule-3ee7218b-681d-55fc-a57d-64599688ad19",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3ee7218b-681d-55fc-a57d-64599688ad19"
+  },
+  {
+    "number": "11.9.2.1",
+    "type": "rule",
+    "anchor": "rule-c5ccfe8e-8925-5958-89f2-a85c56980e23",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c5ccfe8e-8925-5958-89f2-a85c56980e23"
+  },
+  {
+    "number": "11.9.2.2",
+    "type": "rule",
+    "anchor": "rule-433e96fb-6db2-5047-9e3a-4345b0cd6292",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-433e96fb-6db2-5047-9e3a-4345b0cd6292"
+  },
+  {
+    "number": "11.10",
+    "type": "rule",
+    "anchor": "rule-dc0fb014-a55c-5f9b-8020-92fbd47b3655",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-dc0fb014-a55c-5f9b-8020-92fbd47b3655"
+  },
+  {
+    "number": "11.10.1",
+    "type": "rule",
+    "anchor": "rule-ecb0913b-5da6-5c1b-9792-ee62e035699d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ecb0913b-5da6-5c1b-9792-ee62e035699d"
+  },
+  {
+    "number": "11.11",
+    "type": "rule",
+    "anchor": "rule-5a78278b-9f8b-5e64-b9aa-b2936f705af9",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-5a78278b-9f8b-5e64-b9aa-b2936f705af9"
+  },
+  {
+    "number": "11.11.1",
+    "type": "rule",
+    "anchor": "rule-39fd9086-abf3-51aa-9f80-1e70812a56ca",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-39fd9086-abf3-51aa-9f80-1e70812a56ca"
+  },
+  {
+    "number": "11.11.1.1",
+    "type": "rule",
+    "anchor": "rule-7a920181-a759-5d70-8591-8427508825fb",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-7a920181-a759-5d70-8591-8427508825fb"
+  },
+  {
+    "number": "11.11.1.2",
+    "type": "rule",
+    "anchor": "rule-cfe5bbc3-bfac-5c51-a12c-7925c2b17448",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-cfe5bbc3-bfac-5c51-a12c-7925c2b17448"
+  },
+  {
+    "number": "11.11.1.3",
+    "type": "rule",
+    "anchor": "rule-b33d9bd5-4b53-5917-8cc4-c4e3f1289084",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b33d9bd5-4b53-5917-8cc4-c4e3f1289084"
+  },
+  {
+    "number": "11.11.1.4",
+    "type": "rule",
+    "anchor": "rule-f8b9c404-b4d4-5fd3-b362-98fe3827d086",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f8b9c404-b4d4-5fd3-b362-98fe3827d086"
+  },
+  {
+    "number": "11.11.2",
+    "type": "rule",
+    "anchor": "rule-1455ee69-44e2-52f9-9199-8d8398e847ab",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1455ee69-44e2-52f9-9199-8d8398e847ab"
+  },
+  {
+    "number": "11.11.2.1",
+    "type": "rule",
+    "anchor": "rule-75266d49-01f2-5f84-bf3f-96ba70be3bcd",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-75266d49-01f2-5f84-bf3f-96ba70be3bcd"
+  },
+  {
+    "number": "11.11.2.2",
+    "type": "rule",
+    "anchor": "rule-506181c1-1525-5c7c-bcca-4247f41b80b6",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-506181c1-1525-5c7c-bcca-4247f41b80b6"
+  },
+  {
+    "number": "11.12",
+    "type": "rule",
+    "anchor": "rule-3cb91d69-87a6-5c59-a0ea-7aae60987910",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3cb91d69-87a6-5c59-a0ea-7aae60987910"
+  },
+  {
+    "number": "11.12.1",
+    "type": "rule",
+    "anchor": "rule-f7507a96-ec88-51f1-b8de-1ca58834e0dd",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f7507a96-ec88-51f1-b8de-1ca58834e0dd"
+  },
+  {
+    "number": "11.12.1.1",
+    "type": "rule",
+    "anchor": "rule-839e8243-a938-5c52-8b41-094a50cdb5de",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-839e8243-a938-5c52-8b41-094a50cdb5de"
+  },
+  {
+    "number": "11.12.1.2",
+    "type": "rule",
+    "anchor": "rule-72eb5ba4-511f-5339-8ca7-1523f3792c13",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-72eb5ba4-511f-5339-8ca7-1523f3792c13"
+  },
+  {
+    "number": "11.12.1.3",
+    "type": "rule",
+    "anchor": "rule-7fce635d-76b5-5c1d-baf7-2c23af9893cf",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-7fce635d-76b5-5c1d-baf7-2c23af9893cf"
+  },
+  {
+    "number": "11.12.2",
+    "type": "rule",
+    "anchor": "rule-c5d6e50f-1991-5eb5-9e4c-5a9153b9e453",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c5d6e50f-1991-5eb5-9e4c-5a9153b9e453"
+  },
+  {
+    "number": "11.13",
+    "type": "rule",
+    "anchor": "rule-ee9c2edf-f5f1-540d-b7ca-537caa8c5203",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ee9c2edf-f5f1-540d-b7ca-537caa8c5203"
+  },
+  {
+    "number": "11.13.1",
+    "type": "rule",
+    "anchor": "rule-210fadf3-ca41-520a-9694-a828e16313f8",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-210fadf3-ca41-520a-9694-a828e16313f8"
+  },
+  {
+    "number": "11.13.1.1",
+    "type": "rule",
+    "anchor": "rule-ce73f32c-7eaa-5f4b-bf93-ecddd53911da",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ce73f32c-7eaa-5f4b-bf93-ecddd53911da"
+  },
+  {
+    "number": "11.13.2",
+    "type": "rule",
+    "anchor": "rule-a1cac5cc-ce6e-58e2-9a3a-68afbdbf8ad5",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a1cac5cc-ce6e-58e2-9a3a-68afbdbf8ad5"
+  },
+  {
+    "number": "11.13.3",
+    "type": "rule",
+    "anchor": "rule-10a6884a-38c6-54d3-8ed0-f2259b767884",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-10a6884a-38c6-54d3-8ed0-f2259b767884"
+  },
+  {
+    "number": "11.13.4",
+    "type": "rule",
+    "anchor": "rule-a5e2d211-54ce-52ee-8bad-507b8cdb2d06",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a5e2d211-54ce-52ee-8bad-507b8cdb2d06"
+  },
+  {
+    "number": "11.13.4.1",
+    "type": "rule",
+    "anchor": "rule-6d163f21-eacb-5658-8011-6c62d13e9c6d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6d163f21-eacb-5658-8011-6c62d13e9c6d"
+  },
+  {
+    "number": "11.14",
+    "type": "rule",
+    "anchor": "rule-e539d7a2-a3fb-5fb0-aa96-d89e6f8689aa",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e539d7a2-a3fb-5fb0-aa96-d89e6f8689aa"
+  },
+  {
+    "number": "11.14.1",
+    "type": "rule",
+    "anchor": "rule-6c5340ce-a9b9-5481-ab16-7aa40df461f2",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-6c5340ce-a9b9-5481-ab16-7aa40df461f2"
+  },
+  {
+    "number": "11.14.2",
+    "type": "rule",
+    "anchor": "rule-c333c530-ec9f-57b6-8f81-1145630b933d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c333c530-ec9f-57b6-8f81-1145630b933d"
+  },
+  {
+    "number": "11.14.3",
+    "type": "rule",
+    "anchor": "rule-1276481c-7f6f-551a-8a98-cfbc59a7e495",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1276481c-7f6f-551a-8a98-cfbc59a7e495"
+  },
+  {
+    "number": "11.14.4",
+    "type": "rule",
+    "anchor": "rule-adcb7c85-f4b3-5146-9760-a9cd18cd2b32",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-adcb7c85-f4b3-5146-9760-a9cd18cd2b32"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-dfde58c0-6056-53d5-b6f6-5fc92822a2f3",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-dfde58c0-6056-53d5-b6f6-5fc92822a2f3"
+  },
+  {
+    "number": "11.15",
+    "type": "rule",
+    "anchor": "rule-d91c45ff-6072-540b-9fd9-473d66871a03",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d91c45ff-6072-540b-9fd9-473d66871a03"
+  },
+  {
+    "number": "11.15.1",
+    "type": "rule",
+    "anchor": "rule-661dc781-5142-503a-9726-131b48dccad9",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-661dc781-5142-503a-9726-131b48dccad9"
+  },
+  {
+    "number": "11.15.2",
+    "type": "rule",
+    "anchor": "rule-a614498f-378e-58a7-9b78-20a5073b0ea7",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a614498f-378e-58a7-9b78-20a5073b0ea7"
+  },
+  {
+    "number": "11.15.3",
+    "type": "rule",
+    "anchor": "rule-8d1c4556-8196-5f87-bdd9-58d04bb7c8cb",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8d1c4556-8196-5f87-bdd9-58d04bb7c8cb"
+  },
+  {
+    "number": "11.15.3.1",
+    "type": "rule",
+    "anchor": "rule-8de25231-82a0-50f6-9cc9-c07cb114d091",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8de25231-82a0-50f6-9cc9-c07cb114d091"
+  },
+  {
+    "number": "11.15.3.2",
+    "type": "rule",
+    "anchor": "rule-14165876-f3d6-5ccc-bc1d-56501c9f2074",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-14165876-f3d6-5ccc-bc1d-56501c9f2074"
+  },
+  {
+    "number": "11.16",
+    "type": "rule",
+    "anchor": "rule-cd5d3a7e-a806-5ed0-a982-1f5dfd5fc691",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-cd5d3a7e-a806-5ed0-a982-1f5dfd5fc691"
+  },
+  {
+    "number": "11.16.1",
+    "type": "rule",
+    "anchor": "rule-9653ef86-7aec-5b5e-a143-39eac3a95b81",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9653ef86-7aec-5b5e-a143-39eac3a95b81"
+  },
+  {
+    "number": "11.16.1.1",
+    "type": "rule",
+    "anchor": "rule-23f31adb-01ea-599c-8d2e-a10cdda3cace",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-23f31adb-01ea-599c-8d2e-a10cdda3cace"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-1e209da6-0bd1-5b07-9aff-71f536048aac",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1e209da6-0bd1-5b07-9aff-71f536048aac"
+  },
+  {
+    "number": "11.17",
+    "type": "rule",
+    "anchor": "rule-b8a449c7-0a61-5882-b93b-af59de963924",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b8a449c7-0a61-5882-b93b-af59de963924"
+  },
+  {
+    "number": "11.18",
+    "type": "rule",
+    "anchor": "rule-d2312a93-5d92-5ea9-8931-a7ec2cf099a3",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d2312a93-5d92-5ea9-8931-a7ec2cf099a3"
+  },
+  {
+    "number": "11.18.1",
+    "type": "rule",
+    "anchor": "rule-3b54835b-a532-57db-aac5-8530083cb672",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-3b54835b-a532-57db-aac5-8530083cb672"
+  },
+  {
+    "number": "11.18.2",
+    "type": "rule",
+    "anchor": "rule-443c2eb7-a52d-5ae0-8d6f-e3eb1c9ebf07",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-443c2eb7-a52d-5ae0-8d6f-e3eb1c9ebf07"
+  },
+  {
+    "number": "11.19",
+    "type": "rule",
+    "anchor": "rule-4cf5cd1e-25c8-5814-853c-57bd45148175",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-4cf5cd1e-25c8-5814-853c-57bd45148175"
+  },
+  {
+    "number": "11.19.1",
+    "type": "rule",
+    "anchor": "rule-068eadcc-47b3-5b7b-a36e-204c9157fde7",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-068eadcc-47b3-5b7b-a36e-204c9157fde7"
+  },
+  {
+    "number": "11.19.2",
+    "type": "rule",
+    "anchor": "rule-461344cf-8fb3-52d2-a686-f7c0fa69a3bc",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-461344cf-8fb3-52d2-a686-f7c0fa69a3bc"
+  },
+  {
+    "number": "11.20",
+    "type": "rule",
+    "anchor": "rule-c90aee2b-8c02-5a56-a642-ce54777589ee",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-c90aee2b-8c02-5a56-a642-ce54777589ee"
+  },
+  {
+    "number": "11.20.1",
+    "type": "rule",
+    "anchor": "rule-8cd9ee86-582a-5b96-8479-5210be17b58d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8cd9ee86-582a-5b96-8479-5210be17b58d"
+  },
+  {
+    "number": "11.20.2",
+    "type": "rule",
+    "anchor": "rule-ee8e6dfd-e555-5e55-a89e-69106cfbf68e",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-ee8e6dfd-e555-5e55-a89e-69106cfbf68e"
+  },
+  {
+    "number": "11.21",
+    "type": "rule",
+    "anchor": "rule-b29bc7e0-c684-58a1-a92a-990fe5de1113",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b29bc7e0-c684-58a1-a92a-990fe5de1113"
+  },
+  {
+    "number": "11.21.1",
+    "type": "rule",
+    "anchor": "rule-757d7e54-0cdc-5851-81e2-681452d48061",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-757d7e54-0cdc-5851-81e2-681452d48061"
+  },
+  {
+    "number": "11.21.2",
+    "type": "rule",
+    "anchor": "rule-0a9575c6-f1bb-5fc2-a01c-bb5b4c941f0f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-0a9575c6-f1bb-5fc2-a01c-bb5b4c941f0f"
+  },
+  {
+    "number": "11.21.2.1",
+    "type": "rule",
+    "anchor": "rule-e4715a13-e9e0-5ec9-bd06-166088b1adce",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e4715a13-e9e0-5ec9-bd06-166088b1adce"
+  },
+  {
+    "number": "11.21.2.2",
+    "type": "rule",
+    "anchor": "rule-a56dcfce-a0cc-5b39-9d76-d7ddf1c0dc60",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a56dcfce-a0cc-5b39-9d76-d7ddf1c0dc60"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-181f56ba-56f9-5d45-a539-e6d575ea8042",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-181f56ba-56f9-5d45-a539-e6d575ea8042"
+  },
+  {
+    "number": "11.22",
+    "type": "rule",
+    "anchor": "rule-f49a80d5-b99d-5242-bc2d-376f5f4208a1",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f49a80d5-b99d-5242-bc2d-376f5f4208a1"
+  },
+  {
+    "number": "11.23",
+    "type": "rule",
+    "anchor": "rule-8768e890-a7b6-5842-a5ee-7fa523febd30",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-8768e890-a7b6-5842-a5ee-7fa523febd30"
+  },
+  {
+    "number": "11.23.1",
+    "type": "rule",
+    "anchor": "rule-f2f9789e-1b54-58e2-80f5-33b06f51a7f7",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f2f9789e-1b54-58e2-80f5-33b06f51a7f7"
+  },
+  {
+    "number": "11.23.2",
+    "type": "rule",
+    "anchor": "rule-9de2268a-a906-57f8-bf12-239b544a7969",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-9de2268a-a906-57f8-bf12-239b544a7969"
+  },
+  {
+    "number": "11.24",
+    "type": "rule",
+    "anchor": "rule-7492c754-fc28-5cc4-a911-bb7d9adab203",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-7492c754-fc28-5cc4-a911-bb7d9adab203"
+  },
+  {
+    "number": "11.24.1",
+    "type": "rule",
+    "anchor": "rule-b4f2e661-b105-59dc-aae6-c40d19add0f2",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b4f2e661-b105-59dc-aae6-c40d19add0f2"
+  },
+  {
+    "number": "11.24.2",
+    "type": "rule",
+    "anchor": "rule-cfe8ea62-6a5c-5581-9a2d-f0d9d031e901",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-cfe8ea62-6a5c-5581-9a2d-f0d9d031e901"
+  },
+  {
+    "number": "11.24.3",
+    "type": "rule",
+    "anchor": "rule-d961fd3e-5e4c-5251-9897-a6f43467684d",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-d961fd3e-5e4c-5251-9897-a6f43467684d"
+  },
+  {
+    "number": "11.25",
+    "type": "rule",
+    "anchor": "rule-46b1283b-1fb2-5cf2-9bca-4bb5aa8a35df",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-46b1283b-1fb2-5cf2-9bca-4bb5aa8a35df"
+  },
+  {
+    "number": "11.25.1",
+    "type": "rule",
+    "anchor": "rule-b23c1154-470d-539a-8530-a6c84b996bbb",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-b23c1154-470d-539a-8530-a6c84b996bbb"
+  },
+  {
+    "number": "11.26",
+    "type": "rule",
+    "anchor": "rule-86f65009-eda8-56d8-bc0d-58faa877bea9",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-86f65009-eda8-56d8-bc0d-58faa877bea9"
+  },
+  {
+    "number": "11.26.1",
+    "type": "rule",
+    "anchor": "rule-f2975f7f-a5c9-5c6a-8992-4d6ce8b7c9e7",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-f2975f7f-a5c9-5c6a-8992-4d6ce8b7c9e7"
+  },
+  {
+    "number": "11.26.1.1",
+    "type": "rule",
+    "anchor": "rule-a79b5525-cfa5-5784-bfa9-6d8f44ae051f",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-a79b5525-cfa5-5784-bfa9-6d8f44ae051f"
+  },
+  {
+    "number": "11.26.1.2",
+    "type": "rule",
+    "anchor": "rule-615c1c15-0217-5b4d-b8e9-cd840219959c",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-615c1c15-0217-5b4d-b8e9-cd840219959c"
+  },
+  {
+    "number": "11.26.2",
+    "type": "rule",
+    "anchor": "rule-1ab9907a-ccb1-5bca-b737-64800398c30b",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-1ab9907a-ccb1-5bca-b737-64800398c30b"
+  },
+  {
+    "number": "11.26.3",
+    "type": "rule",
+    "anchor": "rule-96b6dae6-9230-5d2c-beb8-941a66c7fb88",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-96b6dae6-9230-5d2c-beb8-941a66c7fb88"
+  },
+  {
+    "number": "",
+    "type": "section",
+    "anchor": "rule-e1f37839-f422-53c9-b366-ac122940fc65",
+    "source_url": "https://cyberpunktcg.com/comprehensive-rules#rule-e1f37839-f422-53c9-b366-ac122940fc65"
+  }
+]

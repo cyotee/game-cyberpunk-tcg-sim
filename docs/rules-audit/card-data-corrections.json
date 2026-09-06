@@ -1,0 +1,78 @@
+{
+  "description": "Printed zero power is distinct from missing API data. These exact 18 renderings were manually checked; null cost remains null. Raw publisher captures are unchanged.",
+  "reviewedOn": "2026-09-06",
+  "cards": {
+    "dexter-deshawn-off-the-grid": {
+      "power": 0,
+      "evidence": "evidence/cards/dexter-deshawn-off-the-grid.webp"
+    },
+    "dum-dum-maelstrom-triggerman": {
+      "power": 0,
+      "evidence": "evidence/cards/dum-dum-maelstrom-triggerman.webp"
+    },
+    "evelyn-parker-beautiful-enigma": {
+      "power": 0,
+      "evidence": "evidence/cards/evelyn-parker-beautiful-enigma.webp"
+    },
+    "goro-takemura-vengeful-bodyguard": {
+      "power": 0,
+      "evidence": "evidence/cards/goro-takemura-vengeful-bodyguard.webp"
+    },
+    "hanako-arasaka-daughter-of-the-emperor": {
+      "power": 0,
+      "evidence": "evidence/cards/hanako-arasaka-daughter-of-the-emperor.webp"
+    },
+    "jackie-welles-pour-one-out-for-me": {
+      "power": 0,
+      "evidence": "evidence/cards/jackie-welles-pour-one-out-for-me.webp"
+    },
+    "johnny-silverhand-rocking-renegade": {
+      "power": 0,
+      "evidence": "evidence/cards/johnny-silverhand-rocking-renegade.webp"
+    },
+    "judy-a-lvarez-braindance-maestro": {
+      "power": 0,
+      "evidence": "evidence/cards/judy-a-lvarez-braindance-maestro.webp"
+    },
+    "kerry-eurodyne-axe-attitude-audience": {
+      "power": 0,
+      "evidence": "evidence/cards/kerry-eurodyne-axe-attitude-audience.webp"
+    },
+    "muamar-reyes-el-capita-n": {
+      "power": 0,
+      "evidence": "evidence/cards/muamar-reyes-el-capita-n.webp"
+    },
+    "padre-man-of-the-cross": {
+      "power": 0,
+      "evidence": "evidence/cards/padre-man-of-the-cross.webp"
+    },
+    "panam-palmer-nomad-cavalry": {
+      "power": 0,
+      "evidence": "evidence/cards/panam-palmer-nomad-cavalry.webp"
+    },
+    "river-ward-detective-on-the-hunt": {
+      "power": 0,
+      "evidence": "evidence/cards/river-ward-detective-on-the-hunt.webp"
+    },
+    "saburo-arasaka-stubborn-patriarch": {
+      "power": 0,
+      "evidence": "evidence/cards/saburo-arasaka-stubborn-patriarch.webp"
+    },
+    "viktor-vektor-sit-down-and-relax": {
+      "power": 0,
+      "evidence": "evidence/cards/viktor-vektor-sit-down-and-relax.webp"
+    },
+    "wakako-okada-peace-and-harmony": {
+      "power": 0,
+      "evidence": "evidence/cards/wakako-okada-peace-and-harmony.webp"
+    },
+    "yorinobu-arasaka-embracing-destruction": {
+      "power": 0,
+      "evidence": "evidence/cards/yorinobu-arasaka-embracing-destruction.webp"
+    },
+    "alt-cunningham-soulkiller-architect": {
+      "power": 0,
+      "evidence": "evidence/cards/alt-cunningham-soulkiller-architect.webp"
+    }
+  }
+}

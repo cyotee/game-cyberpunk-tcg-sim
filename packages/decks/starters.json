@@ -1,0 +1,181 @@
+{
+  "source": "https://cyberpunktcg.com/blog/wnc-starter-decks",
+  "published": "2026-08-21",
+  "verified": "2026-09-06",
+  "decks": [
+    {
+      "name": "The Heist Starter Deck",
+      "legends": [
+        {
+          "cardId": "jackie-welles-pour-one-out-for-me",
+          "quantity": 1
+        },
+        {
+          "cardId": "v-corporate-exile",
+          "quantity": 1
+        },
+        {
+          "cardId": "viktor-vektor-sit-down-and-relax",
+          "quantity": 1
+        }
+      ],
+      "main": [
+        {
+          "cardId": "afterparty-at-lizzie-s",
+          "quantity": 2
+        },
+        {
+          "cardId": "delamain-cab",
+          "quantity": 3
+        },
+        {
+          "cardId": "dexter-deshawn-one-last-chance",
+          "quantity": 2
+        },
+        {
+          "cardId": "dying-night-v-s-pistol",
+          "quantity": 2
+        },
+        {
+          "cardId": "evelyn-parker-scheming-siren",
+          "quantity": 3
+        },
+        {
+          "cardId": "floor-it",
+          "quantity": 3
+        },
+        {
+          "cardId": "heywood-ripperdoc",
+          "quantity": 2
+        },
+        {
+          "cardId": "kiroshi-optics",
+          "quantity": 3
+        },
+        {
+          "cardId": "mandibular-upgrade",
+          "quantity": 3
+        },
+        {
+          "cardId": "mt0d12-flathead",
+          "quantity": 2
+        },
+        {
+          "cardId": "offduty-malfini",
+          "quantity": 2
+        },
+        {
+          "cardId": "psycho-squad",
+          "quantity": 2
+        },
+        {
+          "cardId": "reboot-optics",
+          "quantity": 2
+        },
+        {
+          "cardId": "secondhand-bombus",
+          "quantity": 2
+        },
+        {
+          "cardId": "t-bug-amateur-philosopher",
+          "quantity": 2
+        },
+        {
+          "cardId": "tetratronic-rippler",
+          "quantity": 2
+        },
+        {
+          "cardId": "zetatech-faceplate",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "name": "Embracing Power Starter Deck",
+      "legends": [
+        {
+          "cardId": "goro-takemura-hands-unclean",
+          "quantity": 1
+        },
+        {
+          "cardId": "yorinobu-arasaka-embracing-destruction",
+          "quantity": 1
+        },
+        {
+          "cardId": "saburo-arasaka-stubborn-patriarch",
+          "quantity": 1
+        }
+      ],
+      "main": [
+        {
+          "cardId": "chrome-fang",
+          "quantity": 2
+        },
+        {
+          "cardId": "minotaur",
+          "quantity": 2
+        },
+        {
+          "cardId": "ruthless-lowlife",
+          "quantity": 3
+        },
+        {
+          "cardId": "swordwise-huscle",
+          "quantity": 2
+        },
+        {
+          "cardId": "emergency-atlus",
+          "quantity": 2
+        },
+        {
+          "cardId": "field-operator",
+          "quantity": 2
+        },
+        {
+          "cardId": "goro-takemura-losing-his-way",
+          "quantity": 2
+        },
+        {
+          "cardId": "maxtac-av",
+          "quantity": 2
+        },
+        {
+          "cardId": "arasaka-emergency-radioport",
+          "quantity": 2
+        },
+        {
+          "cardId": "mantis-blades",
+          "quantity": 3
+        },
+        {
+          "cardId": "satori-sword-of-saburo",
+          "quantity": 3
+        },
+        {
+          "cardId": "industrial-assembly",
+          "quantity": 2
+        },
+        {
+          "cardId": "over-the-edge",
+          "quantity": 2
+        },
+        {
+          "cardId": "shattered-memories",
+          "quantity": 2
+        },
+        {
+          "cardId": "corpo-security",
+          "quantity": 3
+        },
+        {
+          "cardId": "sandevistan",
+          "quantity": 3
+        },
+        {
+          "cardId": "corporate-surveillance",
+          "quantity": 3
+        }
+      ]
+    }
+  ]
+}

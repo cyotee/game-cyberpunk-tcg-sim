@@ -1,0 +1,233 @@
+{
+  "name": "The Heist Starter Deck",
+  "entries": [
+    {
+      "section": "Legends",
+      "quantity": 1,
+      "input_number": "011",
+      "input_name": "Jackie Welles — Pour One Out For Me",
+      "card_id": "40502c1f-78a2-426a-a706-c60ebd4b31e3",
+      "slug": "jackie-welles-pour-one-out-for-me",
+      "matching_printing_ids": [
+        "a33d3324-fe48-4a9f-80a8-8545a0a4727f"
+      ]
+    },
+    {
+      "section": "Legends",
+      "quantity": 1,
+      "input_number": "012",
+      "input_name": "V — Corporate Exile",
+      "card_id": "627186b3-cffb-4228-aed4-b3ee35235fb6",
+      "slug": "v-corporate-exile",
+      "matching_printing_ids": [
+        "4a5591f9-743e-4186-8deb-560971bb3f82"
+      ]
+    },
+    {
+      "section": "Legends",
+      "quantity": 1,
+      "input_number": "001",
+      "input_name": "Viktor Vektor — Sit Down and Relax",
+      "card_id": "f090dc44-d7f0-4aec-a19e-9213155a6611",
+      "slug": "viktor-vektor-sit-down-and-relax",
+      "matching_printing_ids": [
+        "7d539173-4022-402e-a9f4-100338935fd2",
+        "2344e8d6-3aed-415b-ab6e-f1d634b5ba18"
+      ]
+    },
+    {
+      "section": "Main Deck",
+      "quantity": 2,
+      "input_number": "065",
+      "input_name": "Afterparty at Lizzie's",
+      "card_id": "d039e4b3-9b83-40da-8d8f-b1dfb1f172f1",
+      "slug": "afterparty-at-lizzie-s",
+      "matching_printing_ids": [
+        "d53925ee-df55-4b71-8ca0-13ec3ede2076"
+      ]
+    },
+    {
+      "section": "Main Deck",
+      "quantity": 3,
+      "input_number": "112",
+      "input_name": "Delamain Cab",
+      "card_id": "a1e60653-5e28-49ee-9798-d16520b553c3",
+      "slug": "delamain-cab",
+      "matching_printing_ids": [
+        "5b9cdefa-29f4-4a3a-a426-eea46302ef60"
+      ]
+    },
+    {
+      "section": "Main Deck",
+      "quantity": 2,
+      "input_number": "002",
+      "input_name": "Dexter DeShawn — One Last Chance",
+      "card_id": "f61b944a-32e3-4085-894b-7bd498325156",
+      "slug": "dexter-deshawn-one-last-chance",
+      "matching_printing_ids": [
+        "e2f38541-ecc9-41dc-ae15-164171391bff",
+        "daabe14b-dc95-413f-b91a-d3e32937bfd2"
+      ]
+    },
+    {
+      "section": "Main Deck",
+      "quantity": 2,
+      "input_number": "128",
+      "input_name": "Dying Night — V's Pistol",
+      "card_id": "df06b6e2-1675-48a3-bfe2-d0bc4c5f35eb",
+      "slug": "dying-night-v-s-pistol",
+      "matching_printing_ids": [
+        "2b1b6268-193f-4b9e-a63c-0cbc200d6db7"
+      ]
+    },
+    {
+      "section": "Main Deck",
+      "quantity": 3,
+      "input_number": "113",
+      "input_name": "Evelyn Parker — Scheming Siren",
+      "card_id": "a3cc3d15-8e6a-4684-b2ca-c843b4a854e2",
+      "slug": "evelyn-parker-scheming-siren",
+      "matching_printing_ids": [
+        "7d174619-2183-4058-a89a-082c6b7b5a5c"
+      ]
+    },
+    {
+      "section": "Main Deck",
+      "quantity": 3,
+      "input_number": "132",
+      "input_name": "Floor It",
+      "card_id": "0cd37c43-e722-48eb-91ef-4c1bd1645215",
+      "slug": "floor-it",
+      "matching_printing_ids": [
+        "91f9d30c-f74d-4be4-8505-52f05d309c92"
+      ]
+    },
+    {
+      "section": "Main Deck",
+      "quantity": 2,
+      "input_number": "047",
+      "input_name": "Heywood Ripperdoc",
+      "card_id": "2a9deb43-bf9a-41db-9a05-bb0d357bb08e",
+      "slug": "heywood-ripperdoc",
+      "matching_printing_ids": [
+        "2fc5ac93-dae5-4af5-a813-77abc0cc8dfd"
+      ]
+    },
+    {
+      "section": "Main Deck",
+      "quantity": 3,
+      "input_number": "061",
+      "input_name": "Kiroshi Optics",
+      "card_id": "654f2289-5d75-4f8b-bd35-702031fbb214",
+      "slug": "kiroshi-optics",
+      "matching_printing_ids": [
+        "ec3368a9-79f1-4dfc-9cf7-1cb464ec1c88"
+      ]
+    },
+    {
+      "section": "Main Deck",
+      "quantity": 3,
+      "input_number": "062",
+      "input_name": "Mandibular Upgrade",
+      "card_id": "6720e7fd-d1e8-4c8a-9ff2-f51f62241902",
+      "slug": "mandibular-upgrade",
+      "matching_printing_ids": [
+        "219b7a29-0f8b-4750-bc46-0f39eec6721b"
+      ]
+    },
+    {
+      "section": "Main Deck",
+      "quantity": 2,
+      "input_number": "015",
+      "input_name": "MT0D12 Flathead",
+      "card_id": "619429c9-132f-496e-8aa0-414e850c87ec",
+      "slug": "mt0d12-flathead",
+      "matching_printing_ids": [
+        "5f0d9dac-2547-4ecb-896e-0c603968422a"
+      ]
+    },
+    {
+      "section": "Main Deck",
+      "quantity": 2,
+      "input_number": "051",
+      "input_name": "Offduty Malfini",
+      "card_id": "3ce6b982-7bba-46f1-8832-8867ec3588d4",
+      "slug": "offduty-malfini",
+      "matching_printing_ids": [
+        "fbefb447-34a3-4d53-9b23-d1bf141f8eec"
+      ]
+    },
+    {
+      "section": "Main Deck",
+      "quantity": 2,
+      "input_number": "124",
+      "input_name": "Psycho Squad",
+      "card_id": "14d87f2a-8bd7-424f-b65b-3659156cef81",
+      "slug": "psycho-squad",
+      "matching_printing_ids": [
+        "d7e0e2e5-6e22-4b45-9e91-50936773e2e1"
+      ]
+    },
+    {
+      "section": "Main Deck",
+      "quantity": 2,
+      "input_number": "136",
+      "input_name": "Reboot Optics",
+      "card_id": "ad13a7bc-c49d-4166-8a9c-965e7bfa9b8f",
+      "slug": "reboot-optics",
+      "matching_printing_ids": [
+        "fb096d3f-48eb-47c0-a065-81b39691e12f"
+      ]
+    },
+    {
+      "section": "Main Deck",
+      "quantity": 2,
+      "input_number": "053",
+      "input_name": "Secondhand Bombus",
+      "card_id": "b05cb065-309e-45a3-bbe0-20f4b6ea71aa",
+      "slug": "secondhand-bombus",
+      "matching_printing_ids": [
+        "fcbb6d58-6666-4bd3-8ff0-64930fb0f422"
+      ]
+    },
+    {
+      "section": "Main Deck",
+      "quantity": 2,
+      "input_number": "055",
+      "input_name": "T-Bug — Amateur Philosopher",
+      "card_id": "5a5a177c-6ed8-4bd9-8b11-13c2b64414e2",
+      "slug": "t-bug-amateur-philosopher",
+      "matching_printing_ids": [
+        "e2e3d98d-0159-4a79-b543-e37264f23118"
+      ]
+    },
+    {
+      "section": "Main Deck",
+      "quantity": 2,
+      "input_number": "130",
+      "input_name": "Tetratronic Rippler",
+      "card_id": "39665784-d2f1-43e8-a958-894bac716d71",
+      "slug": "tetratronic-rippler",
+      "matching_printing_ids": [
+        "576f82ff-3c4d-4637-aa91-2773de43bbc8"
+      ]
+    },
+    {
+      "section": "Main Deck",
+      "quantity": 3,
+      "input_number": "064",
+      "input_name": "Zetatech Faceplate",
+      "card_id": "b88d436f-1ec7-4f62-9dbc-c5f5e0d0a0df",
+      "slug": "zetatech-faceplate",
+      "matching_printing_ids": [
+        "79cdc9a5-d94d-4df4-9f88-aa02fb0357b3"
+      ]
+    }
+  ],
+  "ram_limits": {
+    "Blue": 4,
+    "Yellow": 2
+  },
+  "result": "20/20 entries resolved; 3 Legends and 40 main cards; construction checks pass",
+  "limitation": "Does not certify cutoff eligibility or official starter quantities; not a production parser"
+}

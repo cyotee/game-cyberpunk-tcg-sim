@@ -1,0 +1,80 @@
+{
+  "measuredAt": "2026-09-06T14:11:11.309Z",
+  "scope": "Synthetic in-process PostgreSQL fixtures. Excludes deployed Vercel, network, real Discord and browser rendering. Not production acceptance.",
+  "reports": [
+    {
+      "players": 100,
+      "seatsPerTable": 5,
+      "tables": 20,
+      "reconnect": {
+        "requests": 100,
+        "p50Ms": 3914,
+        "p95Ms": 7130
+      },
+      "oldConnectionsRejected": 100,
+      "commands": {
+        "requests": 200,
+        "p50Ms": 844,
+        "p95Ms": 1548
+      },
+      "longHistoryEntriesPerTable": 10000,
+      "longHistoryFormat": "typed events; one third seat-private",
+      "snapshots": {
+        "requests": 100,
+        "p50Ms": 7233,
+        "p95Ms": 7544,
+        "responseBytes": 15659140
+      },
+      "anonymousDirectory": {
+        "requests": 100,
+        "p50Ms": 238,
+        "p95Ms": 242
+      },
+      "conditionalPolls": {
+        "requests": 300,
+        "p50Ms": 887,
+        "p95Ms": 1303,
+        "responseBytes": 137660,
+        "unchangedResponses": 100,
+        "presenceResponses": 200
+      }
+    },
+    {
+      "players": 100,
+      "seatsPerTable": 2,
+      "tables": 50,
+      "reconnect": {
+        "requests": 100,
+        "p50Ms": 1878,
+        "p95Ms": 3322
+      },
+      "oldConnectionsRejected": 100,
+      "commands": {
+        "requests": 500,
+        "p50Ms": 1429,
+        "p95Ms": 2602
+      },
+      "longHistoryEntriesPerTable": 10000,
+      "longHistoryFormat": "typed events; one third seat-private",
+      "snapshots": {
+        "requests": 100,
+        "p50Ms": 13975,
+        "p95Ms": 14232,
+        "responseBytes": 15374668
+      },
+      "anonymousDirectory": {
+        "requests": 100,
+        "p50Ms": 776,
+        "p95Ms": 778
+      },
+      "conditionalPolls": {
+        "requests": 300,
+        "p50Ms": 603,
+        "p95Ms": 7233,
+        "responseBytes": 55867,
+        "unchangedResponses": 178,
+        "presenceResponses": 122
+      }
+    }
+  ]
+}

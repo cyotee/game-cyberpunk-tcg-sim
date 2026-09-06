@@ -1,0 +1,47 @@
+{
+  "name": "cyberpunk-tcg-online",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "dev": "tsx watch apps/service/dev.ts",
+    "build": "tsc --noEmit && vite build",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "npm run build && playwright test",
+    "catalog": "python3 scripts/build-catalog.py",
+    "db:migrate": "node --import tsx scripts/migrate.ts",
+    "coverage:cards": "node --import tsx scripts/card-coverage.ts",
+    "check:release": "node --import tsx scripts/card-coverage.ts --release",
+    "test:postgres": "node --import tsx scripts/test-postgres.ts",
+    "lint": "prettier --check apps api packages/engine packages/decks packages/protocol packages/saves packages/catalog/index.ts packages/runtimes/index.ts packages/runtimes/entry.ts scripts/*.ts tests *.ts",
+    "check:deploy": "node --import tsx scripts/check-deploy.ts"
+  },
+  "dependencies": {
+    "idb": "^8.0.3",
+    "oauth4webapi": "^3.8.8",
+    "pg": "^8.23.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "zod": "^4.5.4"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.5.8",
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.4.1",
+    "@types/pg": "^8.23.1",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "esbuild": "0.28.2",
+    "prettier": "^3.9.6",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2",
+    "vite": "^8.2.2",
+    "vitest": "^5.0.0"
+  }
+}

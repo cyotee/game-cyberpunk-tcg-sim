@@ -1,0 +1,76 @@
+{
+  "measuredAt": "2026-09-06T12:02:55.926Z",
+  "scope": "Synthetic in-process PostgreSQL fixtures. Excludes deployed Vercel, network, real Discord and browser rendering. Not production acceptance.",
+  "reports": [
+    {
+      "players": 100,
+      "seatsPerTable": 5,
+      "tables": 20,
+      "reconnect": {
+        "requests": 100,
+        "p50Ms": 3577,
+        "p95Ms": 6603
+      },
+      "oldConnectionsRejected": 100,
+      "commands": {
+        "requests": 200,
+        "p50Ms": 1006,
+        "p95Ms": 1598
+      },
+      "longHistoryEntriesPerTable": 10000,
+      "snapshots": {
+        "requests": 100,
+        "p50Ms": 4741,
+        "p95Ms": 5164,
+        "responseBytes": 18180000
+      },
+      "anonymousDirectory": {
+        "requests": 100,
+        "p50Ms": 314,
+        "p95Ms": 325
+      },
+      "conditionalPolls": {
+        "requests": 300,
+        "p50Ms": 644,
+        "p95Ms": 11425,
+        "responseBytes": 66304625,
+        "unchangedResponses": 240
+      }
+    },
+    {
+      "players": 100,
+      "seatsPerTable": 2,
+      "tables": 50,
+      "reconnect": {
+        "requests": 100,
+        "p50Ms": 3084,
+        "p95Ms": 5225
+      },
+      "oldConnectionsRejected": 100,
+      "commands": {
+        "requests": 500,
+        "p50Ms": 1925,
+        "p95Ms": 3259
+      },
+      "longHistoryEntriesPerTable": 10000,
+      "snapshots": {
+        "requests": 100,
+        "p50Ms": 8609,
+        "p95Ms": 9026,
+        "responseBytes": 17880964
+      },
+      "anonymousDirectory": {
+        "requests": 100,
+        "p50Ms": 565,
+        "p95Ms": 570
+      },
+      "conditionalPolls": {
+        "requests": 300,
+        "p50Ms": 641,
+        "p95Ms": 9208,
+        "responseBytes": 55191622,
+        "unchangedResponses": 250
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "scope": "In-process API handler against disposable PGlite. Excludes HTTP, Vercel, hosted PostgreSQL, cold starts and browser rendering. Not production capacity certification.",
+  "measuredAt": "2026-09-06T10:27:13.414Z",
+  "results": [
+    {
+      "players": 100,
+      "tables": 20,
+      "seatsPerTable": 5,
+      "requests": 300,
+      "elapsedMs": 11515,
+      "p50Ms": 3253,
+      "p95Ms": 4122,
+      "responseBytes": 3926250
+    },
+    {
+      "players": 100,
+      "tables": 50,
+      "seatsPerTable": 2,
+      "requests": 300,
+      "elapsedMs": 6974,
+      "p50Ms": 1846,
+      "p95Ms": 2221,
+      "responseBytes": 3139656
+    }
+  ]
+}

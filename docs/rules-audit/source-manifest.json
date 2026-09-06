@@ -1,0 +1,40 @@
+{
+  "retrieved_on": "2026-09-05",
+  "cutoff": "2026-09-05",
+  "eligibility_policy": "Sufficient officially published gameplay definition by cutoff; physical release not required",
+  "rules_updated_at": "2026-09-01T19:28:10.028Z",
+  "faqs_updated_at": "2026-09-04T22:57:19.946Z",
+  "access": "Public unauthenticated GET endpoints used by the official website; no supported external API contract verified",
+  "files": [
+    {
+      "file": "sources/comprehensive-rules.json",
+      "url": "https://api.netdeck.gg/api/cyberpunk/comprehensive-rules",
+      "sha256": "b1e36a820eefa70885cee00b2116b55077dd90565554f81400bc1700e6cbe06a"
+    },
+    {
+      "file": "sources/faqs.json",
+      "url": "https://api.netdeck.gg/api/faqs/cyberpunk",
+      "sha256": "4bc94a1a08bb0b07e749fb46207895b145197fe44991ca7c77262b4fbb8b2d03"
+    },
+    {
+      "file": "sources/card-filters.json",
+      "url": "https://api.netdeck.gg/api/cards/cyberpunk/filters",
+      "sha256": "8e261790d4b4237b92ad708656cf9751a663070728709bfeb1c02bcc067ac1f0"
+    },
+    {
+      "file": "sources/cards-page-0.json",
+      "url": "https://api.netdeck.gg/api/cards/cyberpunk?limit=100&offset=0",
+      "sha256": "8ae7b5882eacfe3de0dd0a0f7a78295823111ab1c2e4cff62aa8f73dde2e72ae"
+    },
+    {
+      "file": "sources/cards-page-100.json",
+      "url": "https://api.netdeck.gg/api/cards/cyberpunk?limit=100&offset=100",
+      "sha256": "449827caff598b21035e5c71396e936e9a1221bb04e8ccb21901b18852c00780"
+    },
+    {
+      "file": "sources/card-details.json",
+      "url": "https://api.netdeck.gg/api/cards/cyberpunk/{slug} (151 public GET responses)",
+      "sha256": "0e6c250da47fac51da8d732f42c0ddae53116a832f28e47447f4cf6ab8101533"
+    }
+  ]
+}

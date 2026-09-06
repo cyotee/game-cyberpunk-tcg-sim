@@ -1,0 +1,3173 @@
+{
+  "description": "Manual image/textbox review, not full ability certification. Numeric values were read from each official rendering.",
+  "reviews": [
+    {
+      "id": "adrenaline-converter",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/adrenaline-converter.webp",
+      "stats": {
+        "cost": 2,
+        "power": 3,
+        "ram": 4,
+        "type": "Gear",
+        "color": "Yellow",
+        "tags": [
+          "Cyberware",
+          "Medtech"
+        ],
+        "keywords": [],
+        "sell": true
+      },
+      "gearAbilityOwnership": "inherited",
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": ""
+    },
+    {
+      "id": "arasaka-emergency-radioport",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/arasaka-emergency-radioport.webp",
+      "stats": {
+        "cost": 2,
+        "power": 2,
+        "ram": 2,
+        "type": "Gear",
+        "color": "Red",
+        "tags": [
+          "Arasaka",
+          "Cyberware"
+        ],
+        "sell": true,
+        "keywords": []
+      },
+      "gearAbilityOwnership": "inherited",
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": ""
+    },
+    {
+      "id": "deadman-transmitter",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/deadman-transmitter.webp",
+      "stats": {
+        "cost": 3,
+        "power": 1,
+        "ram": 3,
+        "type": "Gear",
+        "color": "Red",
+        "tags": [
+          "Cyberware",
+          "Trauma Team"
+        ],
+        "keywords": [],
+        "sell": true
+      },
+      "gearAbilityOwnership": "inherited",
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": ""
+    },
+    {
+      "id": "dying-night-v-s-pistol",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/dying-night-v-s-pistol.webp",
+      "stats": {
+        "cost": 2,
+        "power": 2,
+        "ram": 2,
+        "type": "Gear",
+        "color": "Blue",
+        "tags": [
+          "Merc",
+          "Weapon"
+        ],
+        "sell": true,
+        "keywords": []
+      },
+      "gearAbilityOwnership": "inherited",
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Attack paragraph includes the delayed end-of-turn instruction; FAQ explicitly preserves it after bearer defeat."
+    },
+    {
+      "id": "gorilla-arms",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/gorilla-arms.webp",
+      "stats": {
+        "cost": 4,
+        "power": 3,
+        "ram": 3,
+        "type": "Gear",
+        "color": "Yellow",
+        "tags": [
+          "Cyberware"
+        ],
+        "keywords": [],
+        "sell": true
+      },
+      "gearAbilityOwnership": "inherited",
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": ""
+    },
+    {
+      "id": "kiroshi-optics",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/kiroshi-optics.webp",
+      "stats": {
+        "cost": 1,
+        "power": 1,
+        "ram": 1,
+        "type": "Gear",
+        "color": "Yellow",
+        "tags": [
+          "Cyberware"
+        ],
+        "sell": true,
+        "keywords": []
+      },
+      "gearAbilityOwnership": "inherited",
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Kiroshi reminder says Unit rather than friendly Unit; reminder text is non-binding under the comprehensive rules. Follow normal friendly equip eligibility."
+    },
+    {
+      "id": "mandibular-upgrade",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/mandibular-upgrade.webp",
+      "stats": {
+        "cost": 1,
+        "power": 0,
+        "ram": 2,
+        "type": "Gear",
+        "color": "Yellow",
+        "tags": [
+          "Cyberware"
+        ],
+        "keywords": [
+          "Blocker"
+        ],
+        "sell": true
+      },
+      "gearAbilityOwnership": "inherited",
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": ""
+    },
+    {
+      "id": "mantis-blades",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/mantis-blades.webp",
+      "stats": {
+        "cost": 1,
+        "power": 2,
+        "ram": 1,
+        "type": "Gear",
+        "color": "Red",
+        "tags": [
+          "Cyberware"
+        ],
+        "sell": true,
+        "keywords": []
+      },
+      "gearAbilityOwnership": "none",
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Mantis flavor excluded from executable text."
+    },
+    {
+      "id": "netwatch-netdriver",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/netwatch-netdriver.webp",
+      "stats": {
+        "cost": 3,
+        "power": 2,
+        "ram": 2,
+        "type": "Gear",
+        "color": "Blue",
+        "tags": [
+          "Cyberware",
+          "Netrunner",
+          "Netwatch"
+        ],
+        "sell": true,
+        "keywords": []
+      },
+      "gearAbilityOwnership": "inherited",
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": ""
+    },
+    {
+      "id": "overwatch-panam-s-gift",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/overwatch-panam-s-gift.webp",
+      "stats": {
+        "cost": 4,
+        "power": 4,
+        "ram": 4,
+        "type": "Gear",
+        "color": "Green",
+        "tags": [
+          "Weapon"
+        ],
+        "keywords": [
+          "Quick"
+        ],
+        "sell": true
+      },
+      "gearAbilityOwnership": "inherited",
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": ""
+    },
+    {
+      "id": "riot-shield",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/riot-shield.webp",
+      "stats": {
+        "cost": 2,
+        "power": 1,
+        "ram": 2,
+        "type": "Gear",
+        "color": "Green",
+        "tags": [
+          "Weapon"
+        ],
+        "keywords": [
+          "Blocker"
+        ],
+        "sell": true
+      },
+      "gearAbilityOwnership": "inherited",
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": ""
+    },
+    {
+      "id": "sandevistan",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/sandevistan.webp",
+      "stats": {
+        "cost": 3,
+        "power": 2,
+        "ram": 3,
+        "type": "Gear",
+        "color": "Green",
+        "tags": [
+          "Cyberware"
+        ],
+        "sell": true,
+        "keywords": []
+      },
+      "gearAbilityOwnership": "inherited",
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": ""
+    },
+    {
+      "id": "satori-sword-of-saburo",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/satori-sword-of-saburo.webp",
+      "stats": {
+        "cost": 2,
+        "power": 2,
+        "ram": 1,
+        "type": "Gear",
+        "color": "Red",
+        "tags": [
+          "Arasaka",
+          "Weapon"
+        ],
+        "sell": true,
+        "keywords": []
+      },
+      "gearAbilityOwnership": "inherited",
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": ""
+    },
+    {
+      "id": "tetratronic-rippler",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/tetratronic-rippler.webp",
+      "stats": {
+        "cost": 1,
+        "power": 1,
+        "ram": 2,
+        "type": "Gear",
+        "color": "Blue",
+        "tags": [
+          "Cyberware"
+        ],
+        "sell": true,
+        "keywords": []
+      },
+      "gearAbilityOwnership": "inherited",
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": ""
+    },
+    {
+      "id": "the-relic-experimental-biochip",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/the-relic-experimental-biochip.webp",
+      "stats": {
+        "cost": 5,
+        "power": 3,
+        "ram": 4,
+        "type": "Gear",
+        "color": "Yellow",
+        "tags": [
+          "Arasaka",
+          "Cyberware"
+        ],
+        "keywords": [],
+        "sell": true
+      },
+      "gearAbilityOwnership": "inherited",
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": ""
+    },
+    {
+      "id": "zetatech-berserk",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/zetatech-berserk.webp",
+      "stats": {
+        "cost": 6,
+        "power": 3,
+        "ram": 2,
+        "type": "Gear",
+        "color": "Green",
+        "tags": [
+          "Cyberware",
+          "Zetatech"
+        ],
+        "sell": true,
+        "keywords": []
+      },
+      "gearAbilityOwnership": "intrinsic",
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": ""
+    },
+    {
+      "id": "zetatech-faceplate",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/zetatech-faceplate.webp",
+      "stats": {
+        "cost": 2,
+        "power": 2,
+        "ram": 2,
+        "type": "Gear",
+        "color": "Yellow",
+        "tags": [
+          "Cyberware",
+          "Zetatech"
+        ],
+        "sell": true,
+        "keywords": []
+      },
+      "gearAbilityOwnership": "inherited",
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": ""
+    },
+    {
+      "id": "animals-wrecker",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/animals-wrecker.webp",
+      "stats": {
+        "cost": 6,
+        "power": 10,
+        "ram": 3,
+        "color": "Red",
+        "tags": [
+          "Animal",
+          "Ganger"
+        ],
+        "sell": false
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Flavor only, no printed abilities. Gameplay outcomes checked in tests/scenarios/vanilla.test.ts. Full release still depends on shared rules gates."
+    },
+    {
+      "id": "emergency-atlus",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/emergency-atlus.webp",
+      "stats": {
+        "cost": 3,
+        "power": 4,
+        "ram": 1,
+        "color": "Green",
+        "tags": [
+          "Trauma Team",
+          "Vehicle",
+          "Zetatech"
+        ],
+        "sell": false
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Flavor only, no printed abilities. Gameplay outcomes checked in tests/scenarios/vanilla.test.ts. Full release still depends on shared rules gates."
+    },
+    {
+      "id": "psycho-squad",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/psycho-squad.webp",
+      "stats": {
+        "cost": 4,
+        "power": 6,
+        "ram": 1,
+        "color": "Blue",
+        "tags": [
+          "NCPD"
+        ],
+        "sell": false
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Flavor only, no printed abilities. Gameplay outcomes checked in tests/scenarios/vanilla.test.ts. Full release still depends on shared rules gates."
+    },
+    {
+      "id": "rockn-rockerboy",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/rockn-rockerboy.webp",
+      "stats": {
+        "cost": 5,
+        "power": 8,
+        "ram": 1,
+        "color": "Yellow",
+        "tags": [
+          "Rocker"
+        ],
+        "sell": false
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Flavor only, no printed abilities. Gameplay outcomes checked in tests/scenarios/vanilla.test.ts. Full release still depends on shared rules gates."
+    },
+    {
+      "id": "dexter-deshawn-off-the-grid",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/dexter-deshawn-off-the-grid.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Red",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Fixer"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "dum-dum-maelstrom-triggerman",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/dum-dum-maelstrom-triggerman.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Yellow",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Ganger",
+          "Maelstrom"
+        ],
+        "keywords": [
+          "Quick"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "evelyn-parker-beautiful-enigma",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/evelyn-parker-beautiful-enigma.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Blue",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Doll"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "goro-takemura-vengeful-bodyguard",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/goro-takemura-vengeful-bodyguard.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Green",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Arasaka",
+          "Corpo"
+        ],
+        "keywords": [
+          "Quick"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "hanako-arasaka-daughter-of-the-emperor",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/hanako-arasaka-daughter-of-the-emperor.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Green",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Arasaka",
+          "Corpo",
+          "Netrunner"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "jackie-welles-pour-one-out-for-me",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/jackie-welles-pour-one-out-for-me.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Blue",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Merc"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "johnny-silverhand-rocking-renegade",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/johnny-silverhand-rocking-renegade.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Red",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Merc",
+          "Rocker",
+          "Samurai"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Stats and text manually checked against official image. Disputed effect outcomes remain uncertified pending the recorded ruling."
+    },
+    {
+      "id": "judy-a-lvarez-braindance-maestro",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/judy-a-lvarez-braindance-maestro.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Blue",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Ganger",
+          "Mox",
+          "Techie"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "kerry-eurodyne-axe-attitude-audience",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/kerry-eurodyne-axe-attitude-audience.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Yellow",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Rocker",
+          "Samurai"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "muamar-reyes-el-capita-n",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/muamar-reyes-el-capita-n.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Yellow",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Fixer"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "padre-man-of-the-cross",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/padre-man-of-the-cross.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Green",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Fixer",
+          "Ganger",
+          "Valentino"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "panam-palmer-nomad-cavalry",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/panam-palmer-nomad-cavalry.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Green",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Aldecado",
+          "Merc",
+          "Nomad"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "river-ward-detective-on-the-hunt",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/river-ward-detective-on-the-hunt.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Yellow",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "NCPD"
+        ],
+        "keywords": [
+          "Quick"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Stats and text manually checked against official image. Disputed effect outcomes remain uncertified pending the recorded ruling."
+    },
+    {
+      "id": "saburo-arasaka-stubborn-patriarch",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/saburo-arasaka-stubborn-patriarch.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Green",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Arasaka",
+          "Corpo"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "viktor-vektor-sit-down-and-relax",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/viktor-vektor-sit-down-and-relax.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Yellow",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Ripperdoc"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "wakako-okada-peace-and-harmony",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/wakako-okada-peace-and-harmony.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Blue",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Fixer",
+          "Tyger Claws"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "yorinobu-arasaka-embracing-destruction",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/yorinobu-arasaka-embracing-destruction.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Red",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Arasaka",
+          "Corpo"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "afterparty-at-lizzie-s",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/afterparty-at-lizzie-s.webp",
+      "stats": {
+        "cost": 1,
+        "power": null,
+        "ram": 1,
+        "sell": true,
+        "color": "Yellow",
+        "tags": [
+          "Braindance",
+          "Mox"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed text and gameplay fields visually checked. Program outcome and restriction cases are in tests/scenarios/gig-programs.test.ts; shared release gates remain separate."
+    },
+    {
+      "id": "industrial-assembly",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/industrial-assembly.webp",
+      "stats": {
+        "cost": 1,
+        "power": null,
+        "ram": 1,
+        "sell": true,
+        "color": "Red",
+        "tags": [
+          "Arasaka",
+          "Braindance"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed text and gameplay fields visually checked. Program outcome and restriction cases are in tests/scenarios/gig-programs.test.ts; shared release gates remain separate."
+    },
+    {
+      "id": "trust-no-one",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/trust-no-one.webp",
+      "stats": {
+        "cost": 1,
+        "power": null,
+        "ram": 1,
+        "sell": true,
+        "color": "Blue",
+        "tags": [
+          "Braindance"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed text and gameplay fields visually checked. Program outcome and restriction cases are in tests/scenarios/gig-programs.test.ts; shared release gates remain separate."
+    },
+    {
+      "id": "peace-offering",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/peace-offering.webp",
+      "stats": {
+        "cost": 1,
+        "power": null,
+        "ram": 1,
+        "sell": true,
+        "color": "Green",
+        "tags": [
+          "Braindance"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed text and gameplay fields visually checked. Program outcome and restriction cases are in tests/scenarios/gig-programs.test.ts; shared release gates remain separate."
+    },
+    {
+      "id": "floor-it",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/floor-it.webp",
+      "stats": {
+        "cost": 1,
+        "power": null,
+        "ram": 1,
+        "sell": true,
+        "color": "Blue",
+        "tags": [
+          "Merc",
+          "Quickhack"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed text and gameplay fields visually checked. Program outcome and restriction cases are in tests/scenarios/gig-programs.test.ts; shared release gates remain separate."
+    },
+    {
+      "id": "all-is-lost",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/all-is-lost.webp",
+      "stats": {
+        "cost": 1,
+        "power": null,
+        "ram": 2,
+        "sell": true,
+        "type": "Program",
+        "color": "Red",
+        "tags": [
+          "Zetatech"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats, textbox, tags, and sell icon visually checked."
+    },
+    {
+      "id": "hacked-corpo",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/hacked-corpo.webp",
+      "stats": {
+        "cost": 4,
+        "power": 3,
+        "ram": 1,
+        "sell": false,
+        "type": "Unit",
+        "color": "Blue",
+        "tags": [
+          "AI",
+          "Corpo"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats, textbox, tags, and sell icon visually checked."
+    },
+    {
+      "id": "shattered-memories",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/shattered-memories.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Red",
+        "cost": 4,
+        "power": null,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Braindance"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "corporate-surveillance",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/corporate-surveillance.webp",
+      "stats": {
+        "cost": 2,
+        "power": null,
+        "ram": 1,
+        "sell": true,
+        "type": "Program",
+        "color": "Green",
+        "tags": [
+          "Corpo"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats, textbox, tags, Quick keyword where present, and sell icon visually checked."
+    },
+    {
+      "id": "wild-in-the-streets",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/wild-in-the-streets.webp",
+      "stats": {
+        "cost": 5,
+        "power": null,
+        "ram": 4,
+        "sell": true,
+        "type": "Program",
+        "color": "Green",
+        "tags": [
+          "Ganger"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats, textbox, tags, Quick keyword where present, and sell icon visually checked."
+    },
+    {
+      "id": "detonate",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/detonate.webp",
+      "stats": {
+        "cost": 1,
+        "power": null,
+        "ram": 2,
+        "sell": true,
+        "type": "Program",
+        "color": "Red",
+        "tags": [
+          "Quickhack"
+        ],
+        "keywords": [
+          "Quick"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats, textbox, tags, Quick keyword where present, and sell icon visually checked."
+    },
+    {
+      "id": "over-the-edge",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/over-the-edge.webp",
+      "stats": {
+        "cost": 3,
+        "power": null,
+        "ram": 2,
+        "sell": true,
+        "type": "Program",
+        "color": "Red",
+        "tags": [
+          "Merc"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats, textbox, tags, Quick keyword where present, and sell icon visually checked."
+    },
+    {
+      "id": "delamain-rideshare-ai",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/delamain-rideshare-ai.webp",
+      "stats": {
+        "cost": 3,
+        "power": 0,
+        "ram": 3,
+        "sell": false,
+        "type": "Unit",
+        "color": "Blue",
+        "tags": [
+          "AI"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats, textbox, tags and absence of sell icon visually checked; Riding Nomad has printed Adrenaline."
+    },
+    {
+      "id": "japantown-jonin",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/japantown-jonin.webp",
+      "stats": {
+        "cost": 2,
+        "power": 0,
+        "ram": 2,
+        "sell": false,
+        "type": "Unit",
+        "color": "Red",
+        "tags": [
+          "Tyger Claws"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats, textbox, tags and absence of sell icon visually checked; Riding Nomad has printed Adrenaline."
+    },
+    {
+      "id": "field-operator",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/field-operator.webp",
+      "stats": {
+        "cost": 3,
+        "power": 2,
+        "ram": 2,
+        "sell": false,
+        "type": "Unit",
+        "color": "Green",
+        "tags": [
+          "Arasaka",
+          "Corpo",
+          "Techie"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats, textbox, tags and absence of sell icon visually checked; Riding Nomad has printed Adrenaline."
+    },
+    {
+      "id": "offduty-malfini",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/offduty-malfini.webp",
+      "stats": {
+        "cost": 4,
+        "power": 5,
+        "ram": 2,
+        "sell": false,
+        "type": "Unit",
+        "color": "Yellow",
+        "tags": [
+          "Ganger",
+          "Voodoo Boys"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats, textbox, tags and absence of sell icon visually checked; Riding Nomad has printed Adrenaline."
+    },
+    {
+      "id": "riding-nomad",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/riding-nomad.webp",
+      "stats": {
+        "cost": 5,
+        "power": 4,
+        "ram": 4,
+        "sell": false,
+        "type": "Unit",
+        "color": "Green",
+        "tags": [
+          "Nomad"
+        ],
+        "keywords": [
+          "Adrenaline"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats, textbox, tags and absence of sell icon visually checked; Riding Nomad has printed Adrenaline."
+    },
+    {
+      "id": "ruthless-lowlife",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/ruthless-lowlife.webp",
+      "stats": {
+        "cost": 2,
+        "power": 4,
+        "ram": 1,
+        "sell": false,
+        "type": "Unit",
+        "color": "Red",
+        "tags": [
+          "Ganger",
+          "Maelstrom"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats, textbox, tags and absence of sell icon visually checked; Riding Nomad has printed Adrenaline."
+    },
+    {
+      "id": "chrome-reverie",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/chrome-reverie.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Blue",
+        "cost": 3,
+        "power": null,
+        "ram": 1,
+        "sell": true,
+        "tags": [
+          "Braindance"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats and full effect text checked against official rendering; outcome tests include multiplayer scope and applicable publisher FAQ examples."
+    },
+    {
+      "id": "memory-relapse",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/memory-relapse.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Green",
+        "cost": 4,
+        "power": null,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Braindance"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats and full effect text checked against official rendering; outcome tests include multiplayer scope and applicable publisher FAQ examples."
+    },
+    {
+      "id": "synapse-burnout",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/synapse-burnout.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Green",
+        "cost": 1,
+        "power": null,
+        "ram": 1,
+        "sell": true,
+        "tags": [
+          "Quickhack"
+        ],
+        "keywords": [
+          "Quick"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats and full effect text checked against official rendering; outcome tests include multiplayer scope and applicable publisher FAQ examples."
+    },
+    {
+      "id": "reboot-optics",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/reboot-optics.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Blue",
+        "cost": 2,
+        "power": null,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Quickhack"
+        ],
+        "keywords": [
+          "Quick"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats and full effect text checked against official rendering; outcome tests include multiplayer scope and applicable publisher FAQ examples."
+    },
+    {
+      "id": "take-control",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/take-control.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Green",
+        "cost": 2,
+        "power": null,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Quickhack"
+        ],
+        "keywords": [
+          "Quick"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats and full effect text checked against official rendering; outcome tests include multiplayer scope and applicable publisher FAQ examples."
+    },
+    {
+      "id": "appetite-for-destruction",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/appetite-for-destruction.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Red",
+        "cost": 3,
+        "power": null,
+        "ram": 4,
+        "sell": true,
+        "tags": [
+          "Ganger"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Printed stats and full effect text checked against official rendering; outcome tests include multiplayer scope and applicable publisher FAQ examples."
+    },
+    {
+      "id": "carnage-at-the-colosseum",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/carnage-at-the-colosseum.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Red",
+        "cost": 6,
+        "power": null,
+        "ram": 3,
+        "sell": true,
+        "tags": [
+          "Braindance",
+          "Extreme"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "cyberpsychosis",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/cyberpsychosis.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Yellow",
+        "cost": 3,
+        "power": null,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Quickhack"
+        ],
+        "keywords": [
+          "Quick"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "don-t-fear-the-reaper",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/don-t-fear-the-reaper.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Green",
+        "cost": 7,
+        "power": null,
+        "ram": 3,
+        "sell": true,
+        "tags": [
+          "Samurai"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "les-e-le-mens",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/les-e-le-mens.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Blue",
+        "cost": 5,
+        "power": null,
+        "ram": 4,
+        "sell": true,
+        "tags": [
+          "Corpo"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "live-with-the-aftermath",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/live-with-the-aftermath.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Yellow",
+        "cost": 3,
+        "power": null,
+        "ram": 3,
+        "sell": true,
+        "tags": [
+          "Plan"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "unlikely-bond",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/unlikely-bond.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Blue",
+        "cost": 4,
+        "power": null,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Maelstrom",
+          "Mox"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "three-mouths-one-desire",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/three-mouths-one-desire.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Blue",
+        "cost": 2,
+        "power": null,
+        "ram": 3,
+        "sell": true,
+        "tags": [
+          "Braindance",
+          "Doll"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "the-heist",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/the-heist.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Yellow",
+        "cost": 2,
+        "power": null,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Merc"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "we-gotta-live-together",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/we-gotta-live-together.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Green",
+        "cost": 5,
+        "power": null,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Aldecado",
+          "Nomad"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "fool-on-the-hill",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/fool-on-the-hill.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Green",
+        "cost": 2,
+        "power": null,
+        "ram": 3,
+        "sell": true,
+        "tags": [
+          "Merc"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "gunpoint-diplomacy",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/gunpoint-diplomacy.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Red",
+        "cost": 4,
+        "power": null,
+        "ram": 3,
+        "sell": true,
+        "tags": [
+          "Ganger",
+          "Plan"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "nocturne-op55-n1",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/nocturne-op55-n1.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Blue",
+        "cost": 3,
+        "power": null,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Arasaka",
+          "Plan"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "corpo-security",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/corpo-security.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Green",
+        "cost": 2,
+        "power": 2,
+        "ram": 1,
+        "sell": false,
+        "tags": [
+          "Corpo"
+        ],
+        "keywords": [
+          "Blocker"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "jacked-in-voodoo-boy",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/jacked-in-voodoo-boy.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Blue",
+        "cost": 2,
+        "power": 2,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Netrunner",
+          "Voodoo Boys"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "maxtac-suppression-team",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/maxtac-suppression-team.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Yellow",
+        "cost": 5,
+        "power": 7,
+        "ram": 1,
+        "sell": false,
+        "tags": [
+          "NCPD"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "nadia-fighting-through-grief",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/nadia-fighting-through-grief.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Green",
+        "cost": 6,
+        "power": 8,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Medtech",
+          "Trauma Team"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "valentino-guerrera",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/valentino-guerrera.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Red",
+        "cost": 3,
+        "power": 4,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Ganger",
+          "Valentino"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "octant",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/octant.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Red",
+        "cost": 7,
+        "power": 8,
+        "ram": 4,
+        "sell": false,
+        "tags": [
+          "Drone",
+          "Militech",
+          "Zetatech"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "trauma-team-operatives",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/trauma-team-operatives.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Yellow",
+        "cost": 6,
+        "power": 7,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Medtech",
+          "Trauma Team"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "maxtac-heavy",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/maxtac-heavy.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Green",
+        "cost": 7,
+        "power": 8,
+        "ram": 3,
+        "sell": false,
+        "tags": [
+          "NCPD"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "secondhand-bombus",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/secondhand-bombus.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Yellow",
+        "cost": 2,
+        "power": 0,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Drone",
+          "Zetatech"
+        ],
+        "keywords": [
+          "Blocker"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "delamain-cab",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/delamain-cab.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Blue",
+        "cost": 4,
+        "power": 4,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Vehicle"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "modded-kusanagi",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/modded-kusanagi.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Blue",
+        "cost": 6,
+        "power": 8,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Tyger Claws",
+          "Vehicle"
+        ],
+        "keywords": [
+          "Adrenaline"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "modded-muramasa",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/modded-muramasa.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Blue",
+        "cost": 5,
+        "power": 4,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Vehicle"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "maxtac-squadron",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/maxtac-squadron.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Green",
+        "cost": 3,
+        "power": 4,
+        "ram": 3,
+        "sell": false,
+        "tags": [
+          "NCPD"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "kerry-eurodyne-the-last-rockerboy",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/kerry-eurodyne-the-last-rockerboy.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Red",
+        "cost": 4,
+        "power": 5,
+        "ram": 1,
+        "sell": false,
+        "tags": [
+          "Rocker",
+          "Samurai"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "tyger-s-whisper",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/tyger-s-whisper.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Green",
+        "cost": 2,
+        "power": 0,
+        "ram": 1,
+        "sell": false,
+        "tags": [
+          "Fixer",
+          "Tyger Claws"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "chrome-fang",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/chrome-fang.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Red",
+        "cost": 5,
+        "power": 6,
+        "ram": 1,
+        "sell": false,
+        "tags": [
+          "Ganger",
+          "Netrunner",
+          "Tyger Claws"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "westbrook-netrunner",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/westbrook-netrunner.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Blue",
+        "cost": 4,
+        "power": 5,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Netrunner"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "v-corporate-exile",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/v-corporate-exile.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Blue",
+        "cost": 5,
+        "power": 8,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Corpo",
+          "Merc"
+        ],
+        "keywords": [
+          "Go Solo"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "royce-psycho-on-the-edge",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/royce-psycho-on-the-edge.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Red",
+        "cost": 6,
+        "power": 6,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Maelstrom",
+          "Ganger"
+        ],
+        "keywords": [
+          "Go Solo"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "goro-takemura-hands-unclean",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/goro-takemura-hands-unclean.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Green",
+        "cost": 5,
+        "power": 7,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Arasaka",
+          "Corpo"
+        ],
+        "keywords": [
+          "Go Solo",
+          "Blocker"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "adam-smasher-ender-of-legends",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/adam-smasher-ender-of-legends.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Red",
+        "cost": 9,
+        "power": 9,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Arasaka",
+          "Merc"
+        ],
+        "keywords": [
+          "Go Solo"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "sasha-yakovleva-won-t-let-you-down",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/sasha-yakovleva-won-t-let-you-down.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Blue",
+        "cost": 5,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Maine's Crew",
+          "Merc",
+          "Netrunner"
+        ],
+        "keywords": [
+          "Go Solo"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "adam-smasher-metal-over-meat",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/adam-smasher-metal-over-meat.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Yellow",
+        "cost": 9,
+        "power": 15,
+        "ram": 6,
+        "sell": false,
+        "tags": [
+          "Arasaka",
+          "Merc"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "caliber-totentanz-s-top-dog",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/caliber-totentanz-s-top-dog.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Yellow",
+        "cost": 5,
+        "power": 5,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Ganger",
+          "Maelstrom"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "gilded-mato-n",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/gilded-mato-n.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Yellow",
+        "cost": 4,
+        "power": 3,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Ganger",
+          "Valentino"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "heywood-ripperdoc",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/heywood-ripperdoc.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Yellow",
+        "cost": 6,
+        "power": 8,
+        "ram": 1,
+        "sell": false,
+        "tags": [
+          "Ripperdoc"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "placide-voodoo-sentinel",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/placide-voodoo-sentinel.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Blue",
+        "cost": 8,
+        "power": 10,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Ganger",
+          "Netrunner",
+          "Voodoo Boys"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "maman-brigitte-spirit-of-death",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/maman-brigitte-spirit-of-death.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Blue",
+        "cost": 5,
+        "power": 3,
+        "ram": 4,
+        "sell": false,
+        "tags": [
+          "Mystic",
+          "Netrunner",
+          "Voodoo Boys"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "minotaur",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/minotaur.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Red",
+        "cost": 7,
+        "power": 9,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Arasaka",
+          "Drone",
+          "Militech"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "royce-don-t-call-me-simon",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/royce-don-t-call-me-simon.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Red",
+        "cost": 5,
+        "power": 4,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Ganger",
+          "Maelstrom"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "goro-takemura-losing-his-way",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/goro-takemura-losing-his-way.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Green",
+        "cost": 4,
+        "power": 4,
+        "ram": 3,
+        "sell": false,
+        "tags": [
+          "Arasaka",
+          "Corpo"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "jackie-welles-ride-or-die-choom",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/jackie-welles-ride-or-die-choom.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Yellow",
+        "cost": 6,
+        "power": 8,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Merc",
+          "Valentino"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "dexter-deshawn-one-last-chance",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/dexter-deshawn-one-last-chance.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Yellow",
+        "cost": 3,
+        "power": 4,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Fixer"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "evelyn-parker-scheming-siren",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/evelyn-parker-scheming-siren.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Blue",
+        "cost": 2,
+        "power": 0,
+        "ram": 3,
+        "sell": false,
+        "tags": [
+          "Doll"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "swordwise-huscle",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/swordwise-huscle.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Red",
+        "cost": 3,
+        "power": 3,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Merc"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "el-sombrero-n-la-venganza-lenta",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/el-sombrero-n-la-venganza-lenta.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Red",
+        "cost": 5,
+        "power": 4,
+        "ram": 4,
+        "sell": false,
+        "tags": [
+          "Ganger",
+          "Valentino"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "augmented-negotiators",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/augmented-negotiators.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Yellow",
+        "cost": 3,
+        "power": 2,
+        "ram": 1,
+        "sell": false,
+        "tags": [
+          "Arasaka",
+          "Corpo"
+        ],
+        "keywords": [
+          "Blocker"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "la-llorona-ghost-of-the-past",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/la-llorona-ghost-of-the-past.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Red",
+        "cost": 3,
+        "power": 3,
+        "ram": 1,
+        "sell": false,
+        "tags": [
+          "Ganger",
+          "Valentino"
+        ],
+        "keywords": [
+          "Blocker"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "rita-wheeler-no-stupid-questions",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/rita-wheeler-no-stupid-questions.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Blue",
+        "cost": 4,
+        "power": 4,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Ganger",
+          "Mox"
+        ],
+        "keywords": [
+          "Blocker"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "maelstrom-zealots",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/maelstrom-zealots.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Green",
+        "cost": 4,
+        "power": 0,
+        "ram": 1,
+        "sell": false,
+        "tags": [
+          "Ganger",
+          "Maelstrom"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "johnny-silverhand-never-stop-fighting",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/johnny-silverhand-never-stop-fighting.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Red",
+        "cost": 6,
+        "power": 8,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Merc",
+          "Rocker",
+          "Samurai"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "meredith-stout-stone-cold-corpo",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/meredith-stout-stone-cold-corpo.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Red",
+        "cost": 4,
+        "power": 5,
+        "ram": 1,
+        "sell": false,
+        "tags": [
+          "Corpo",
+          "Militech"
+        ],
+        "keywords": [
+          "Blocker"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "hanako-arasaka-in-a-gilded-cage",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/hanako-arasaka-in-a-gilded-cage.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Yellow",
+        "cost": 4,
+        "power": 1,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Arasaka",
+          "Corpo",
+          "Netrunner"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "sketchy-ripper",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/sketchy-ripper.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Yellow",
+        "cost": 2,
+        "power": 0,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Ganger",
+          "Ripperdoc",
+          "Scavenger"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "screw-lovelorn-fool",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/screw-lovelorn-fool.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Red",
+        "cost": 5,
+        "power": 7,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Ganger",
+          "Maelstrom"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "t-bug-amateur-philosopher",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/t-bug-amateur-philosopher.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Yellow",
+        "cost": 4,
+        "power": 4,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Merc",
+          "Netrunner"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "misty-olszewski-mender-of-broken-spirits",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/misty-olszewski-mender-of-broken-spirits.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Blue",
+        "cost": 3,
+        "power": 0,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Mystic"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "judy-a-lvarez-nothing-to-doubt",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/judy-a-lvarez-nothing-to-doubt.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Blue",
+        "cost": 6,
+        "power": 6,
+        "ram": 5,
+        "sell": false,
+        "tags": [
+          "Ganger",
+          "Mox",
+          "Techie"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "lizzy-wizzy-delicate-weapon",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/lizzy-wizzy-delicate-weapon.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Blue",
+        "cost": 5,
+        "power": 2,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Rocker"
+        ],
+        "keywords": [
+          "Blocker"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "viktor-vektor-you-might-feel-a-little-pinch",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/viktor-vektor-you-might-feel-a-little-pinch.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Yellow",
+        "cost": 3,
+        "power": 3,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Ripperdoc"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "yorinobu-arasaka-steel-dragon",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/yorinobu-arasaka-steel-dragon.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Red",
+        "cost": 7,
+        "power": 9,
+        "ram": 3,
+        "sell": false,
+        "tags": [
+          "Arasaka",
+          "Corpo"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "valentino-street-racer",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/valentino-street-racer.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Green",
+        "cost": 3,
+        "power": 3,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Valentino",
+          "Vehicle"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "sandayu-oda-hanako-s-guardian",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/sandayu-oda-hanako-s-guardian.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Green",
+        "cost": 7,
+        "power": 8,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Arasaka",
+          "Corpo"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "pacifica-netrunner",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/pacifica-netrunner.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Green",
+        "cost": 4,
+        "power": 1,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Netrunner"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "mox-inciters",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/mox-inciters.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Blue",
+        "cost": 3,
+        "power": 2,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Ganger",
+          "Mox"
+        ],
+        "keywords": [
+          "Blocker"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "6th-street-recruits",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/6th-street-recruits.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Red",
+        "cost": 4,
+        "power": 6,
+        "ram": 1,
+        "sell": false,
+        "tags": [
+          "6th Street",
+          "Ganger"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "maelstrom-goons",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/maelstrom-goons.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Yellow",
+        "cost": 3,
+        "power": 3,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Ganger",
+          "Maelstrom"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "wraith-marauders",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/wraith-marauders.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Green",
+        "cost": 5,
+        "power": 4,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Ganger",
+          "Nomad",
+          "Raffen Shiv"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "v-roamer-of-the-badlands",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/v-roamer-of-the-badlands.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Red",
+        "cost": 5,
+        "power": 6,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Merc",
+          "Nomad"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "rogue-amendiares-queen-of-the-afterlife",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/rogue-amendiares-queen-of-the-afterlife.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Blue",
+        "cost": 5,
+        "power": 4,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Fixer",
+          "Merc"
+        ],
+        "keywords": [
+          "Quick"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "panam-palmer-strength-through-family",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/panam-palmer-strength-through-family.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Green",
+        "cost": 6,
+        "power": 6,
+        "ram": 4,
+        "sell": false,
+        "tags": [
+          "Aldecado",
+          "Merc",
+          "Nomad"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "pepe-najarro-working-doubles",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/pepe-najarro-working-doubles.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Green",
+        "cost": 4,
+        "power": 6,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Valentino"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "saul-bright-stormrider",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/saul-bright-stormrider.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Green",
+        "cost": 8,
+        "power": 14,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Aldecado",
+          "Nomad"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "viktor-vektor-drop-your-illusions",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/viktor-vektor-drop-your-illusions.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Yellow",
+        "cost": 5,
+        "power": 5,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "Ripperdoc"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "maxtac-av",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/maxtac-av.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Green",
+        "cost": 5,
+        "power": 8,
+        "ram": 2,
+        "sell": false,
+        "tags": [
+          "NCPD",
+          "Vehicle"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "bootleg-black-sapphire-show",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/bootleg-black-sapphire-show.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Yellow",
+        "cost": 5,
+        "power": null,
+        "ram": 4,
+        "sell": true,
+        "tags": [
+          "Braindance"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "alt-cunningham-mother-of-daemons",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/alt-cunningham-mother-of-daemons.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Yellow",
+        "cost": 7,
+        "power": 8,
+        "ram": 3,
+        "sell": false,
+        "tags": [
+          "Merc",
+          "Netrunner"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "alt-cunningham-soulkiller-architect",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/alt-cunningham-soulkiller-architect.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Blue",
+        "cost": null,
+        "power": 0,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Merc",
+          "Netrunner"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "rogue-amendiares-preem-solo",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/rogue-amendiares-preem-solo.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Yellow",
+        "cost": 7,
+        "power": 7,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Merc"
+        ],
+        "keywords": [
+          "Go Solo"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "jackie-welles-mama-s-favorite",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/jackie-welles-mama-s-favorite.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Green",
+        "cost": 6,
+        "power": 8,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Merc"
+        ],
+        "keywords": [
+          "Go Solo"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Official image manually checked against stats and text; linked tests exercise outcomes and relevant restrictions."
+    },
+    {
+      "id": "bonnie-and-clyde",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/bonnie-and-clyde.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Red",
+        "cost": 3,
+        "power": null,
+        "ram": 3,
+        "sell": true,
+        "tags": [
+          "Braindance"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Stats and text manually checked against official image. Disputed effect outcomes remain uncertified pending the recorded ruling."
+    },
+    {
+      "id": "mt0d12-flathead",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/mt0d12-flathead.webp",
+      "stats": {
+        "type": "Unit",
+        "color": "Blue",
+        "cost": 5,
+        "power": 7,
+        "ram": 3,
+        "sell": true,
+        "tags": [
+          "Drone",
+          "Militech"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Stats and text manually checked against official image. Disputed effect outcomes remain uncertified pending the recorded ruling."
+    },
+    {
+      "id": "pyramid-song",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/pyramid-song.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Blue",
+        "cost": 3,
+        "power": null,
+        "ram": 3,
+        "sell": true,
+        "tags": [
+          "Braindance"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": false,
+      "rulesCertified": false,
+      "notes": "Stats manually verified. Image says -4 power; structured text says -5. RULE-PYRAMID remains unresolved."
+    },
+    {
+      "id": "safety-override",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/safety-override.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Yellow",
+        "cost": 2,
+        "power": null,
+        "ram": 3,
+        "sell": true,
+        "tags": [
+          "Quickhack"
+        ],
+        "keywords": [
+          "Quick"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Stats and text manually checked against official image. Disputed effect outcomes remain uncertified pending the recorded ruling."
+    },
+    {
+      "id": "towerfall",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/towerfall.webp",
+      "stats": {
+        "type": "Program",
+        "color": "Blue",
+        "cost": 6,
+        "power": null,
+        "ram": 4,
+        "sell": true,
+        "tags": [
+          "Braindance"
+        ],
+        "keywords": []
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Stats and text manually checked against official image. Disputed effect outcomes remain uncertified pending the recorded ruling."
+    },
+    {
+      "id": "v-streetkid",
+      "reviewedOn": "2026-09-06",
+      "evidence": "evidence/cards/v-streetkid.webp",
+      "stats": {
+        "type": "Legend",
+        "color": "Red",
+        "cost": 5,
+        "power": 6,
+        "ram": 2,
+        "sell": true,
+        "tags": [
+          "Merc"
+        ],
+        "keywords": [
+          "Go Solo"
+        ]
+      },
+      "imageTextChecked": true,
+      "rulesCertified": false,
+      "notes": "Stats and text manually checked against official image. Disputed effect outcomes remain uncertified pending the recorded ruling."
+    }
+  ]
+}

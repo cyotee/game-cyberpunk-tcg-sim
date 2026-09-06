@@ -1,0 +1,45 @@
+[
+  {
+    "card_id": "9a4002b0-0f0b-4c9a-a198-691d058b6dcc",
+    "slug": "johnny-silverhand-never-stop-fighting",
+    "scope": "Beta Iconic Rare printing; gameplay identity must consistently remain non-sellable",
+    "summary": "Remove the erroneously printed sell tag; this card cannot be sold.",
+    "source_url": "https://cyberpunktcg.com/errata",
+    "retrieved_on": "2026-09-05",
+    "printing_ids": [
+      "14ab188f-2ce3-4790-8823-5a352371ff1f",
+      "975957a0-9c72-4a67-8260-f86c1c70bfb5",
+      "7b113940-7325-4304-b07a-61719b47a49c"
+    ],
+    "printing_ids_note": "All associated printings for lookup; scope above defines which printed discrepancy applies."
+  },
+  {
+    "card_id": "654f2289-5d75-4f8b-bd35-702031fbb214",
+    "slug": "kiroshi-optics",
+    "scope": "All printings; reminder-text correction",
+    "summary": "Equip reminder must restrict to a friendly Unit or friendly face-up Legend.",
+    "source_url": "https://cyberpunktcg.com/errata",
+    "retrieved_on": "2026-09-05",
+    "printing_ids": [
+      "ec3368a9-79f1-4dfc-9cf7-1cb464ec1c88",
+      "d35720e4-f307-4732-ae3d-8f47f1351549",
+      "aa9b8a2e-ffd6-4435-8bed-c4e64e1c32ac",
+      "b18ce43d-3441-4a55-a6a9-34ae8765aa27",
+      "57e1d9b6-0f2b-497b-acaf-49c20a68cd19"
+    ],
+    "printing_ids_note": "All associated printings for lookup; scope above defines which printed discrepancy applies."
+  },
+  {
+    "card_id": "e4af26f0-e25d-4e30-8bac-6701f54f3e97",
+    "slug": "nocturne-op55-n1",
+    "scope": "Artist credit only; no effect change",
+    "summary": "Credit Daniel Valaisis; errata heading omits the space in OP55 N1.",
+    "source_url": "https://cyberpunktcg.com/errata",
+    "retrieved_on": "2026-09-05",
+    "printing_ids": [
+      "70c7f11e-e41d-44f2-b5cd-e8568915d6ac",
+      "dfd5d1df-2b47-4ddd-9d6a-35430a892cfc"
+    ],
+    "printing_ids_note": "All associated printings for lookup; scope above defines which printed discrepancy applies."
+  }
+]

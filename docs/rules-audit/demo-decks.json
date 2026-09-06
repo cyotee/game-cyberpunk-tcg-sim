@@ -1,0 +1,150 @@
+[
+  {
+    "name": "The Heist Demo Deck",
+    "source_url": "https://cyberpunktcg.com/docs/print-and-play-mercs.pdf",
+    "source_sha256": "47469c3ed21cca8c4c2f214ef12b28ba13720aaac90ad768528d7d2a8a70f8cb",
+    "source_pages": 4,
+    "method": "Visual count of all page images extracted losslessly from the official PDF; matched to catalog set membership",
+    "retrieved_on": "2026-09-05",
+    "legends": [
+      {
+        "slug": "v-corporate-exile",
+        "quantity": 1
+      },
+      {
+        "slug": "viktor-vektor-sit-down-and-relax",
+        "quantity": 1
+      },
+      {
+        "slug": "jackie-welles-pour-one-out-for-me",
+        "quantity": 1
+      }
+    ],
+    "main_deck": [
+      {
+        "slug": "dying-night-v-s-pistol",
+        "quantity": 2
+      },
+      {
+        "slug": "dexter-deshawn-one-last-chance",
+        "quantity": 1
+      },
+      {
+        "slug": "secondhand-bombus",
+        "quantity": 2
+      },
+      {
+        "slug": "kiroshi-optics",
+        "quantity": 3
+      },
+      {
+        "slug": "mandibular-upgrade",
+        "quantity": 2
+      },
+      {
+        "slug": "afterparty-at-lizzie-s",
+        "quantity": 2
+      },
+      {
+        "slug": "delamain-cab",
+        "quantity": 3
+      },
+      {
+        "slug": "evelyn-parker-scheming-siren",
+        "quantity": 3
+      },
+      {
+        "slug": "mt0d12-flathead",
+        "quantity": 1
+      },
+      {
+        "slug": "psycho-squad",
+        "quantity": 3
+      },
+      {
+        "slug": "floor-it",
+        "quantity": 3
+      },
+      {
+        "slug": "reboot-optics",
+        "quantity": 2
+      }
+    ],
+    "legend_count": 3,
+    "main_count": 27,
+    "constructed_legal": false,
+    "note": "Demo contents only; do not substitute for retail starter quantities."
+  },
+  {
+    "name": "Embracing Power Demo Deck",
+    "source_url": "https://cyberpunktcg.com/docs/print-and-play-araska.pdf",
+    "source_sha256": "4df4ef76929bcebe2188bdc3d6fcb8350776b949c3119a3cf587c1b5bde9a52e",
+    "source_pages": 4,
+    "method": "Visual count of all page images extracted losslessly from the official PDF; matched to catalog set membership",
+    "retrieved_on": "2026-09-05",
+    "legends": [
+      {
+        "slug": "goro-takemura-hands-unclean",
+        "quantity": 1
+      },
+      {
+        "slug": "yorinobu-arasaka-embracing-destruction",
+        "quantity": 1
+      },
+      {
+        "slug": "saburo-arasaka-stubborn-patriarch",
+        "quantity": 1
+      }
+    ],
+    "main_deck": [
+      {
+        "slug": "minotaur",
+        "quantity": 1
+      },
+      {
+        "slug": "swordwise-huscle",
+        "quantity": 2
+      },
+      {
+        "slug": "mantis-blades",
+        "quantity": 3
+      },
+      {
+        "slug": "satori-sword-of-saburo",
+        "quantity": 3
+      },
+      {
+        "slug": "industrial-assembly",
+        "quantity": 3
+      },
+      {
+        "slug": "over-the-edge",
+        "quantity": 2
+      },
+      {
+        "slug": "corpo-security",
+        "quantity": 3
+      },
+      {
+        "slug": "emergency-atlus",
+        "quantity": 3
+      },
+      {
+        "slug": "field-operator",
+        "quantity": 3
+      },
+      {
+        "slug": "goro-takemura-losing-his-way",
+        "quantity": 1
+      },
+      {
+        "slug": "corporate-surveillance",
+        "quantity": 3
+      }
+    ],
+    "legend_count": 3,
+    "main_count": 27,
+    "constructed_legal": false,
+    "note": "Demo contents only; do not substitute for retail starter quantities."
+  }
+]

@@ -1,0 +1,4380 @@
+{
+  "description": "Manually reviewed outcome evidence. Fingerprints invalidate reviews when gameplay data changes. Printed clauses on remaining cards need individual outcome/restriction/interaction evidence.",
+  "cards": {
+    "animals-wrecker": {
+      "baseline": {
+        "fingerprint": "30f8ee8ff4df99beb4af070c2f4f8952dc7166a497011e74aed0af258f70da95",
+        "tests": [
+          "tests/scenarios/vanilla.test.ts"
+        ],
+        "rules": [
+          "3.11",
+          "3.12",
+          "3.20",
+          "11.3"
+        ]
+      },
+      "abilities": {}
+    },
+    "emergency-atlus": {
+      "baseline": {
+        "fingerprint": "62dcd4b41b4c5f905c8ae8522b9344b0275aa2d390626945305928d43f730e67",
+        "tests": [
+          "tests/scenarios/vanilla.test.ts"
+        ],
+        "rules": [
+          "3.11",
+          "3.12",
+          "3.20",
+          "11.3"
+        ]
+      },
+      "abilities": {}
+    },
+    "psycho-squad": {
+      "baseline": {
+        "fingerprint": "1f39d2da77309d6e9e6e611f9645d0cb0abe7416c9b4e6d3d5dbf57ff7b01b51",
+        "tests": [
+          "tests/scenarios/vanilla.test.ts"
+        ],
+        "rules": [
+          "3.11",
+          "3.12",
+          "3.20",
+          "11.3"
+        ]
+      },
+      "abilities": {}
+    },
+    "rockn-rockerboy": {
+      "baseline": {
+        "fingerprint": "346a89ddb85bb21f10d9cdeb7c0e9d2dc5cf19cb121cb8269c50eaa5ebb2c051",
+        "tests": [
+          "tests/scenarios/vanilla.test.ts"
+        ],
+        "rules": [
+          "3.11",
+          "3.12",
+          "3.20",
+          "11.3"
+        ]
+      },
+      "abilities": {}
+    },
+    "afterparty-at-lizzie-s": {
+      "baseline": {
+        "fingerprint": "e446f79f9c99783190025d2757abf801ed77a4493072ed9d953ebdb8b2afd5fe",
+        "tests": [
+          "tests/scenarios/gig-programs.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/afterparty-at-lizzie-s",
+          "10.6",
+          "10.7",
+          "11.5",
+          "11.26"
+        ]
+      },
+      "abilities": {
+        "f62982bac8b14fcafcd51441d85e270427e9164a82092e4ae4afc9956a7d2c6d": {
+          "tests": [
+            "tests/scenarios/gig-programs.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/afterparty-at-lizzie-s",
+            "10.6",
+            "10.7",
+            "11.5",
+            "11.26"
+          ]
+        }
+      }
+    },
+    "floor-it": {
+      "baseline": {
+        "fingerprint": "defda3e64272c2ed5f82aad9aab10ae304d9f5fbef68b217bfd5757f99c5d442",
+        "tests": [
+          "tests/scenarios/gig-programs.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/floor-it",
+          "10.6",
+          "10.7",
+          "11.5",
+          "11.26"
+        ]
+      },
+      "abilities": {
+        "d6bb609b34fbf260dac3a7969487f51ee01f5849959d7f3d62c23def5d61db8e": {
+          "tests": [
+            "tests/scenarios/gig-programs.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/floor-it",
+            "10.6",
+            "10.7",
+            "11.5",
+            "11.26"
+          ]
+        }
+      }
+    },
+    "industrial-assembly": {
+      "baseline": {
+        "fingerprint": "2be41f04fdaeb8644919c4b3cf00a9b7ac945827cd7b1a0dc9d1b28b147e1dfd",
+        "tests": [
+          "tests/scenarios/gig-programs.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/industrial-assembly",
+          "10.6",
+          "10.7",
+          "11.5",
+          "11.26"
+        ]
+      },
+      "abilities": {
+        "d917664d68ba7b58568d5e43cc542a71acaa5432a95977190760f5568b2f6575": {
+          "tests": [
+            "tests/scenarios/gig-programs.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/industrial-assembly",
+            "10.6",
+            "10.7",
+            "11.5",
+            "11.26"
+          ]
+        }
+      }
+    },
+    "peace-offering": {
+      "baseline": {
+        "fingerprint": "8b14b24762910adea76c864a4ee58549ddc23b44ed3535f53d47ebc7b9d51e2b",
+        "tests": [
+          "tests/scenarios/gig-programs.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/peace-offering",
+          "10.6",
+          "10.7",
+          "11.5",
+          "11.26"
+        ]
+      },
+      "abilities": {
+        "c7e5508af9221d8722b94003dfec6c098ae7680d48cb2d308cdc3064bc8bbd97": {
+          "tests": [
+            "tests/scenarios/gig-programs.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/peace-offering",
+            "10.6",
+            "10.7",
+            "11.5",
+            "11.26"
+          ]
+        }
+      }
+    },
+    "trust-no-one": {
+      "baseline": {
+        "fingerprint": "7abf055623cf886c91dc08204b78755ece3e1fe79b1149aeb545dc74df71d06d",
+        "tests": [
+          "tests/scenarios/gig-programs.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/trust-no-one",
+          "10.6",
+          "10.7",
+          "11.5",
+          "11.26"
+        ]
+      },
+      "abilities": {
+        "c2c1e16f8eaf2901cffa4ea405fc188d5b2bca1fcf2440af5fccdf09c6ca974f": {
+          "tests": [
+            "tests/scenarios/gig-programs.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/trust-no-one",
+            "10.6",
+            "10.7",
+            "11.5",
+            "11.26"
+          ]
+        }
+      }
+    },
+    "all-is-lost": {
+      "baseline": {
+        "fingerprint": "96f306cc5bd383210fe5d62961e6d12526d5616974533e20ebba8d172b8e3ddc",
+        "tests": [
+          "tests/scenarios/trash-retrieval.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/all-is-lost",
+          "https://cyberpunktcg.com/faqs",
+          "5.9",
+          "10.6",
+          "11.7.2"
+        ]
+      },
+      "abilities": {
+        "9e9a06008f7f029e22ddc4f100d0f2bed5b823fc78a2800e79da12a30dd5c10c": {
+          "tests": [
+            "tests/scenarios/trash-retrieval.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/all-is-lost",
+            "https://cyberpunktcg.com/faqs",
+            "5.9",
+            "10.6",
+            "11.7.2"
+          ]
+        }
+      }
+    },
+    "hacked-corpo": {
+      "baseline": {
+        "fingerprint": "86b26e912703b7b1efc324df3701c3c1c9d691b14780d5cb137688b536e6773c",
+        "tests": [
+          "tests/scenarios/trash-retrieval.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/hacked-corpo",
+          "https://cyberpunktcg.com/faqs",
+          "5.9",
+          "10.6",
+          "11.7.2"
+        ]
+      },
+      "abilities": {
+        "67a1cba416fc44b0927bf7d61fd02abde630a5f91c5e871bcc4f8156d6e2c8f8": {
+          "tests": [
+            "tests/scenarios/trash-retrieval.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/hacked-corpo",
+            "https://cyberpunktcg.com/faqs",
+            "5.9",
+            "10.6",
+            "11.7.2"
+          ]
+        }
+      }
+    },
+    "corporate-surveillance": {
+      "baseline": {
+        "fingerprint": "613de715df2a9ade95ecd83302c8fddbd167f0a8f5183681754a46c20a360006",
+        "tests": [
+          "tests/scenarios/removal-programs.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/corporate-surveillance",
+          "https://cyberpunktcg.com/faqs",
+          "10.6",
+          "11.4",
+          "11.10",
+          "11.26"
+        ]
+      },
+      "abilities": {
+        "335d580356d1eec83655fc17b20ecdd3cb1d51cdba803cf21a06ce3a8c49641a": {
+          "tests": [
+            "tests/scenarios/removal-programs.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/corporate-surveillance",
+            "https://cyberpunktcg.com/faqs",
+            "10.6",
+            "11.4",
+            "11.10",
+            "11.26"
+          ]
+        }
+      }
+    },
+    "detonate": {
+      "baseline": {
+        "fingerprint": "d0a915f6ce13af8c08e3f31291c7ac03357c6a00a2b43da39e7034b376c3b676",
+        "tests": [
+          "tests/scenarios/removal-programs.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/detonate",
+          "https://cyberpunktcg.com/faqs",
+          "10.6",
+          "11.4",
+          "11.10",
+          "11.26"
+        ]
+      },
+      "abilities": {
+        "863908f824b8fcaaddc54ebc658880662e5b7e21f1188811949df421014ccd2f": {
+          "tests": [
+            "tests/scenarios/removal-programs.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/detonate",
+            "https://cyberpunktcg.com/faqs",
+            "10.6",
+            "11.4",
+            "11.10",
+            "11.26"
+          ]
+        }
+      }
+    },
+    "over-the-edge": {
+      "baseline": {
+        "fingerprint": "384845f585dd9affd23d01ff584fde7cf86500ad8d977a24cf7718df69dc1958",
+        "tests": [
+          "tests/scenarios/removal-programs.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/over-the-edge",
+          "https://cyberpunktcg.com/faqs",
+          "10.6",
+          "11.4",
+          "11.10",
+          "11.26"
+        ]
+      },
+      "abilities": {
+        "83b37cc1c5372bc09cb8f6529d8b00486aba2552cc42417955216bfe85d00335": {
+          "tests": [
+            "tests/scenarios/removal-programs.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/over-the-edge",
+            "https://cyberpunktcg.com/faqs",
+            "10.6",
+            "11.4",
+            "11.10",
+            "11.26"
+          ]
+        }
+      }
+    },
+    "wild-in-the-streets": {
+      "baseline": {
+        "fingerprint": "8a763fb0f9ac79272f5e6c8b195b194892c04af1af05f2dd2c16566bcfd3bb29",
+        "tests": [
+          "tests/scenarios/removal-programs.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/wild-in-the-streets",
+          "https://cyberpunktcg.com/faqs",
+          "10.6",
+          "11.4",
+          "11.10",
+          "11.26"
+        ]
+      },
+      "abilities": {
+        "717208e30fe251e63887d2a858467e92994251dce9217013af0e51edd65e2bf0": {
+          "tests": [
+            "tests/scenarios/removal-programs.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/wild-in-the-streets",
+            "https://cyberpunktcg.com/faqs",
+            "10.6",
+            "11.4",
+            "11.10",
+            "11.26"
+          ]
+        }
+      }
+    },
+    "mantis-blades": {
+      "baseline": {
+        "fingerprint": "8b7674b6546e998aa51c0fa48e6e3d10a82e2ec80a2a9993991fed32d13801a9",
+        "tests": [
+          "tests/scenarios/gear-effects.test.ts",
+          "tests/scenarios/catalog-review.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/mantis-blades",
+          "https://cyberpunktcg.com/faqs",
+          "3.18.1.2.2",
+          "11.6",
+          "11.8"
+        ]
+      },
+      "abilities": {}
+    },
+    "netwatch-netdriver": {
+      "baseline": {
+        "fingerprint": "d1b748bf4f48d1b626d0d95f90988735b65871922aa27d83fd8a23163537e274",
+        "tests": [
+          "tests/scenarios/gear-effects.test.ts",
+          "tests/scenarios/catalog-review.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/netwatch-netdriver",
+          "https://cyberpunktcg.com/faqs",
+          "3.18.1.2.2",
+          "11.6",
+          "11.8"
+        ]
+      },
+      "abilities": {
+        "b212c7304264d7f7b22278d175a80e2504b9a17e3161dfe4aaad49c37ccc9ca4": {
+          "tests": [
+            "tests/scenarios/gear-effects.test.ts",
+            "tests/scenarios/catalog-review.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/netwatch-netdriver",
+            "https://cyberpunktcg.com/faqs",
+            "3.18.1.2.2",
+            "11.6",
+            "11.8"
+          ]
+        }
+      }
+    },
+    "sandevistan": {
+      "baseline": {
+        "fingerprint": "c555869bcfa651752e4d1f77c36b7412a9a96b3a68901bd368ae42c864e858ba",
+        "tests": [
+          "tests/scenarios/gear-effects.test.ts",
+          "tests/scenarios/catalog-review.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/sandevistan",
+          "https://cyberpunktcg.com/faqs",
+          "3.18.1.2.2",
+          "11.6",
+          "11.8"
+        ]
+      },
+      "abilities": {
+        "844a1bcf315744b4c48c6a292beebeef902f03e6d3c0fd2f1367d8ab0c3b162b": {
+          "tests": [
+            "tests/scenarios/gear-effects.test.ts",
+            "tests/scenarios/catalog-review.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/sandevistan",
+            "https://cyberpunktcg.com/faqs",
+            "3.18.1.2.2",
+            "11.6",
+            "11.8"
+          ]
+        }
+      }
+    },
+    "satori-sword-of-saburo": {
+      "baseline": {
+        "fingerprint": "1ff2bf0f4dd9e261326c4b664025af40358d3fec2ccd0164c6a83112dfdbf8bb",
+        "tests": [
+          "tests/scenarios/gear-effects.test.ts",
+          "tests/scenarios/catalog-review.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/satori-sword-of-saburo",
+          "https://cyberpunktcg.com/faqs",
+          "3.18.1.2.2",
+          "11.6",
+          "11.8"
+        ]
+      },
+      "abilities": {
+        "a557e77102bf7c975b43d58e3241b8634baae2b2f19cdbfd8e77da222d00c202": {
+          "tests": [
+            "tests/scenarios/gear-effects.test.ts",
+            "tests/scenarios/catalog-review.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/satori-sword-of-saburo",
+            "https://cyberpunktcg.com/faqs",
+            "3.18.1.2.2",
+            "11.6",
+            "11.8"
+          ]
+        }
+      }
+    },
+    "tetratronic-rippler": {
+      "baseline": {
+        "fingerprint": "8244b1f0ff406d09af50cf70c58bded37bb7cc2e3e72a6d4f8d8d87e598a6492",
+        "tests": [
+          "tests/scenarios/gear-effects.test.ts",
+          "tests/scenarios/catalog-review.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/tetratronic-rippler",
+          "https://cyberpunktcg.com/faqs",
+          "3.18.1.2.2",
+          "11.6",
+          "11.8"
+        ]
+      },
+      "abilities": {
+        "30f5f01e8d5b636a78f9f901c2584d89cc935fe349176e1b5efb450cb5d2f1df": {
+          "tests": [
+            "tests/scenarios/gear-effects.test.ts",
+            "tests/scenarios/catalog-review.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/tetratronic-rippler",
+            "https://cyberpunktcg.com/faqs",
+            "3.18.1.2.2",
+            "11.6",
+            "11.8"
+          ]
+        }
+      }
+    },
+    "zetatech-berserk": {
+      "baseline": {
+        "fingerprint": "70c24b8c0790d131c036e540b3d8a9382801e3714951ccff4c26274c1db0a775",
+        "tests": [
+          "tests/scenarios/gear-effects.test.ts",
+          "tests/scenarios/catalog-review.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/zetatech-berserk",
+          "https://cyberpunktcg.com/faqs",
+          "3.18.1.2.2",
+          "11.6",
+          "11.8"
+        ]
+      },
+      "abilities": {
+        "c0eec32925ba4d39d2642c29d52f42b7af61b3bfdf4e09655983ab636b047e62": {
+          "tests": [
+            "tests/scenarios/gear-effects.test.ts",
+            "tests/scenarios/catalog-review.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/zetatech-berserk",
+            "https://cyberpunktcg.com/faqs",
+            "3.18.1.2.2",
+            "11.6",
+            "11.8"
+          ]
+        }
+      }
+    },
+    "dying-night-v-s-pistol": {
+      "baseline": {
+        "fingerprint": "1a7ede3c4ced581cf4a6a3ca90d46c89d57b2d3705988b6451deb0cb6a98b6a9",
+        "tests": [
+          "tests/scenarios/delayed-effects.test.ts",
+          "tests/scenarios/catalog-review.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/dying-night-v-s-pistol",
+          "https://cyberpunktcg.com/faqs",
+          "10",
+          "11.6"
+        ]
+      },
+      "abilities": {
+        "e2fa42dc37a0153825788b7a5ca0ff5d78613814ee40bc585752fd669c39246f": {
+          "tests": [
+            "tests/scenarios/delayed-effects.test.ts",
+            "tests/scenarios/catalog-review.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/dying-night-v-s-pistol",
+            "https://cyberpunktcg.com/faqs",
+            "10",
+            "11.6"
+          ]
+        }
+      }
+    },
+    "arasaka-emergency-radioport": {
+      "baseline": {
+        "fingerprint": "cab13f04482a3f613fee9b9f0a46330fc1d7c131ea82ca4c2fb722914b398cbd",
+        "tests": [
+          "tests/scenarios/gear-information.test.ts",
+          "tests/scenarios/catalog-review.test.ts",
+          "tests/scenarios/timing.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/arasaka-emergency-radioport",
+          "https://cyberpunktcg.com/faqs",
+          "3.18.1.2.2",
+          "11.6",
+          "11.11",
+          "11.14"
+        ]
+      },
+      "abilities": {
+        "2195b10df7e4f55220e66065414817e3107563428f74ebf9260655deb219139a": {
+          "tests": [
+            "tests/scenarios/gear-information.test.ts",
+            "tests/scenarios/catalog-review.test.ts",
+            "tests/scenarios/timing.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/arasaka-emergency-radioport",
+            "https://cyberpunktcg.com/faqs",
+            "3.18.1.2.2",
+            "11.6",
+            "11.11",
+            "11.14"
+          ]
+        }
+      }
+    },
+    "kiroshi-optics": {
+      "baseline": {
+        "fingerprint": "89ca711c4f3e0a7c882d6963f3aeb9d571a1de1697b1118e12f8893388132e9d",
+        "tests": [
+          "tests/scenarios/gear-information.test.ts",
+          "tests/scenarios/catalog-review.test.ts",
+          "tests/scenarios/timing.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/kiroshi-optics",
+          "https://cyberpunktcg.com/faqs",
+          "3.18.1.2.2",
+          "11.6",
+          "11.11",
+          "11.14"
+        ]
+      },
+      "abilities": {
+        "c7f80703c6bb294a66a1a228291359e45e448785a79b31bb11e05a7a848c7f55": {
+          "tests": [
+            "tests/scenarios/gear-information.test.ts",
+            "tests/scenarios/catalog-review.test.ts",
+            "tests/scenarios/timing.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/kiroshi-optics",
+            "https://cyberpunktcg.com/faqs",
+            "3.18.1.2.2",
+            "11.6",
+            "11.11",
+            "11.14"
+          ]
+        }
+      }
+    },
+    "zetatech-faceplate": {
+      "baseline": {
+        "fingerprint": "de5c0d8cba7e506adef995939fa95abd5f63907a8d7024bf99e78b84b295cc1c",
+        "tests": [
+          "tests/scenarios/gear-information.test.ts",
+          "tests/scenarios/catalog-review.test.ts",
+          "tests/scenarios/timing.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/zetatech-faceplate",
+          "https://cyberpunktcg.com/faqs",
+          "3.18.1.2.2",
+          "11.6",
+          "11.11",
+          "11.14"
+        ]
+      },
+      "abilities": {
+        "3ba20a9b5990feadfeb61223d7cb3040ecfe865c0ab9cf6d90a69c1db47799a8": {
+          "tests": [
+            "tests/scenarios/gear-information.test.ts",
+            "tests/scenarios/catalog-review.test.ts",
+            "tests/scenarios/timing.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/zetatech-faceplate",
+            "https://cyberpunktcg.com/faqs",
+            "3.18.1.2.2",
+            "11.6",
+            "11.11",
+            "11.14"
+          ]
+        }
+      }
+    },
+    "delamain-rideshare-ai": {
+      "baseline": {
+        "fingerprint": "31ba27b25756b36cec66da488080e7932628c60706ac513f890b5bab559af63d",
+        "tests": [
+          "tests/scenarios/basic-units.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/delamain-rideshare-ai",
+          "https://cyberpunktcg.com/faqs",
+          "9",
+          "11.4",
+          "11.23"
+        ]
+      },
+      "abilities": {
+        "434b3d761ded1b350ffb464d90bda318a63989be1e78157c1ca92fec664359d9": {
+          "tests": [
+            "tests/scenarios/basic-units.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/delamain-rideshare-ai",
+            "https://cyberpunktcg.com/faqs",
+            "9",
+            "11.4",
+            "11.23"
+          ]
+        }
+      }
+    },
+    "field-operator": {
+      "baseline": {
+        "fingerprint": "9a160cbafc42e499bfdbb8c440608ce663e4abc67036cd1b55329c4a987ea0a9",
+        "tests": [
+          "tests/scenarios/basic-units.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/field-operator",
+          "https://cyberpunktcg.com/faqs",
+          "9",
+          "11.4",
+          "11.23"
+        ]
+      },
+      "abilities": {
+        "374a54eab622ff6c0aba90d1e784b6ead0649724afe8537f4fa3523c3c1a4545": {
+          "tests": [
+            "tests/scenarios/basic-units.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/field-operator",
+            "https://cyberpunktcg.com/faqs",
+            "9",
+            "11.4",
+            "11.23"
+          ]
+        }
+      }
+    },
+    "japantown-jonin": {
+      "baseline": {
+        "fingerprint": "3b7b29868165a9c3f48e7b77e375ccb401283161000ea34dc9fbd567e727e3d6",
+        "tests": [
+          "tests/scenarios/basic-units.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/japantown-jonin",
+          "https://cyberpunktcg.com/faqs",
+          "9",
+          "11.4",
+          "11.23"
+        ]
+      },
+      "abilities": {
+        "c229f55aee37d89b1968dfa362f9457d1a103e7a5be31637c3583e4c27cf5d0e": {
+          "tests": [
+            "tests/scenarios/basic-units.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/japantown-jonin",
+            "https://cyberpunktcg.com/faqs",
+            "9",
+            "11.4",
+            "11.23"
+          ]
+        }
+      }
+    },
+    "offduty-malfini": {
+      "baseline": {
+        "fingerprint": "3d95750e793eb181030713c26d5afe9d74783b28e1feac7eca354413a2107d00",
+        "tests": [
+          "tests/scenarios/basic-units.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/offduty-malfini",
+          "https://cyberpunktcg.com/faqs",
+          "9",
+          "11.4",
+          "11.23"
+        ]
+      },
+      "abilities": {
+        "4eba06ab330da0e2919164f0e235510240a9cda069eff6cd0916b54484d9fccc": {
+          "tests": [
+            "tests/scenarios/basic-units.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/offduty-malfini",
+            "https://cyberpunktcg.com/faqs",
+            "9",
+            "11.4",
+            "11.23"
+          ]
+        }
+      }
+    },
+    "riding-nomad": {
+      "baseline": {
+        "fingerprint": "686ca1dc069958d6c4d490fbbd9b1aac636d86ef66684d0be97e983d6956f83b",
+        "tests": [
+          "tests/scenarios/basic-units.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/riding-nomad",
+          "https://cyberpunktcg.com/faqs",
+          "9",
+          "11.4",
+          "11.23"
+        ]
+      },
+      "abilities": {
+        "15c92e9622f37227a0953d69775238d8b1759ea338182a388e5aa84fd4a14abc": {
+          "tests": [
+            "tests/scenarios/basic-units.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/riding-nomad",
+            "https://cyberpunktcg.com/faqs",
+            "9",
+            "11.4",
+            "11.23"
+          ]
+        }
+      }
+    },
+    "ruthless-lowlife": {
+      "baseline": {
+        "fingerprint": "87743e8e6ccc0bca28096874606ae5250b09e9dee88f720bdf0bf168cbabf060",
+        "tests": [
+          "tests/scenarios/basic-units.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/ruthless-lowlife",
+          "https://cyberpunktcg.com/faqs",
+          "9",
+          "11.4",
+          "11.23"
+        ]
+      },
+      "abilities": {
+        "c7b0e3ab122a51164e18834c4d3c6fb6a40676db3fee3ca09bf327a9afd7182d": {
+          "tests": [
+            "tests/scenarios/basic-units.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/ruthless-lowlife",
+            "https://cyberpunktcg.com/faqs",
+            "9",
+            "11.4",
+            "11.23"
+          ]
+        }
+      }
+    },
+    "adrenaline-converter": {
+      "baseline": {
+        "fingerprint": "981c319e906ab4b946fff660dcc0d5e1574d5369f867a3a81d7506400967a9cb",
+        "tests": [
+          "tests/scenarios/gear-combat.test.ts",
+          "tests/scenarios/catalog-review.test.ts",
+          "tests/scenarios/theft.test.ts",
+          "tests/scenarios/mechanics.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/adrenaline-converter",
+          "https://cyberpunktcg.com/faqs",
+          "docs/rules-audit/MULTIPLAYER.md",
+          "3.18.1.2.2",
+          "9.13",
+          "11.6",
+          "11.26"
+        ]
+      },
+      "abilities": {
+        "1ee6af6c91316975c676aa05a903b500e10e8286009ef197d49062462127ef2d": {
+          "tests": [
+            "tests/scenarios/gear-combat.test.ts",
+            "tests/scenarios/catalog-review.test.ts",
+            "tests/scenarios/theft.test.ts",
+            "tests/scenarios/mechanics.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/adrenaline-converter",
+            "https://cyberpunktcg.com/faqs",
+            "docs/rules-audit/MULTIPLAYER.md",
+            "3.18.1.2.2",
+            "9.13",
+            "11.6",
+            "11.26"
+          ]
+        }
+      }
+    },
+    "deadman-transmitter": {
+      "baseline": {
+        "fingerprint": "73ecd06efc7bf31ca1dfed3e65f51a5118b3200e7f4cfe5e9da4b118542dd096",
+        "tests": [
+          "tests/scenarios/gear-combat.test.ts",
+          "tests/scenarios/catalog-review.test.ts",
+          "tests/scenarios/theft.test.ts",
+          "tests/scenarios/mechanics.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/deadman-transmitter",
+          "https://cyberpunktcg.com/faqs",
+          "docs/rules-audit/MULTIPLAYER.md",
+          "3.18.1.2.2",
+          "9.13",
+          "11.6",
+          "11.26"
+        ]
+      },
+      "abilities": {
+        "8d2708f7ef1ef8e56e2ad6d40d6947ad6890c95b8eca6adeaffa044d7d3b1315": {
+          "tests": [
+            "tests/scenarios/gear-combat.test.ts",
+            "tests/scenarios/catalog-review.test.ts",
+            "tests/scenarios/theft.test.ts",
+            "tests/scenarios/mechanics.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/deadman-transmitter",
+            "https://cyberpunktcg.com/faqs",
+            "docs/rules-audit/MULTIPLAYER.md",
+            "3.18.1.2.2",
+            "9.13",
+            "11.6",
+            "11.26"
+          ]
+        }
+      }
+    },
+    "gorilla-arms": {
+      "baseline": {
+        "fingerprint": "760acddfbf963aa381024ec97ac28d643f5258383822d6e3e431d3c325d8dd7c",
+        "tests": [
+          "tests/scenarios/gear-combat.test.ts",
+          "tests/scenarios/catalog-review.test.ts",
+          "tests/scenarios/theft.test.ts",
+          "tests/scenarios/mechanics.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/gorilla-arms",
+          "https://cyberpunktcg.com/faqs",
+          "docs/rules-audit/MULTIPLAYER.md",
+          "3.18.1.2.2",
+          "9.13",
+          "11.6",
+          "11.26"
+        ]
+      },
+      "abilities": {
+        "d4a036e9c49cebb0f10a8b1366ede6662053ab012bb28babccab24c5c474b3ae": {
+          "tests": [
+            "tests/scenarios/gear-combat.test.ts",
+            "tests/scenarios/catalog-review.test.ts",
+            "tests/scenarios/theft.test.ts",
+            "tests/scenarios/mechanics.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/gorilla-arms",
+            "https://cyberpunktcg.com/faqs",
+            "docs/rules-audit/MULTIPLAYER.md",
+            "3.18.1.2.2",
+            "9.13",
+            "11.6",
+            "11.26"
+          ]
+        }
+      }
+    },
+    "mandibular-upgrade": {
+      "baseline": {
+        "fingerprint": "c3d633ee0aac26d27145135c88d7bd66564af8a9df2fc7855ad18010febea238",
+        "tests": [
+          "tests/scenarios/gear-combat.test.ts",
+          "tests/scenarios/catalog-review.test.ts",
+          "tests/scenarios/theft.test.ts",
+          "tests/scenarios/mechanics.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/mandibular-upgrade",
+          "https://cyberpunktcg.com/faqs",
+          "docs/rules-audit/MULTIPLAYER.md",
+          "3.18.1.2.2",
+          "9.13",
+          "11.6",
+          "11.26"
+        ]
+      },
+      "abilities": {
+        "0eeced424051cded62df6d8359976584a178ba9632d0cd1d87fe370b0bca9ae0": {
+          "tests": [
+            "tests/scenarios/gear-combat.test.ts",
+            "tests/scenarios/catalog-review.test.ts",
+            "tests/scenarios/theft.test.ts",
+            "tests/scenarios/mechanics.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/mandibular-upgrade",
+            "https://cyberpunktcg.com/faqs",
+            "docs/rules-audit/MULTIPLAYER.md",
+            "3.18.1.2.2",
+            "9.13",
+            "11.6",
+            "11.26"
+          ]
+        }
+      }
+    },
+    "overwatch-panam-s-gift": {
+      "baseline": {
+        "fingerprint": "4bef3af7a4666b5ec6086c35a21c06c9a7ec40ab4b9c23c0eb9a9459a9f6ddf7",
+        "tests": [
+          "tests/scenarios/gear-combat.test.ts",
+          "tests/scenarios/catalog-review.test.ts",
+          "tests/scenarios/theft.test.ts",
+          "tests/scenarios/mechanics.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/overwatch-panam-s-gift",
+          "https://cyberpunktcg.com/faqs",
+          "docs/rules-audit/MULTIPLAYER.md",
+          "3.18.1.2.2",
+          "9.13",
+          "11.6",
+          "11.26"
+        ]
+      },
+      "abilities": {
+        "a1129ad8c142c4ec2902cc8d8dcbb5b095bf03a092f570c9513e84a98f8bde48": {
+          "tests": [
+            "tests/scenarios/gear-combat.test.ts",
+            "tests/scenarios/catalog-review.test.ts",
+            "tests/scenarios/theft.test.ts",
+            "tests/scenarios/mechanics.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/overwatch-panam-s-gift",
+            "https://cyberpunktcg.com/faqs",
+            "docs/rules-audit/MULTIPLAYER.md",
+            "3.18.1.2.2",
+            "9.13",
+            "11.6",
+            "11.26"
+          ]
+        }
+      }
+    },
+    "riot-shield": {
+      "baseline": {
+        "fingerprint": "f94f4e679641771f77a2406217f1026230710ddbba51f004e54fe2d4db89c93f",
+        "tests": [
+          "tests/scenarios/gear-combat.test.ts",
+          "tests/scenarios/catalog-review.test.ts",
+          "tests/scenarios/theft.test.ts",
+          "tests/scenarios/mechanics.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/riot-shield",
+          "https://cyberpunktcg.com/faqs",
+          "docs/rules-audit/MULTIPLAYER.md",
+          "3.18.1.2.2",
+          "9.13",
+          "11.6",
+          "11.26"
+        ]
+      },
+      "abilities": {
+        "0eeced424051cded62df6d8359976584a178ba9632d0cd1d87fe370b0bca9ae0": {
+          "tests": [
+            "tests/scenarios/gear-combat.test.ts",
+            "tests/scenarios/catalog-review.test.ts",
+            "tests/scenarios/theft.test.ts",
+            "tests/scenarios/mechanics.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/riot-shield",
+            "https://cyberpunktcg.com/faqs",
+            "docs/rules-audit/MULTIPLAYER.md",
+            "3.18.1.2.2",
+            "9.13",
+            "11.6",
+            "11.26"
+          ]
+        },
+        "e9b142e49e59e3b388ea5a574d7c4316ecc2bb7aa12124002964c7cd3e1f82cb": {
+          "tests": [
+            "tests/scenarios/gear-combat.test.ts",
+            "tests/scenarios/catalog-review.test.ts",
+            "tests/scenarios/theft.test.ts",
+            "tests/scenarios/mechanics.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/riot-shield",
+            "https://cyberpunktcg.com/faqs",
+            "docs/rules-audit/MULTIPLAYER.md",
+            "3.18.1.2.2",
+            "9.13",
+            "11.6",
+            "11.26"
+          ]
+        }
+      }
+    },
+    "the-relic-experimental-biochip": {
+      "baseline": {
+        "fingerprint": "49219f2c66510d55ed6396be53eadcbeb6f4bc2b0a0a333c3b41794ce40a90a4",
+        "tests": [
+          "tests/scenarios/gear-combat.test.ts",
+          "tests/scenarios/catalog-review.test.ts",
+          "tests/scenarios/theft.test.ts",
+          "tests/scenarios/mechanics.test.ts"
+        ],
+        "rules": [
+          "https://cyberpunktcg.com/cards/the-relic-experimental-biochip",
+          "https://cyberpunktcg.com/faqs",
+          "docs/rules-audit/MULTIPLAYER.md",
+          "3.18.1.2.2",
+          "9.13",
+          "11.6",
+          "11.26"
+        ]
+      },
+      "abilities": {
+        "23881effeec1432f1e4862c4ee535dd9aab2414afe3946ead494724882ee9ed8": {
+          "tests": [
+            "tests/scenarios/gear-combat.test.ts",
+            "tests/scenarios/catalog-review.test.ts",
+            "tests/scenarios/theft.test.ts",
+            "tests/scenarios/mechanics.test.ts"
+          ],
+          "rules": [
+            "https://cyberpunktcg.com/cards/the-relic-experimental-biochip",
+            "https://cyberpunktcg.com/faqs",
+            "docs/rules-audit/MULTIPLAYER.md",
+            "3.18.1.2.2",
+            "9.13",
+            "11.6",
+            "11.26"
+          ]
+        }
+      }
+    },
+    "chrome-reverie": {
+      "baseline": {
+        "fingerprint": "cecd7b7aaf0b6bae51242d7c1731bc0636da8b5c4749cd3ca766105d04ace91a",
+        "tests": [
+          "tests/scenarios/control-programs.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "9.13",
+          "9.23"
+        ]
+      },
+      "abilities": {
+        "c6302746286d51c16ddc208f1e8256d852a8df5a782888372be1523a42f02df9": {
+          "tests": [
+            "tests/scenarios/control-programs.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "9.13",
+            "9.23"
+          ]
+        }
+      }
+    },
+    "memory-relapse": {
+      "baseline": {
+        "fingerprint": "2c25c6654f402419da3b84b5c464b299903c9109a592fcf68b2d9894a5bbe61b",
+        "tests": [
+          "tests/scenarios/control-programs.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "9.13",
+          "9.23"
+        ]
+      },
+      "abilities": {
+        "7c00adaaf71eb99f974bbc4e9e03709cd4e7caed2a0b3d49148b8a84bc1fb53f": {
+          "tests": [
+            "tests/scenarios/control-programs.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "9.13",
+            "9.23"
+          ]
+        }
+      }
+    },
+    "synapse-burnout": {
+      "baseline": {
+        "fingerprint": "9001fd6aa9fadc7d87e6c9f99b131fa45d031509b811b5fbb45e5139b2878e58",
+        "tests": [
+          "tests/scenarios/control-programs.test.ts",
+          "tests/scenarios/legend-scope.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "9.13",
+          "9.23"
+        ]
+      },
+      "abilities": {
+        "6917656a991ff10f96784d320d216d14dce68f204e033bab6d56b037d417fda7": {
+          "tests": [
+            "tests/scenarios/control-programs.test.ts",
+            "tests/scenarios/legend-scope.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "9.13",
+            "9.23"
+          ]
+        }
+      }
+    },
+    "reboot-optics": {
+      "baseline": {
+        "fingerprint": "f1836db4390779a3bc3d7b4e4f229fae6c7809ef9f94c6c0e4308ac07f87c486",
+        "tests": [
+          "tests/scenarios/control-programs.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "9.13",
+          "9.23"
+        ]
+      },
+      "abilities": {
+        "23c606db2a1033d0915720eccd84c62f646c3168926dc33377fdfbfc04cca08e": {
+          "tests": [
+            "tests/scenarios/control-programs.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "9.13",
+            "9.23"
+          ]
+        }
+      }
+    },
+    "take-control": {
+      "baseline": {
+        "fingerprint": "440a0234a3d263ff934535a596ec876a055b871433ca7320e905691a731952ea",
+        "tests": [
+          "tests/scenarios/control-programs.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "9.13",
+          "9.23"
+        ]
+      },
+      "abilities": {
+        "bc2f1da84d87505a49dc757a12d667d3bbcb3c0f328930c0dcffc57c6fb65913": {
+          "tests": [
+            "tests/scenarios/control-programs.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "9.13",
+            "9.23"
+          ]
+        }
+      }
+    },
+    "appetite-for-destruction": {
+      "baseline": {
+        "fingerprint": "6bd47831de020f9506182207f87cb7a5be023cead1307eb0a7820879e10b1d0d",
+        "tests": [
+          "tests/scenarios/control-programs.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "9.13",
+          "9.23"
+        ]
+      },
+      "abilities": {
+        "1e573d60604a943a9789d67cbb8f509349ea7a9318dfaee40693ee568ac3c9ae": {
+          "tests": [
+            "tests/scenarios/control-programs.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "9.13",
+            "9.23"
+          ]
+        }
+      }
+    },
+    "carnage-at-the-colosseum": {
+      "baseline": {
+        "fingerprint": "17c8f411a84fb103c4cb11ccbb985d9c09c86de6fc50dab11fb95c7c6883dfb9",
+        "tests": [
+          "tests/scenarios/advanced-removal.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "8dd2f224cd23ada0374ffd4778b91b1f5192783f801325131cde52d4ba41872e": {
+          "tests": [
+            "tests/scenarios/advanced-removal.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "99c3281a9ba91310a47819052be134ea5175eeea4a9d4b195de805bac0c4a6a1": {
+          "tests": [
+            "tests/scenarios/advanced-removal.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "cyberpsychosis": {
+      "baseline": {
+        "fingerprint": "aedad07af338d072f7340063ed61c6baa8de0ad0382dd5fd567d2769980f756c",
+        "tests": [
+          "tests/scenarios/advanced-removal.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "e24bc0526467c3824700648510185e166eea7ea2add4e2e2a72c0405593becb2": {
+          "tests": [
+            "tests/scenarios/advanced-removal.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "don-t-fear-the-reaper": {
+      "baseline": {
+        "fingerprint": "f9feeca0c95f3006c5204315d78e19324b85cbbe6639e0a309fa1ce8d754510d",
+        "tests": [
+          "tests/scenarios/advanced-removal.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "99cb77bec4d3f71a15c6be28981d6bb234c2d8a1a100b08ac4c7694c849b0d14": {
+          "tests": [
+            "tests/scenarios/advanced-removal.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "les-e-le-mens": {
+      "baseline": {
+        "fingerprint": "f8a8b84b23aa2d7ee5f0ddb2fef36f30f22339441957dcca68c98187ba8e4cd7",
+        "tests": [
+          "tests/scenarios/advanced-removal.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "84505627f41aec73f4b85713ffd53e4f7a3f6ce6ec72fcbb7d6d6a364e05f493": {
+          "tests": [
+            "tests/scenarios/advanced-removal.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "live-with-the-aftermath": {
+      "baseline": {
+        "fingerprint": "8a1b9b9f1a23bd80902fbfd3681007dd87958cf824a260b921d25a89fd903f99",
+        "tests": [
+          "tests/scenarios/advanced-removal.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "b4a08c2627c625a928e1180a732e2621a7b174ba5ab819367b43f72da5b47b00": {
+          "tests": [
+            "tests/scenarios/advanced-removal.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "unlikely-bond": {
+      "baseline": {
+        "fingerprint": "8314f3865d6901ed7885bf23c870de928f5d98f45e7c9df35184947a8ef162e6",
+        "tests": [
+          "tests/scenarios/advanced-removal.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "b3192b7b3ba8e7146353ccf0cdb24c6fe24e431ad4e146c6bc99bc27798e1f4b": {
+          "tests": [
+            "tests/scenarios/advanced-removal.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "three-mouths-one-desire": {
+      "baseline": {
+        "fingerprint": "2f88e0fa7c8debe4db7b2c50093046387636944991cdf9ac3a7d33c7993bb1d1",
+        "tests": [
+          "tests/scenarios/search-programs.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "0d35a94f35f384648092117bc35046f5c069505350dc61f94be648705bab41dc": {
+          "tests": [
+            "tests/scenarios/search-programs.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "the-heist": {
+      "baseline": {
+        "fingerprint": "4eab510bc34a5143d93bae4c6d42a71098c357cdaa531606596576cb2569b0ff",
+        "tests": [
+          "tests/scenarios/search-programs.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "29331f038a36a5bf95ef65f7a3c2df96332a9e80835770f831a069a23d215f14": {
+          "tests": [
+            "tests/scenarios/search-programs.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "we-gotta-live-together": {
+      "baseline": {
+        "fingerprint": "9beb893de69e52e9611ce612709b02046c85bc7992bb98237475b2a3fd4758a8",
+        "tests": [
+          "tests/scenarios/search-programs.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "a13f37b851d543ad6a9f668a5da651fb570a3ebdf1927a10a4e52b99868d2caa": {
+          "tests": [
+            "tests/scenarios/search-programs.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "e925b06ef9fc7283c0fa7c36ae4ee92ed41c4f1a567780af6caf38f47974da01": {
+          "tests": [
+            "tests/scenarios/search-programs.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "shattered-memories": {
+      "baseline": {
+        "fingerprint": "2b0391d727c64f1e95a283e44005550b0dd4e5311ac3ec06675801a5b7422b1d",
+        "tests": [
+          "tests/scenarios/search-programs.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "27b882d0256ae167fdd38c41ff03464cc189a5142edd0dfe0794e8cb9cc5b34c": {
+          "tests": [
+            "tests/scenarios/search-programs.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "0cc4ed8f585f60ca490e51781cc1edafe56ec9894dd1929de12d27bd6996d6e9": {
+          "tests": [
+            "tests/scenarios/search-programs.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "fool-on-the-hill": {
+      "baseline": {
+        "fingerprint": "5280cdeaccda58dce1b89dca11756b1005488dbb72d8d9ebafd57ce6ac7d2cea",
+        "tests": [
+          "tests/scenarios/search-programs.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "fd1ff6801354ec6a2592d847d6333ba816c16cf0d085e82c979efb269e46b593": {
+          "tests": [
+            "tests/scenarios/search-programs.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "gunpoint-diplomacy": {
+      "baseline": {
+        "fingerprint": "5f8d521f6c0540961f6f59510f4f604ad742268601d818e091239bc8e98cbe6d",
+        "tests": [
+          "tests/scenarios/modal-programs.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "c2d582d219c9836066b0e367879b1ca8d621d92d7f4920e3baedbb67083dc080": {
+          "tests": [
+            "tests/scenarios/modal-programs.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "9d167a2febd225b8137a82ad1082a9fb3d42e181c050d58291f92978bedc17a8": {
+          "tests": [
+            "tests/scenarios/modal-programs.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "nocturne-op55-n1": {
+      "baseline": {
+        "fingerprint": "599f29decfb13202646177917ec9e8989a967b87ef11158d1c7f4c774ef4889d",
+        "tests": [
+          "tests/scenarios/modal-programs.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "6bfded1b8a62528657dc63d66f0cf70e83431f4565a4935e5aedcfbb809d3dc2": {
+          "tests": [
+            "tests/scenarios/modal-programs.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "8539a1a5a7b1eaf855a4ec72d0fa08a98f4a0f0e2c4a0c3ab3faa4ae12f3d266": {
+          "tests": [
+            "tests/scenarios/modal-programs.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "corpo-security": {
+      "baseline": {
+        "fingerprint": "50ca9d7a411281e7a228b710fdf748f8dd9b05328c2967ab1a832d9011e5a3d9",
+        "tests": [
+          "tests/scenarios/passive-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "6c6ad6f03e3d99bfcb46b242a003cee7b43ee802dcd66a1997c05d565326b6b0": {
+          "tests": [
+            "tests/scenarios/passive-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "0eeced424051cded62df6d8359976584a178ba9632d0cd1d87fe370b0bca9ae0": {
+          "tests": [
+            "tests/scenarios/passive-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "jacked-in-voodoo-boy": {
+      "baseline": {
+        "fingerprint": "742546f98edb725e4ccb1e09f3cd08d640d9d680aa018eea4aa0eade9da596e6",
+        "tests": [
+          "tests/scenarios/passive-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "27afb344b3d3354c99a461fabac4f9a641b7fac76a162131313a67bf019e4a39": {
+          "tests": [
+            "tests/scenarios/passive-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "maxtac-suppression-team": {
+      "baseline": {
+        "fingerprint": "8a891934ce7fb1edd4b9c045a1ed63024068cb4b871abc1b6ab8373a9750417e",
+        "tests": [
+          "tests/scenarios/passive-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "288c80b0dd1351cd948b954195efc1e2032b71776d41cac221ce1418f93d8ee9": {
+          "tests": [
+            "tests/scenarios/passive-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "nadia-fighting-through-grief": {
+      "baseline": {
+        "fingerprint": "c97c2aae2701f1fde5d2c94aefbb46867ae8113936ca23280e252b3b4f254252",
+        "tests": [
+          "tests/scenarios/passive-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "54a28d9b1e703c70be728a0bd4259ece4a2034b8d5018e7701c9974ade74a934": {
+          "tests": [
+            "tests/scenarios/passive-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "valentino-guerrera": {
+      "baseline": {
+        "fingerprint": "37e0efd638972f82ddb57383cdff87231ed4b42566dd13d8b44bc6576f2eb5b8",
+        "tests": [
+          "tests/scenarios/passive-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "f1aaa17a9b451043ac71e89afce78730e0f5d1dd130afec46a61ca84f4306e6d": {
+          "tests": [
+            "tests/scenarios/passive-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "octant": {
+      "baseline": {
+        "fingerprint": "2731dea8269a0b0a6915ea21d617b502f051d9db469f9b67453cb31bc35273d7",
+        "tests": [
+          "tests/scenarios/passive-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "89884e4c58e05a199a8c2f654a31aa23ae179c901e70d800591fc5635af41e7e": {
+          "tests": [
+            "tests/scenarios/passive-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "trauma-team-operatives": {
+      "baseline": {
+        "fingerprint": "451e3b04a6a283f8b223e59efad5355fcfb1596099280ff175ba536becfb7e39",
+        "tests": [
+          "tests/scenarios/passive-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "607d29bc6dd073dbb1d0f50232d49ea18a6c8fdc82a4ff0fb86595b9d3dd5855": {
+          "tests": [
+            "tests/scenarios/passive-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "maxtac-heavy": {
+      "baseline": {
+        "fingerprint": "acdaf79802ac4302c13ce914c54fe7c824ea98841b4b6fefc444b0d5dc4def8b",
+        "tests": [
+          "tests/scenarios/passive-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "9968524e3ce94f9b878215d3f0d7c0b928e9779a8caba8745c11f85e868bfdba": {
+          "tests": [
+            "tests/scenarios/passive-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "secondhand-bombus": {
+      "baseline": {
+        "fingerprint": "ccdc33fe30e78542d85028d60959213dae778e2f284e59c74df9645e8d6e5893",
+        "tests": [
+          "tests/scenarios/end-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "0eeced424051cded62df6d8359976584a178ba9632d0cd1d87fe370b0bca9ae0": {
+          "tests": [
+            "tests/scenarios/end-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "delamain-cab": {
+      "baseline": {
+        "fingerprint": "a264674b49a493be73a433cb75160b4eaacd243496579f687a4b4a7a98ae8188",
+        "tests": [
+          "tests/scenarios/end-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "18fe27ef33714417c918411144ee6ebcb048bf900f0fcded392adcf12b967564": {
+          "tests": [
+            "tests/scenarios/end-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "modded-kusanagi": {
+      "baseline": {
+        "fingerprint": "d34120e1dc900ae4ff045743b32922669ec57d53c670795df29b5b730e84026d",
+        "tests": [
+          "tests/scenarios/end-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "15c92e9622f37227a0953d69775238d8b1759ea338182a388e5aa84fd4a14abc": {
+          "tests": [
+            "tests/scenarios/end-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "4cd8d85d8e9e4d6cc16ea40ea10519375bb8e52658bc68d6731e444da804e2c5": {
+          "tests": [
+            "tests/scenarios/end-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "modded-muramasa": {
+      "baseline": {
+        "fingerprint": "6b35e896e39d7da8f90b7b5941c3bf13e61568d655c053a5a06e73a9b791b47a",
+        "tests": [
+          "tests/scenarios/end-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "f3e1ae1b6075dcd1f78410e95cc729eb49eaa190d63a6ca8b9e9f8fc8150d7a4": {
+          "tests": [
+            "tests/scenarios/end-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "maxtac-squadron": {
+      "baseline": {
+        "fingerprint": "ad41913394c20745b8cba2fae766e761f2946ef5f282cd0f36f510536ba0a1eb",
+        "tests": [
+          "tests/scenarios/end-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "e876e19b081e8d88177fc9ae8644c401c0a0b94e0ef17fec978a7f6a8d3ace09": {
+          "tests": [
+            "tests/scenarios/end-units.test.ts",
+            "tests/scenarios/legend-scope.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "kerry-eurodyne-the-last-rockerboy": {
+      "baseline": {
+        "fingerprint": "1fc707e80fa6aace36c5f9d20bf824c1c6cea8e5413b574d618e8677911381cc",
+        "tests": [
+          "tests/scenarios/end-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "a61bbeb1ead9be8ccb6a39e5f7b13d960602d13050d59846fcd61552cd6d5784": {
+          "tests": [
+            "tests/scenarios/end-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "tyger-s-whisper": {
+      "baseline": {
+        "fingerprint": "d2b7d5e75c1913b685d89e6093f46f1525fb3172769515a3b639adebb7ded8ca",
+        "tests": [
+          "tests/scenarios/end-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "fa10e041a1bffa7083db4fb7c34ad5f48b4cd65f009383a0b5aa5e03deedefeb": {
+          "tests": [
+            "tests/scenarios/end-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "chrome-fang": {
+      "baseline": {
+        "fingerprint": "ba16ad724e7445c43fa4f3a16e3989cd53b47abb83c02defa3b8289610031d63",
+        "tests": [
+          "tests/scenarios/end-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "165e8e5e165785bc7d4e8f32879f979e851d863d7b5580bc7485fde698f6ef89": {
+          "tests": [
+            "tests/scenarios/end-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "westbrook-netrunner": {
+      "baseline": {
+        "fingerprint": "664171adf8aa8941bc9024150068e4b6a8c6344900301603c50d8c8657c474bb",
+        "tests": [
+          "tests/scenarios/end-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "f6c0d2b8c64d0510a13dfee3ceb0452dff0e9d14c417dceacc7e0020677f7730": {
+          "tests": [
+            "tests/scenarios/end-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "v-corporate-exile": {
+      "baseline": {
+        "fingerprint": "6dcac1b0d9f452205907c7374071394c4688351e2370f7dca35a6a55f7ff9a14",
+        "tests": [
+          "tests/scenarios/heist-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "5a802fdd0dae0c9194ca46b1c63761f664db34f7703b628f12b2e6cf58753de1": {
+          "tests": [
+            "tests/scenarios/heist-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "viktor-vektor-sit-down-and-relax": {
+      "baseline": {
+        "fingerprint": "b91d05bb2996e3333be1fb9083303fd75153bd4532ad7dda9da6d1ae26e638fe",
+        "tests": [
+          "tests/scenarios/heist-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "d0f3232b6d8c5d183f8c8a9ca65e2f2c982ede01acca8234906bb35e6c694876": {
+          "tests": [
+            "tests/scenarios/heist-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "jackie-welles-pour-one-out-for-me": {
+      "baseline": {
+        "fingerprint": "cb2d75c5276899163f9093565f217e83273d755b49efedcde5567473857fb722",
+        "tests": [
+          "tests/scenarios/heist-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "18851574e5edf1198021af6bdc54dbe6372a5433f5ee865750a012b2d080e045": {
+          "tests": [
+            "tests/scenarios/heist-legends.test.ts",
+            "tests/scenarios/timing.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "dexter-deshawn-off-the-grid": {
+      "baseline": {
+        "fingerprint": "c083563eecd913479264f25ba48d7686cda7f7ca43fe3a89bf5c284c86f847f2",
+        "tests": [
+          "tests/scenarios/fixer-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "c974e1dc630d88da9de415659cb9f39007ec0078ee67f422d4692001f4d0f5d1": {
+          "tests": [
+            "tests/scenarios/fixer-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "572b0e709f36a033774f4eafb9aa323410e30d7d1532a0d5de989cc8003785fa": {
+          "tests": [
+            "tests/scenarios/fixer-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "6811ace78d2de5bd0074bcbed3e69b47a4fdd0b412076d815780332eb4b28167": {
+          "tests": [
+            "tests/scenarios/fixer-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "muamar-reyes-el-capita-n": {
+      "baseline": {
+        "fingerprint": "439d9195b0412fa8db2e62e2939a6e8d76b6b2d60c799523dd8ebf9b50912d68",
+        "tests": [
+          "tests/scenarios/fixer-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "c974e1dc630d88da9de415659cb9f39007ec0078ee67f422d4692001f4d0f5d1": {
+          "tests": [
+            "tests/scenarios/fixer-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "8007d25f353f58fdc82d0a7767e23e3cf907c5f89fb46b31a268f7f6153d9814": {
+          "tests": [
+            "tests/scenarios/fixer-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "e086743b59c3e783790bcb1c8495ea7397df84d0320c3411ed5573dfc92ef3dd": {
+          "tests": [
+            "tests/scenarios/fixer-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "padre-man-of-the-cross": {
+      "baseline": {
+        "fingerprint": "cd913ee2aa94a32846678d3f6bb47e65c9472e8d53719fc7ad3190e39114f9ba",
+        "tests": [
+          "tests/scenarios/fixer-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "c974e1dc630d88da9de415659cb9f39007ec0078ee67f422d4692001f4d0f5d1": {
+          "tests": [
+            "tests/scenarios/fixer-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "9307e63d71225876d6eb5491b37405608bb02525b60f9534065b000cacfe4a88": {
+          "tests": [
+            "tests/scenarios/fixer-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "11bec1288209a616f7680cb45df258daebd2ac176f3c87d9e99bf6cc35f17247": {
+          "tests": [
+            "tests/scenarios/fixer-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "wakako-okada-peace-and-harmony": {
+      "baseline": {
+        "fingerprint": "8dcea9b860bf8dd5d5c873ccff39ffaed6c578e5e8f0c51c8462e11ec81e8858",
+        "tests": [
+          "tests/scenarios/fixer-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "c974e1dc630d88da9de415659cb9f39007ec0078ee67f422d4692001f4d0f5d1": {
+          "tests": [
+            "tests/scenarios/fixer-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "30cc4305fc9aa3bca4e18391bcd4942b396596de31ad3aa87cf2360d947ec247": {
+          "tests": [
+            "tests/scenarios/fixer-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "ef2708ef5d71f6a44b8c0a10a4adc3e7f2b84648d312be6562936c463afbddb4": {
+          "tests": [
+            "tests/scenarios/fixer-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "saburo-arasaka-stubborn-patriarch": {
+      "baseline": {
+        "fingerprint": "ff75e61ebb655bedf7fe1dfe065189633359febd55c167ffc3b30a97b9a92630",
+        "tests": [
+          "tests/scenarios/combat-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "005fbe737305593e6097a019eb57e2db601c94e0fe39c88f5bad23ecd962e56f": {
+          "tests": [
+            "tests/scenarios/combat-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "royce-psycho-on-the-edge": {
+      "baseline": {
+        "fingerprint": "75cac1b7f450bc9f510d3d7504dc1b7e4414b1832ba70de629508c6c4e9b3eab",
+        "tests": [
+          "tests/scenarios/combat-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "7a82b298e557dfd95fcd723bb6cc30b19e13a182976121e2f58e1a1e69e0f5da": {
+          "tests": [
+            "tests/scenarios/combat-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "efdb04da5c0f67e167cacc167ab6ecf234ada1941efa8974a0440355595cbfc8": {
+          "tests": [
+            "tests/scenarios/combat-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "goro-takemura-hands-unclean": {
+      "baseline": {
+        "fingerprint": "81914c1cee15ea81d5ee78b33cfa088db1933af269b676b83ffd2504b7acb7d5",
+        "tests": [
+          "tests/scenarios/combat-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "7a82b298e557dfd95fcd723bb6cc30b19e13a182976121e2f58e1a1e69e0f5da": {
+          "tests": [
+            "tests/scenarios/combat-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "0eeced424051cded62df6d8359976584a178ba9632d0cd1d87fe370b0bca9ae0": {
+          "tests": [
+            "tests/scenarios/combat-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "adam-smasher-ender-of-legends": {
+      "baseline": {
+        "fingerprint": "171cdc37bec6aea1912cf5763487ca404fc54e0150a052f76a3226457e11d1fb",
+        "tests": [
+          "tests/scenarios/combat-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "7a82b298e557dfd95fcd723bb6cc30b19e13a182976121e2f58e1a1e69e0f5da": {
+          "tests": [
+            "tests/scenarios/combat-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "1a15dd590ed006bf0a6d77c11afd34b9b27e4f413e4db47a9c3a465233d0fa12": {
+          "tests": [
+            "tests/scenarios/combat-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "sasha-yakovleva-won-t-let-you-down": {
+      "baseline": {
+        "fingerprint": "dba7a3e04718f7c4020b2fd06c21a968eec4cf8537ec56c24a64dc17c0878188",
+        "tests": [
+          "tests/scenarios/combat-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "795ffea9cddcdd8e54901c678c2ced3eb2eae170b217923f3bf071d9bb95d02b": {
+          "tests": [
+            "tests/scenarios/combat-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "e5c38df5de26b6d8dbfb800b776ba1adf8ba66b6cce880e07e92644dbf2fb405": {
+          "tests": [
+            "tests/scenarios/combat-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "ca10a2dc0f984c7f36a8b0d405b0f49dc9b8c12bbeee0cfdaeb823017f49601c": {
+          "tests": [
+            "tests/scenarios/combat-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "hanako-arasaka-daughter-of-the-emperor": {
+      "baseline": {
+        "fingerprint": "9205e1c709504f5b475304fac20597fe3d90229fe6ac1905f9fe5a6f5747750e",
+        "tests": [
+          "tests/scenarios/trigger-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "2c1ed243eaf31740ee76b63f96d821696f0dbb7af93960b163e8a28d22f13295": {
+          "tests": [
+            "tests/scenarios/trigger-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "d5fb185f88dd340de6e52edf11ade7060a66413ae213555bc301496472af8586": {
+          "tests": [
+            "tests/scenarios/trigger-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "judy-a-lvarez-braindance-maestro": {
+      "baseline": {
+        "fingerprint": "0787361baa941aea8d768a64172f5045c3e7be0e3e6f7a4ef1ea2e4d27ba1e8d",
+        "tests": [
+          "tests/scenarios/trigger-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "f67fc24c621801897112455232ea87d31075abbca191f6e525c2436c51ff4ccf": {
+          "tests": [
+            "tests/scenarios/trigger-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "664ac14fa78c8eddb045184321997e48b1882f5a8533a324b8db744d2dc5f4ec": {
+          "tests": [
+            "tests/scenarios/trigger-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "yorinobu-arasaka-embracing-destruction": {
+      "baseline": {
+        "fingerprint": "1153dd345797f0f608b1a8c5cd94e431e1d6cae671adbd5b8e5605aabfb35e59",
+        "tests": [
+          "tests/scenarios/trigger-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "38497391d4e08b19d7604d4b12901fa836658dd524b07bc9a25b6977af3cbdba": {
+          "tests": [
+            "tests/scenarios/trigger-legends.test.ts",
+            "tests/scenarios/timing.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "dum-dum-maelstrom-triggerman": {
+      "baseline": {
+        "fingerprint": "816e9b6f786d8bd8adbb5aa3b9a4221430b7482d580e8c4fcce502e1f8edfa48",
+        "tests": [
+          "tests/scenarios/trigger-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "09b87a946f5302177bef31075e4eddd52352cbeecb3f4c94f36738023c3d3f86": {
+          "tests": [
+            "tests/scenarios/trigger-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "85865f91440d1bd10bbe3b78d6871c58e5a1cdf1b9629290fd2beef0a38bcfe8": {
+          "tests": [
+            "tests/scenarios/trigger-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "adam-smasher-metal-over-meat": {
+      "baseline": {
+        "fingerprint": "cd09ff6062b58c4cdd52f0d935269d8aa046ebb25e74afc5bbbcb1bd967dd2ef",
+        "tests": [
+          "tests/scenarios/removal-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "673b4777ac0cf2bbfc22bc2c3900bb782ce2a3f13b4b969a2a9bae59ce196b05": {
+          "tests": [
+            "tests/scenarios/removal-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "caliber-totentanz-s-top-dog": {
+      "baseline": {
+        "fingerprint": "27c4c20e78ed8308a3673f9dd9ad93f46580aa86fcaaee8a865b08253f7f08ea",
+        "tests": [
+          "tests/scenarios/removal-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "3e6e61c4bdfeadea73cc861134685d98a0ce49aadd4b955c41091fd16029bfdc": {
+          "tests": [
+            "tests/scenarios/removal-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "8d693f7c5a14cc87197bc10f5c931b05686e26540fdbbdee2451da2be2f2b1c0": {
+          "tests": [
+            "tests/scenarios/removal-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "gilded-mato-n": {
+      "baseline": {
+        "fingerprint": "70df1a79a0498840eb1a1721b72ac4baccdf7980419080fa322e5cd7e3be6558",
+        "tests": [
+          "tests/scenarios/removal-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "c2103b87bf26b3535b3b584c962d58a29b6c8af3cd962e7a31db12eaa0ab70cf": {
+          "tests": [
+            "tests/scenarios/removal-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "heywood-ripperdoc": {
+      "baseline": {
+        "fingerprint": "05b2add6adfa46687975b22cd526762b7eecfc79f937918ba08b56a5d6ca71c5",
+        "tests": [
+          "tests/scenarios/removal-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "d5e6682206173e704b2b02cf924f4e2e9b23ea4bb54e46faeb4391d53b0d7663": {
+          "tests": [
+            "tests/scenarios/removal-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "placide-voodoo-sentinel": {
+      "baseline": {
+        "fingerprint": "af5d478ea9c98d619cbcc18d2ca37721b6ded3e720d894dc1f7725c6c2d00df8",
+        "tests": [
+          "tests/scenarios/removal-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "e0e7eb866192dba0fbf7568fb4c88c427aabda9772cb700d90369db67a81e45e": {
+          "tests": [
+            "tests/scenarios/removal-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "maman-brigitte-spirit-of-death": {
+      "baseline": {
+        "fingerprint": "9e13d5c4244ca327683f1842dbffc106050264f88fb7c04ae7a855f3ca440493",
+        "tests": [
+          "tests/scenarios/removal-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "6d1f2c73df0881262fbc903dde86ea9d1206e2ca7cb8af86d069c3c00c91b155": {
+          "tests": [
+            "tests/scenarios/removal-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "minotaur": {
+      "baseline": {
+        "fingerprint": "b8dbbc47615c4b2316eb057677ac1997fc6388d236ee7119919da9425450cf9b",
+        "tests": [
+          "tests/scenarios/removal-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "b29f1d4517d5d7408caab224e9f78df13e292e3055effc1cef44513aa0fb6804": {
+          "tests": [
+            "tests/scenarios/removal-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "royce-don-t-call-me-simon": {
+      "baseline": {
+        "fingerprint": "018d5b2532b826ba9d9544badfabfb2a65f54e82af7a46bfaa36c9b42f359d88",
+        "tests": [
+          "tests/scenarios/removal-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "509701963eab81e0b46159a3a017e4d191f1f6e4fb753b2acac5a2f197e95847": {
+          "tests": [
+            "tests/scenarios/removal-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "goro-takemura-losing-his-way": {
+      "baseline": {
+        "fingerprint": "abea6e75b90f675228f544609ff6dd161a1328e369383505e22b71053afbb15b",
+        "tests": [
+          "tests/scenarios/attack-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "071cc7ed729a398a67e9ceac424c15bce51d79d499a0474ed8cbf87ba3c616d3": {
+          "tests": [
+            "tests/scenarios/attack-units.test.ts",
+            "tests/scenarios/timing.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "jackie-welles-ride-or-die-choom": {
+      "baseline": {
+        "fingerprint": "9eaf453fe9597dd9ea909b577b6853694b12242036ce6adc31c335b809af89d7",
+        "tests": [
+          "tests/scenarios/attack-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "a2cea7f92e24d69d7d66a419e2ed2c2d53a9dcf84f8afc62d97527ffba4d077f": {
+          "tests": [
+            "tests/scenarios/attack-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "927140ca1c17d4b3882d73009cba66aa602ca3f3fa5bc05c156554d06f12ccc9": {
+          "tests": [
+            "tests/scenarios/attack-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "dexter-deshawn-one-last-chance": {
+      "baseline": {
+        "fingerprint": "e739e8dd5b48164dd5fe00922655bcda54b1d68a49a12b1d0404fa68775d742b",
+        "tests": [
+          "tests/scenarios/attack-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "ca0cb28cb84aab911485527ca515b92ee793eee32f017772c7818d98b2a6927a": {
+          "tests": [
+            "tests/scenarios/attack-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "ae78a62acdca496d07db9919538b1466f1a67812b8725104b713951cb6b909a9": {
+          "tests": [
+            "tests/scenarios/attack-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "evelyn-parker-scheming-siren": {
+      "baseline": {
+        "fingerprint": "d0d8ed606aa5674ba2f027a1375e33002617efd4d2d44320d195fc6724ad487a",
+        "tests": [
+          "tests/scenarios/attack-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "ee1081ffbd4426796bfedded71afb29b71ccba64f2b648997968d798afd68f14": {
+          "tests": [
+            "tests/scenarios/attack-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "swordwise-huscle": {
+      "baseline": {
+        "fingerprint": "75f7b5db679dc6182db8170f639fcf0cb220f48c51b538c9faf39eb53245dfb4",
+        "tests": [
+          "tests/scenarios/attack-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "2517d6ec33af369a0312b1ce39d15d5a352cca2146581c7690eeb36024483b66": {
+          "tests": [
+            "tests/scenarios/attack-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "el-sombrero-n-la-venganza-lenta": {
+      "baseline": {
+        "fingerprint": "5389a8a7a3c5ffc8b5bdf65fdf9eca2a6c573e270ebb4b2112a124ccead1b081",
+        "tests": [
+          "tests/scenarios/attack-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "cfa3ec484f65e7c60bd6982043a24219e421d3c30fb0ca87c511619589f28ebb": {
+          "tests": [
+            "tests/scenarios/attack-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "augmented-negotiators": {
+      "baseline": {
+        "fingerprint": "58cb0febe2c0ee163d9ba0243f356a763069e85cc3a09b42c70aff7c58c3631c",
+        "tests": [
+          "tests/scenarios/combat-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "0eeced424051cded62df6d8359976584a178ba9632d0cd1d87fe370b0bca9ae0": {
+          "tests": [
+            "tests/scenarios/combat-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "ffac694ae35c5cd5ec916d0fb125879257229bb01fa295322823fe28aea3cc68": {
+          "tests": [
+            "tests/scenarios/combat-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "la-llorona-ghost-of-the-past": {
+      "baseline": {
+        "fingerprint": "2f91462aa36398b1b66f1444cd9b20bbd3a13252de7d9941953f223af93f4888",
+        "tests": [
+          "tests/scenarios/combat-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "0eeced424051cded62df6d8359976584a178ba9632d0cd1d87fe370b0bca9ae0": {
+          "tests": [
+            "tests/scenarios/combat-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "63e92642e09be6555a6125b087991d91fa649c78f03c0c70e610f6d621759b83": {
+          "tests": [
+            "tests/scenarios/combat-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "rita-wheeler-no-stupid-questions": {
+      "baseline": {
+        "fingerprint": "98e96105a1c740b399a68bcdb26de807c1c20ccda7897609d91c9ede64cb7dc0",
+        "tests": [
+          "tests/scenarios/combat-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "0eeced424051cded62df6d8359976584a178ba9632d0cd1d87fe370b0bca9ae0": {
+          "tests": [
+            "tests/scenarios/combat-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "df9bcac9132381b9d17d1cdf6b1692b82803a3608c8ee477dfa1a3c98f8b4fd1": {
+          "tests": [
+            "tests/scenarios/combat-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "maelstrom-zealots": {
+      "baseline": {
+        "fingerprint": "6f47d1ed22c5435904194d05af2e113ebce4b4153ce6b80ac7fd380d5eacc745",
+        "tests": [
+          "tests/scenarios/combat-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "d907dd74c480286ab3b0f3b327c84ca6eba0219876914b866eea91678da41ee7": {
+          "tests": [
+            "tests/scenarios/combat-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "johnny-silverhand-never-stop-fighting": {
+      "baseline": {
+        "fingerprint": "2dc464431be464f2275e1f6b0b5e8ff6f70d3620b5dd4d267c7f5f5fcb0ad531",
+        "tests": [
+          "tests/scenarios/combat-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "7997eecaebabbe37839f6cdc4ea19e14383926b45fde388ac71aaea1e16a33ae": {
+          "tests": [
+            "tests/scenarios/combat-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "3555f849ba62545b5b7d52d46f4cd93219785ca94cda63152483a26ee9af41ec": {
+          "tests": [
+            "tests/scenarios/combat-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "meredith-stout-stone-cold-corpo": {
+      "baseline": {
+        "fingerprint": "ed3b91e60c40e7e69764424e92d5c477c0f474159461c11580d04a89881bcfd2",
+        "tests": [
+          "tests/scenarios/combat-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "ef5b252f1992ccd9363e01c56289d16faf16c5afbaaeda44488f9e66dca33d1c": {
+          "tests": [
+            "tests/scenarios/combat-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "a5c8bb475f685bcff0a9f2de710e9c4c6c7327a64d146da808666e926435fdab": {
+          "tests": [
+            "tests/scenarios/combat-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "2143cac1c527f6afefea8c2d7ed6ea247b0ca9bc80f80f5a9805462c7c4f996d": {
+          "tests": [
+            "tests/scenarios/combat-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "hanako-arasaka-in-a-gilded-cage": {
+      "baseline": {
+        "fingerprint": "bd7a62fea439234e39d8072f087cba9808f4f0d4cda9491d9a4709d2b08508b7",
+        "tests": [
+          "tests/scenarios/search-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "bf17e78399ca458e70aed1ee80853eaaab3abe2fdc469f900b0fee0b6bb42ab1": {
+          "tests": [
+            "tests/scenarios/search-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "sketchy-ripper": {
+      "baseline": {
+        "fingerprint": "ea55326dc042356d95a3e6fd8d721caa0ba082e98e4e076825d334c652bd2f9a",
+        "tests": [
+          "tests/scenarios/search-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "7e0bbb47aa640dae827d294a7389b99aff8d1716d00aef674ceafc92733667a0": {
+          "tests": [
+            "tests/scenarios/search-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "screw-lovelorn-fool": {
+      "baseline": {
+        "fingerprint": "7808236761b6c75514fd0eb50f79b67bb2a1d65986b8391eeb7f3f111051e162",
+        "tests": [
+          "tests/scenarios/search-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "78627a6fd5c2d4187bed8381df5c52d6798ca8ae8d57aa62703beb79ef837133": {
+          "tests": [
+            "tests/scenarios/search-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "t-bug-amateur-philosopher": {
+      "baseline": {
+        "fingerprint": "0f128ee951564056ea0797582783216d01bbd246fbfaf1ab7b4be8cdd54d12cb",
+        "tests": [
+          "tests/scenarios/search-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "2b31b498d8b1585738e9b0c3039fa5e8675eb024cce161a4e5d0f5e5060f70f5": {
+          "tests": [
+            "tests/scenarios/search-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "misty-olszewski-mender-of-broken-spirits": {
+      "baseline": {
+        "fingerprint": "813277851f8c6663ef49777b9f5c7cac9c18a2cfc31af6d55e9c8ae1e231f27d",
+        "tests": [
+          "tests/scenarios/search-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "6c6ad6f03e3d99bfcb46b242a003cee7b43ee802dcd66a1997c05d565326b6b0": {
+          "tests": [
+            "tests/scenarios/search-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "9090f58ceba2f0fa089b7c44315d39b5a8686ff1f87f5211b37d1294333c5312": {
+          "tests": [
+            "tests/scenarios/search-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "judy-a-lvarez-nothing-to-doubt": {
+      "baseline": {
+        "fingerprint": "3a19eb4d5f91ac7077e053152ce931815e3e1eb3a7293c1d807a0d1a9ead7661",
+        "tests": [
+          "tests/scenarios/search-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "4358086d509a23f543b17ab49c5e832979656a2ba0ef8e0fafda0ae8741b62b6": {
+          "tests": [
+            "tests/scenarios/search-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "lizzy-wizzy-delicate-weapon": {
+      "baseline": {
+        "fingerprint": "f6d6c9dbc67b3f57365f9296069a20e835de848b78640b228e2b3469ac1c191b",
+        "tests": [
+          "tests/scenarios/play-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "2a7c3a1f4f1e4d9854dcd47fbf4db183d584f9510fbf89bf77dca13b1108848a": {
+          "tests": [
+            "tests/scenarios/play-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "ef5b252f1992ccd9363e01c56289d16faf16c5afbaaeda44488f9e66dca33d1c": {
+          "tests": [
+            "tests/scenarios/play-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "viktor-vektor-you-might-feel-a-little-pinch": {
+      "baseline": {
+        "fingerprint": "7d17b4c9bd638043d5fd691a7d5d3ef74f80ece6eea4e7fba981d04c578154d4",
+        "tests": [
+          "tests/scenarios/play-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "21ad23e7547798ddb1c1e8a53c2c4a8e994890bd574192cbf975f9ca450b8d0f": {
+          "tests": [
+            "tests/scenarios/play-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "yorinobu-arasaka-steel-dragon": {
+      "baseline": {
+        "fingerprint": "fac59cd8938b1b3e8ccdad4a994654dcf260dc5c0cc73469638cd28d15c9136f",
+        "tests": [
+          "tests/scenarios/play-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "96343d66764f508528bfccb05e5c625dd946202c5954bc3ee27c65fef52ce2bb": {
+          "tests": [
+            "tests/scenarios/play-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "6b9c2ed3467ca5fb0d4a927decee03bb4b729b41656ecc661191b26c8811b01e": {
+          "tests": [
+            "tests/scenarios/play-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "valentino-street-racer": {
+      "baseline": {
+        "fingerprint": "471e267c44c93d7747f9f106d6a00777b5c28f23f396e7491b18d07ee8b7f948",
+        "tests": [
+          "tests/scenarios/play-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "fdf6d21054cf2de8bd2f0ae26cce4173172536587de7a493f3b9c937edbf56da": {
+          "tests": [
+            "tests/scenarios/play-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "sandayu-oda-hanako-s-guardian": {
+      "baseline": {
+        "fingerprint": "33e1874d262ed75b7fcbc6e35c8bc74053a30b4a99ca4da68de886d6c0a67543",
+        "tests": [
+          "tests/scenarios/play-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "6d8c68521bf9899f383fd2a1fdd8f12ae421099f8f2dc7b3e9be1f6137307cc4": {
+          "tests": [
+            "tests/scenarios/play-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "cc2a4efc031b68354cac621cb0b24c464108e93e8747fb7e81cd910067f32e27": {
+          "tests": [
+            "tests/scenarios/play-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "pacifica-netrunner": {
+      "baseline": {
+        "fingerprint": "54e1df10fb23d0bfed26d6fa9a02e02cf6af578ad2f680d4da08150411012f50",
+        "tests": [
+          "tests/scenarios/play-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "2a96f5c6e8da877af5148830dfc789c9ef9321cf895f9e32ee468a301154a9c1": {
+          "tests": [
+            "tests/scenarios/play-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "mox-inciters": {
+      "baseline": {
+        "fingerprint": "db85d2237d2a352f0bca37f368ecace643a519890052956b1fd376cbf354acf2",
+        "tests": [
+          "tests/scenarios/play-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "30f383d928fa9cb5aae16a3f85c9b1e564f2690530419ce17dd28a65f657eb43": {
+          "tests": [
+            "tests/scenarios/play-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "0eeced424051cded62df6d8359976584a178ba9632d0cd1d87fe370b0bca9ae0": {
+          "tests": [
+            "tests/scenarios/play-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "6th-street-recruits": {
+      "baseline": {
+        "fingerprint": "00e37235bb31f0da2a980fad4195a2900fb2550627e48bfac31c38796900d482",
+        "tests": [
+          "tests/scenarios/theft-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "fbc37dbb5aad896597aa807cabdf5678d74bb827409cae851e2ce01ec443b501": {
+          "tests": [
+            "tests/scenarios/theft-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "maelstrom-goons": {
+      "baseline": {
+        "fingerprint": "e24347ab6fcdb7bbf6114b6ad7ec41975b352403cfee717f0b3095559cc1f42b",
+        "tests": [
+          "tests/scenarios/theft-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "9a9eb5f97e93d5ef631cc61f0fb95f47d0489ed08ddbe18e0b9a7236e11f414b": {
+          "tests": [
+            "tests/scenarios/theft-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "wraith-marauders": {
+      "baseline": {
+        "fingerprint": "8b524cdf28a534d2069435c13547e50d6cd2febc57b051807771b5ee7b291e7f",
+        "tests": [
+          "tests/scenarios/theft-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "bdc93fc4c63de2d21ee6c2146ca99f2d8071664511529b107a1185101cd140dc": {
+          "tests": [
+            "tests/scenarios/theft-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "v-roamer-of-the-badlands": {
+      "baseline": {
+        "fingerprint": "ed9f700bf08f4df58b6d21e1bbc28c8437b58fb222e97cabc9248b4233a042ec",
+        "tests": [
+          "tests/scenarios/theft-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "e1960339e2d40df881114a900a08db7c124283d0c2110e46676c918e9ad7a301": {
+          "tests": [
+            "tests/scenarios/theft-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "1fdc38505f7401ab877e62b4e872288ab599920cbfd73accc0922bab67159d71": {
+          "tests": [
+            "tests/scenarios/theft-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "rogue-amendiares-queen-of-the-afterlife": {
+      "baseline": {
+        "fingerprint": "f33756840b8d2f8bf6305858c3695e99edaf26cb566f646c26dddc5ec8eb69d4",
+        "tests": [
+          "tests/scenarios/theft-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "8fe66d0c9823f5373486541e44f4e8b2f0f02921fd871ce165b7cb82ac51bfd3": {
+          "tests": [
+            "tests/scenarios/theft-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "37fb0170ef9df728bc2be3f69409ff9ae5deafc1252bfd8515249ec6d1e6e410": {
+          "tests": [
+            "tests/scenarios/theft-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "panam-palmer-strength-through-family": {
+      "baseline": {
+        "fingerprint": "40e51ed0820376d11b5ea4fe0061c45e5c4375eec33e9452ea90b2e72375f608",
+        "tests": [
+          "tests/scenarios/support-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "9d4ca70bc4e9be9ac278a82c220e2ac79dbfcb0bd7c0d0cf70cd6b5cac52dc16": {
+          "tests": [
+            "tests/scenarios/support-units.test.ts",
+            "tests/scenarios/legend-scope.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "294ccf6b4dfae0a7dd49d7c8fde8c751c003e5496a0ce0f44112e78cf83b2966": {
+          "tests": [
+            "tests/scenarios/support-units.test.ts",
+            "tests/scenarios/legend-scope.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "pepe-najarro-working-doubles": {
+      "baseline": {
+        "fingerprint": "85c8f8ed63ec74cc91f4e06b9ed50e2d5f219fee63d426202e55988f2df0d7c9",
+        "tests": [
+          "tests/scenarios/support-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "b6dde0c464fcd1106c75c59626712c2fd634f4d54accf22c44684d4ea93e73e9": {
+          "tests": [
+            "tests/scenarios/support-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "saul-bright-stormrider": {
+      "baseline": {
+        "fingerprint": "f82f3bc983660909159985de2a2efa2017526ff7d039e7cfb8223b24b7c8974e",
+        "tests": [
+          "tests/scenarios/support-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "9d20918b7d39f1644c038fb9ec4ec256735cdd1cef7c9cac7bf43abcc825b92c": {
+          "tests": [
+            "tests/scenarios/support-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "e27b71e90d6d43b4dab73690deafed030fe8ee2e4b1490ebf95d6eb7e77e1416": {
+          "tests": [
+            "tests/scenarios/support-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "viktor-vektor-drop-your-illusions": {
+      "baseline": {
+        "fingerprint": "3c726cf61f9a244501adf228d34ac7a5859302e9c0d13bdd64e2a265046a30a8",
+        "tests": [
+          "tests/scenarios/support-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "bee548cfe15cbde6796cfd4fe0c74223053849123a9f34040def046ffc27a044": {
+          "tests": [
+            "tests/scenarios/support-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "maxtac-av": {
+      "baseline": {
+        "fingerprint": "7532e120a6232b0c15b40e4273312fe5d28fc56a0c0067dc82be9b4bf17f27a6",
+        "tests": [
+          "tests/scenarios/support-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "0b7c5ee15f475d909e8be6d0e95b8d364b05692c31a96e965f7aa602e8e95557": {
+          "tests": [
+            "tests/scenarios/support-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "bootleg-black-sapphire-show": {
+      "baseline": {
+        "fingerprint": "e9efa8983368977c63f235e1faf4a9abffcd43580dcd99b5687d462949c9c5cc",
+        "tests": [
+          "tests/scenarios/support-units.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "7583440181dfa2db3873a5b6e0526ffc585a872abe519ea57e47e12c361c93fd": {
+          "tests": [
+            "tests/scenarios/support-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "c152b4d8c63edcc0ccedf302c5c2e3135ebcfc4b16d5d2a0cd860675b11c732a": {
+          "tests": [
+            "tests/scenarios/support-units.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "alt-cunningham-mother-of-daemons": {
+      "baseline": {
+        "fingerprint": "e5356b55b97551bd3abbf2f494d6ef08b1851395e5a9795c96eed645fb0f03b7",
+        "tests": [
+          "tests/scenarios/support-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "e611cac607f8d725675825d88aef0e9b6c1939e7d093eca099e9a8fe2c1ae36d": {
+          "tests": [
+            "tests/scenarios/support-legends.test.ts",
+            "tests/scenarios/theft.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "1813fdc0cc6a4fa3a58240e2fd4e40aa620c843f36f973941efb1b10c4b9ea1f": {
+          "tests": [
+            "tests/scenarios/support-legends.test.ts",
+            "tests/scenarios/theft.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "alt-cunningham-soulkiller-architect": {
+      "baseline": {
+        "fingerprint": "85897d60fe2daa1e2d91d564434a724ae08472011d1da0af74dbbc8b0dafcdb7",
+        "tests": [
+          "tests/scenarios/support-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "2d17f36552e5125083dffec89de399d47073927236794ab98c3f36a17465aac8": {
+          "tests": [
+            "tests/scenarios/support-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "302190c59594fce44268f842b7c3add21d0edc4bb7910f9515d4f761eb62b2c1": {
+          "tests": [
+            "tests/scenarios/support-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "evelyn-parker-beautiful-enigma": {
+      "baseline": {
+        "fingerprint": "2ef764b7e8b9b9880487f7fd6da3ffc1c9690f57f973ca405c6c185d062a801c",
+        "tests": [
+          "tests/scenarios/support-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "bd8791f7bd38e6529e030433696e5e606a2402bacdbf57425f3cd8af1dcd1d60": {
+          "tests": [
+            "tests/scenarios/support-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "082f17f9eb643ee3b17bcc106e4ada63d192693f4ea721494148c4c4f8c4cb40": {
+          "tests": [
+            "tests/scenarios/support-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "goro-takemura-vengeful-bodyguard": {
+      "baseline": {
+        "fingerprint": "abce4182eef4dc9a35ea7f1cdad4c337c7641279d872dc38cc4994321a9f8fa3",
+        "tests": [
+          "tests/scenarios/support-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "839211373450594c08a0278778200560dcf1d8add64c8d1a4553a44a03524a65": {
+          "tests": [
+            "tests/scenarios/support-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "d02ceb29d637d9aeaf88c4b569c88a572de72ec59302de8765e18cf0c4b22dd0": {
+          "tests": [
+            "tests/scenarios/support-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "kerry-eurodyne-axe-attitude-audience": {
+      "baseline": {
+        "fingerprint": "2b10c40bc2c4c99794e963a903b81e0573d3f8267f8ced466b5c5df630c2118b",
+        "tests": [
+          "tests/scenarios/final-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "c860fa60d3d9a1439bbd307d4ac7d9ca9ade53dc05679f3cdb90dbee878d53d0": {
+          "tests": [
+            "tests/scenarios/final-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "c6251fa90d31437e97a0dfc651cbd3a8e24359040a623354264e837b0d3a23f6": {
+          "tests": [
+            "tests/scenarios/final-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "panam-palmer-nomad-cavalry": {
+      "baseline": {
+        "fingerprint": "9389739832629cd3cd5ff7e2ca74197ec83cbf9eadecd24b859c2c00d55983e8",
+        "tests": [
+          "tests/scenarios/final-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "eb4bbeda071862bd04757a54cdbd3e088ab8c3d9cde288889527272313b2b9de": {
+          "tests": [
+            "tests/scenarios/final-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "9daec89ba6eb949155276153880040589cbd38b34fb488920b609dff700f6133": {
+          "tests": [
+            "tests/scenarios/final-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "rogue-amendiares-preem-solo": {
+      "baseline": {
+        "fingerprint": "7f8efe028b6bb0b46e71cf1e65829e711e53e56fd257ebd9ab05b3d81980134d",
+        "tests": [
+          "tests/scenarios/final-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "7a82b298e557dfd95fcd723bb6cc30b19e13a182976121e2f58e1a1e69e0f5da": {
+          "tests": [
+            "tests/scenarios/final-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "9d8938a4aa300a55710d63c450194dd6d2c70d3c0d6fd88a80ab930dbfc1f721": {
+          "tests": [
+            "tests/scenarios/final-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "jackie-welles-mama-s-favorite": {
+      "baseline": {
+        "fingerprint": "434f344e3fd087c8f58699df6f3b22ebfe7cfb8792b6db553ff0ee60c2caec55",
+        "tests": [
+          "tests/scenarios/final-legends.test.ts"
+        ],
+        "rules": [
+          "Printed card",
+          "Publisher FAQ",
+          "Comprehensive rules"
+        ]
+      },
+      "abilities": {
+        "7a82b298e557dfd95fcd723bb6cc30b19e13a182976121e2f58e1a1e69e0f5da": {
+          "tests": [
+            "tests/scenarios/final-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        },
+        "301d46190d0d7bd552e13379e5d22e063be6cd15702c033d35f6ffc10d40b39a": {
+          "tests": [
+            "tests/scenarios/final-legends.test.ts"
+          ],
+          "rules": [
+            "Printed card",
+            "Publisher FAQ",
+            "Comprehensive rules"
+          ]
+        }
+      }
+    },
+    "bonnie-and-clyde": {
+      "baseline": {
+        "fingerprint": "e48751b0c3d7dd9d2fe22c37b5bb5a58aeff91f1d85285ffb3752556d70b7fa6",
+        "tests": [
+          "tests/scenarios/disputed-baselines.test.ts"
+        ],
+        "rules": [
+          "Printed card"
+        ]
+      },
+      "abilities": {}
+    },
+    "johnny-silverhand-rocking-renegade": {
+      "baseline": {
+        "fingerprint": "6baa83b1f7ef08a29171d3baeb6b0d6ed2c0c0e04d26ddc7af31b5b74645827e",
+        "tests": [
+          "tests/scenarios/disputed-baselines.test.ts"
+        ],
+        "rules": [
+          "Printed card"
+        ]
+      },
+      "abilities": {}
+    },
+    "mt0d12-flathead": {
+      "baseline": {
+        "fingerprint": "8bb0f7c102a047080087d3f47589cced43963188feca4d1741a4bb0eb8896db5",
+        "tests": [
+          "tests/scenarios/disputed-baselines.test.ts"
+        ],
+        "rules": [
+          "Printed card"
+        ]
+      },
+      "abilities": {}
+    },
+    "pyramid-song": {
+      "baseline": {
+        "fingerprint": "8a68972f376131f12ef0d5d2a167cc5d9bbd30855e7b367dc96b91c5f0a86d68",
+        "tests": [
+          "tests/scenarios/disputed-baselines.test.ts"
+        ],
+        "rules": [
+          "Printed card"
+        ]
+      },
+      "abilities": {}
+    },
+    "river-ward-detective-on-the-hunt": {
+      "baseline": {
+        "fingerprint": "020e6839b68b981ad4d66632969b6a3c7e3322e171d04bc2715d505ed3988f5f",
+        "tests": [
+          "tests/scenarios/disputed-baselines.test.ts"
+        ],
+        "rules": [
+          "Printed card"
+        ]
+      },
+      "abilities": {}
+    },
+    "safety-override": {
+      "baseline": {
+        "fingerprint": "5b84b4f87d618c854b8c2f5f8ba7dd5c15673aee67e71fe34e96d03ba4bfe960",
+        "tests": [
+          "tests/scenarios/disputed-baselines.test.ts"
+        ],
+        "rules": [
+          "Printed card"
+        ]
+      },
+      "abilities": {}
+    },
+    "towerfall": {
+      "baseline": {
+        "fingerprint": "c9d84ab99d39f2a45f7589595b2ae19cc4142cec1f32b3c0f0df63bce60c0db4",
+        "tests": [
+          "tests/scenarios/disputed-baselines.test.ts"
+        ],
+        "rules": [
+          "Printed card"
+        ]
+      },
+      "abilities": {}
+    },
+    "v-streetkid": {
+      "baseline": {
+        "fingerprint": "d805313ab64bc7882a69a9aeb2615a3b92ddf46324deefe408e6c24c3cbf9558",
+        "tests": [
+          "tests/scenarios/disputed-baselines.test.ts"
+        ],
+        "rules": [
+          "Printed card"
+        ]
+      },
+      "abilities": {}
+    }
+  }
+}

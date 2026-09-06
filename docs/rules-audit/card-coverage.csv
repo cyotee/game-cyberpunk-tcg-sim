@@ -1,0 +1,152 @@
+slug,display_name,type,color,roster_status,printing_count,triage_tags,known_issues,image_review_status,implementation_status,validation_status
+6th-street-recruits,6th Street Recruits,Unit,Red,candidate: verify official gameplay data,2,unqualified-gig-target; effect-steal-or-swap,,pending,not implemented,not tested
+adam-smasher-ender-of-legends,Adam Smasher: Ender of Legends,Legend,Red,candidate: verify official gameplay data,5,rival-scope; duration-or-turn-history,,pending,not implemented,not tested
+adam-smasher-metal-over-meat,Adam Smasher: Metal Over Meat,Unit,Yellow,candidate: verify official gameplay data,3,all-player-effect,,pending,not implemented,not tested
+adrenaline-converter,Adrenaline Converter,Gear,Yellow,candidate: verify official gameplay data,2,rival-scope,DATA-GEAR: top/bottom textbox structure requires image review,pending,not implemented,not tested
+afterparty-at-lizzie-s,Afterparty at Lizzie's,Program,Yellow,candidate: verify official gameplay data,6,unqualified-gig-target,,pending,not implemented,not tested
+all-is-lost,All is Lost,Program,Red,candidate: verify official gameplay data,2,,,pending,not implemented,not tested
+alt-cunningham-mother-of-daemons,Alt Cunningham: Mother of Daemons,Unit,Yellow,candidate: verify official gameplay data,3,rival-scope; choice-or-hidden-information; reaction-or-replacement; effect-steal-or-swap,,pending,not implemented,not tested
+alt-cunningham-soulkiller-architect,Alt Cunningham: Soulkiller Architect,Legend,Blue,candidate: verify official gameplay data,6,,DATA-ALT: ability missing from API; printed power 0 vs API null; DATA-NULL: numeric-vs-null power requires image verification,spot-checked,not implemented,not tested
+animals-wrecker,Animals Wrecker,Unit,Red,candidate: verify official gameplay data,2,,,pending,not implemented,not tested
+appetite-for-destruction,Appetite for Destruction,Program,Red,candidate: verify official gameplay data,2,duration-or-turn-history; effect-steal-or-swap,,pending,not implemented,not tested
+arasaka-emergency-radioport,Arasaka Emergency Radioport,Gear,Red,candidate: verify official gameplay data,4,choice-or-hidden-information,DATA-GEAR: top/bottom textbox structure requires image review,pending,not implemented,not tested
+augmented-negotiators,Augmented Negotiators,Unit,Yellow,candidate: verify official gameplay data,2,rival-scope; choice-or-hidden-information; reaction-or-replacement,,pending,not implemented,not tested
+bonnie-and-clyde,Bonnie and Clyde,Program,Red,candidate: verify official gameplay data,2,rival-scope; reaction-or-replacement,,pending,not implemented,not tested
+bootleg-black-sapphire-show,Bootleg Black Sapphire Show,Program,Yellow,candidate: verify official gameplay data,2,,SOURCE-CONFLICT: see audit conflict register,pending,not implemented,not tested
+caliber-totentanz-s-top-dog,Caliber: Totentanz's Top Dog,Unit,Yellow,candidate: verify official gameplay data,2,rival-scope; choice-or-hidden-information,,pending,not implemented,not tested
+carnage-at-the-colosseum,Carnage at the Colosseum,Program,Red,candidate: verify official gameplay data,2,rival-scope,,pending,not implemented,not tested
+chrome-fang,Chrome Fang,Unit,Red,candidate: verify official gameplay data,4,rival-scope; duration-or-turn-history; effect-steal-or-swap,,pending,not implemented,not tested
+chrome-reverie,Chrome Reverie,Program,Blue,candidate: verify official gameplay data,2,rival-scope; duration-or-turn-history,,pending,not implemented,not tested
+corpo-security,Corpo Security,Unit,Green,candidate: verify official gameplay data,5,rival-scope; reaction-or-replacement,,pending,not implemented,not tested
+corporate-surveillance,Corporate Surveillance,Program,Green,candidate: verify official gameplay data,5,rival-scope,,pending,not implemented,not tested
+cyberpsychosis,Cyberpsychosis,Program,Yellow,candidate: verify official gameplay data,2,reaction-or-replacement; duration-or-turn-history; effect-steal-or-swap,,pending,not implemented,not tested
+deadman-transmitter,Deadman Transmitter,Gear,Red,candidate: verify official gameplay data,2,reaction-or-replacement,DATA-GEAR: top/bottom textbox structure requires image review,pending,not implemented,not tested
+delamain-cab,Delamain Cab,Unit,Blue,candidate: verify official gameplay data,5,duration-or-turn-history,,pending,not implemented,not tested
+delamain-rideshare-ai,Delamain: Rideshare AI,Unit,Blue,candidate: verify official gameplay data,2,effect-steal-or-swap,,pending,not implemented,not tested
+detonate,Detonate,Program,Red,candidate: verify official gameplay data,2,rival-scope; reaction-or-replacement,,pending,not implemented,not tested
+dexter-deshawn-off-the-grid,Dexter DeShawn: Off the Grid,Legend,Red,candidate: verify official gameplay data,3,unqualified-gig-target; choice-or-hidden-information; duration-or-turn-history,DATA-NULL: numeric-vs-null power requires image verification,pending,not implemented,not tested
+dexter-deshawn-one-last-chance,Dexter DeShawn: One Last Chance,Unit,Yellow,candidate: verify official gameplay data,3,rival-scope; unqualified-gig-target,,pending,not implemented,not tested
+don-t-fear-the-reaper,(Don't Fear) The Reaper,Program,Green,candidate: verify official gameplay data,2,rival-scope,,pending,not implemented,not tested
+dum-dum-maelstrom-triggerman,Dum Dum: Maelstrom Triggerman,Legend,Yellow,candidate: verify official gameplay data,4,reaction-or-replacement; duration-or-turn-history,DATA-NULL: numeric-vs-null power requires image verification,pending,not implemented,not tested
+dying-night-v-s-pistol,Dying Night: V's Pistol,Gear,Blue,candidate: verify official gameplay data,5,unqualified-gig-target; duration-or-turn-history,DATA-GEAR: top/bottom textbox structure requires image review,pending,not implemented,not tested
+el-sombrero-n-la-venganza-lenta,El Sombrerón: La Venganza Lenta,Unit,Red,candidate: verify official gameplay data,2,duration-or-turn-history,,pending,not implemented,not tested
+emergency-atlus,Emergency Atlus,Unit,Green,candidate: verify official gameplay data,5,,,pending,not implemented,not tested
+evelyn-parker-beautiful-enigma,Evelyn Parker: Beautiful Enigma,Legend,Blue,candidate: verify official gameplay data,3,rival-scope; duration-or-turn-history; effect-steal-or-swap,DATA-NULL: numeric-vs-null power requires image verification,pending,not implemented,not tested
+evelyn-parker-scheming-siren,Evelyn Parker: Scheming Siren,Unit,Blue,candidate: verify official gameplay data,5,rival-scope; choice-or-hidden-information; effect-steal-or-swap,,pending,not implemented,not tested
+field-operator,Field Operator,Unit,Green,candidate: verify official gameplay data,5,,SOURCE-CONFLICT: see audit conflict register,pending,not implemented,not tested
+floor-it,Floor It,Program,Blue,candidate: verify official gameplay data,5,rival-scope; reaction-or-replacement; duration-or-turn-history,,pending,not implemented,not tested
+fool-on-the-hill,Fool on the Hill,Program,Green,candidate: verify official gameplay data,2,rival-scope; choice-or-hidden-information,,pending,not implemented,not tested
+gilded-mato-n,Gilded Matón,Unit,Yellow,candidate: verify official gameplay data,2,rival-scope,,pending,not implemented,not tested
+gorilla-arms,Gorilla Arms,Gear,Yellow,candidate: verify official gameplay data,2,rival-scope; duration-or-turn-history; effect-steal-or-swap,DATA-GEAR: top/bottom textbox structure requires image review,pending,not implemented,not tested
+goro-takemura-hands-unclean,Goro Takemura: Hands Unclean,Legend,Green,candidate: verify official gameplay data,6,rival-scope; reaction-or-replacement; duration-or-turn-history,,pending,not implemented,not tested
+goro-takemura-losing-his-way,Goro Takemura: Losing His Way,Unit,Green,candidate: verify official gameplay data,3,duration-or-turn-history,,pending,not implemented,not tested
+goro-takemura-vengeful-bodyguard,Goro Takemura: Vengeful Bodyguard,Legend,Green,candidate: verify official gameplay data,4,choice-or-hidden-information; reaction-or-replacement; duration-or-turn-history,DATA-NULL: numeric-vs-null power requires image verification,pending,not implemented,not tested
+gunpoint-diplomacy,Gunpoint Diplomacy,Program,Red,candidate: verify official gameplay data,2,rival-scope; choice-or-hidden-information; reaction-or-replacement; duration-or-turn-history,,pending,not implemented,not tested
+hacked-corpo,Hacked Corpo,Unit,Blue,candidate: verify official gameplay data,2,,,pending,not implemented,not tested
+hanako-arasaka-daughter-of-the-emperor,Hanako Arasaka: Daughter of the Emperor,Legend,Green,candidate: verify official gameplay data,3,rival-scope; effect-steal-or-swap,DATA-NULL: numeric-vs-null power requires image verification,pending,not implemented,not tested
+hanako-arasaka-in-a-gilded-cage,Hanako Arasaka: In a Gilded Cage,Unit,Yellow,candidate: verify official gameplay data,3,choice-or-hidden-information,,pending,not implemented,not tested
+heywood-ripperdoc,Heywood Ripperdoc,Unit,Yellow,candidate: verify official gameplay data,4,,,pending,not implemented,not tested
+industrial-assembly,Industrial Assembly,Program,Red,candidate: verify official gameplay data,6,unqualified-gig-target,,pending,not implemented,not tested
+jacked-in-voodoo-boy,Jacked-In Voodoo Boy,Unit,Blue,candidate: verify official gameplay data,2,duration-or-turn-history,,pending,not implemented,not tested
+jackie-welles-mama-s-favorite,Jackie Welles: Mama's Favorite,Legend,Green,candidate: verify official gameplay data,4,reaction-or-replacement; duration-or-turn-history,,pending,not implemented,not tested
+jackie-welles-pour-one-out-for-me,Jackie Welles: Pour One Out For Me,Legend,Blue,candidate: verify official gameplay data,6,duration-or-turn-history,DATA-NULL: numeric-vs-null power requires image verification,pending,not implemented,not tested
+jackie-welles-ride-or-die-choom,Jackie Welles: Ride or Die Choom,Unit,Yellow,candidate: verify official gameplay data,2,duration-or-turn-history,,pending,not implemented,not tested
+japantown-jonin,Japantown Jonin,Unit,Red,candidate: verify official gameplay data,2,duration-or-turn-history; effect-steal-or-swap,,pending,not implemented,not tested
+johnny-silverhand-never-stop-fighting,Johnny Silverhand: Never Stop Fighting,Unit,Red,candidate: verify official gameplay data,3,duration-or-turn-history,,pending,not implemented,not tested
+johnny-silverhand-rocking-renegade,Johnny Silverhand: Rocking Renegade,Legend,Red,candidate: verify official gameplay data,3,rival-scope; duration-or-turn-history,DATA-NULL: numeric-vs-null power requires image verification; SOURCE-CONFLICT: see audit conflict register,pending,not implemented,not tested
+judy-a-lvarez-braindance-maestro,Judy Álvarez: Braindance Maestro,Legend,Blue,candidate: verify official gameplay data,4,duration-or-turn-history,DATA-NULL: numeric-vs-null power requires image verification,pending,not implemented,not tested
+judy-a-lvarez-nothing-to-doubt,Judy Álvarez: Nothing to Doubt,Unit,Blue,candidate: verify official gameplay data,3,choice-or-hidden-information,,pending,not implemented,not tested
+kerry-eurodyne-axe-attitude-audience,"Kerry Eurodyne: Axe, Attitude, Audience",Legend,Yellow,candidate: verify official gameplay data,3,reaction-or-replacement,DATA-NULL: numeric-vs-null power requires image verification,pending,not implemented,not tested
+kerry-eurodyne-the-last-rockerboy,Kerry Eurodyne: The Last Rockerboy,Unit,Red,candidate: verify official gameplay data,2,,,pending,not implemented,not tested
+kiroshi-optics,Kiroshi Optics,Gear,Yellow,candidate: verify official gameplay data,5,choice-or-hidden-information,DATA-GEAR: top/bottom textbox structure requires image review,pending,not implemented,not tested
+la-llorona-ghost-of-the-past,La Llorona: Ghost of the Past,Unit,Red,candidate: verify official gameplay data,2,rival-scope; unqualified-gig-target; reaction-or-replacement,,pending,not implemented,not tested
+les-e-le-mens,Les Élémens,Program,Blue,candidate: verify official gameplay data,2,rival-scope; choice-or-hidden-information,,pending,not implemented,not tested
+live-with-the-aftermath,Live with the Aftermath,Program,Yellow,candidate: verify official gameplay data,2,all-player-effect,,pending,not implemented,not tested
+lizzy-wizzy-delicate-weapon,Lizzy Wizzy: Delicate Weapon,Unit,Blue,candidate: verify official gameplay data,2,reaction-or-replacement,,pending,not implemented,not tested
+maelstrom-goons,Maelstrom Goons,Unit,Yellow,candidate: verify official gameplay data,2,rival-scope; choice-or-hidden-information; effect-steal-or-swap,,pending,not implemented,not tested
+maelstrom-zealots,Maelstrom Zealots,Unit,Green,candidate: verify official gameplay data,2,rival-scope; effect-steal-or-swap,,pending,not implemented,not tested
+maman-brigitte-spirit-of-death,Maman Brigitte: Spirit of Death,Unit,Blue,candidate: verify official gameplay data,2,rival-scope; choice-or-hidden-information,,pending,not implemented,not tested
+mandibular-upgrade,Mandibular Upgrade,Gear,Yellow,candidate: verify official gameplay data,5,rival-scope; reaction-or-replacement,DATA-GEAR: top/bottom textbox structure requires image review,pending,not implemented,not tested
+mantis-blades,Mantis Blades,Gear,Red,candidate: verify official gameplay data,6,,DATA-GEAR: top/bottom textbox structure requires image review,pending,not implemented,not tested
+maxtac-av,MaxTac AV,Unit,Green,candidate: verify official gameplay data,4,rival-scope; effect-steal-or-swap,,pending,not implemented,not tested
+maxtac-heavy,MaxTac Heavy,Unit,Green,candidate: verify official gameplay data,2,rival-scope,,pending,not implemented,not tested
+maxtac-squadron,MaxTac Squadron,Unit,Green,candidate: verify official gameplay data,2,duration-or-turn-history,,pending,not implemented,not tested
+maxtac-suppression-team,MaxTac Suppression Team,Unit,Yellow,candidate: verify official gameplay data,2,rival-scope,,pending,not implemented,not tested
+memory-relapse,Memory Relapse,Program,Green,candidate: verify official gameplay data,2,rival-scope; duration-or-turn-history,,pending,not implemented,not tested
+meredith-stout-stone-cold-corpo,Meredith Stout: Stone Cold Corpo,Unit,Red,candidate: verify official gameplay data,2,rival-scope; reaction-or-replacement; effect-steal-or-swap,,pending,not implemented,not tested
+minotaur,Minotaur,Unit,Red,candidate: verify official gameplay data,3,rival-scope,,pending,not implemented,not tested
+misty-olszewski-mender-of-broken-spirits,Misty Olszewski: Mender of Broken Spirits,Unit,Blue,candidate: verify official gameplay data,2,choice-or-hidden-information; duration-or-turn-history,,pending,not implemented,not tested
+modded-kusanagi,Modded Kusanagi,Unit,Blue,candidate: verify official gameplay data,2,duration-or-turn-history,,pending,not implemented,not tested
+modded-muramasa,Modded Muramasa,Unit,Blue,candidate: verify official gameplay data,2,rival-scope; duration-or-turn-history,,pending,not implemented,not tested
+mox-inciters,Mox Inciters,Unit,Blue,candidate: verify official gameplay data,2,rival-scope; reaction-or-replacement; duration-or-turn-history,,pending,not implemented,not tested
+mt0d12-flathead,MT0D12 Flathead,Unit,Blue,candidate: verify official gameplay data,3,rival-scope,SOURCE-CONFLICT: see audit conflict register,pending,not implemented,not tested
+muamar-reyes-el-capita-n,Muamar Reyes: El Capitán,Legend,Yellow,candidate: verify official gameplay data,3,unqualified-gig-target; choice-or-hidden-information; duration-or-turn-history,DATA-NULL: numeric-vs-null power requires image verification,pending,not implemented,not tested
+nadia-fighting-through-grief,Nadia: Fighting Through Grief,Unit,Green,candidate: verify official gameplay data,2,rival-scope,,pending,not implemented,not tested
+netwatch-netdriver,NetWatch Netdriver,Gear,Blue,candidate: verify official gameplay data,2,,DATA-GEAR: top/bottom textbox structure requires image review,pending,not implemented,not tested
+nocturne-op55-n1,Nocturne OP55 N1,Program,Blue,candidate: verify official gameplay data,2,choice-or-hidden-information; duration-or-turn-history,,pending,not implemented,not tested
+octant,Octant,Unit,Red,candidate: verify official gameplay data,2,,,pending,not implemented,not tested
+offduty-malfini,Offduty Malfini,Unit,Yellow,candidate: verify official gameplay data,4,rival-scope,,pending,not implemented,not tested
+over-the-edge,Over the Edge,Program,Red,candidate: verify official gameplay data,5,,,pending,not implemented,not tested
+overwatch-panam-s-gift,Overwatch: Panam's Gift,Gear,Green,candidate: verify official gameplay data,3,rival-scope; choice-or-hidden-information; reaction-or-replacement,DATA-GEAR: top/bottom textbox structure requires image review,pending,not implemented,not tested
+pacifica-netrunner,Pacifica Netrunner,Unit,Green,candidate: verify official gameplay data,2,rival-scope; duration-or-turn-history,,pending,not implemented,not tested
+padre-man-of-the-cross,Padre: Man of the Cross,Legend,Green,candidate: verify official gameplay data,3,rival-scope; unqualified-gig-target; choice-or-hidden-information,DATA-NULL: numeric-vs-null power requires image verification,pending,not implemented,not tested
+panam-palmer-nomad-cavalry,Panam Palmer: Nomad Cavalry,Legend,Green,candidate: verify official gameplay data,4,duration-or-turn-history,DATA-NULL: numeric-vs-null power requires image verification,pending,not implemented,not tested
+panam-palmer-strength-through-family,Panam Palmer: Strength Through Family,Unit,Green,candidate: verify official gameplay data,3,choice-or-hidden-information,,pending,not implemented,not tested
+peace-offering,Peace Offering,Program,Green,candidate: verify official gameplay data,3,unqualified-gig-target,,pending,not implemented,not tested
+pepe-najarro-working-doubles,Pepe Najarro: Working Doubles,Unit,Green,candidate: verify official gameplay data,2,,,pending,not implemented,not tested
+placide-voodoo-sentinel,Placide: Voodoo Sentinel,Unit,Blue,candidate: verify official gameplay data,2,rival-scope; choice-or-hidden-information,,pending,not implemented,not tested
+psycho-squad,Psycho Squad,Unit,Blue,candidate: verify official gameplay data,5,,,pending,not implemented,not tested
+pyramid-song,Pyramid Song,Program,Blue,candidate: verify official gameplay data,2,rival-scope; choice-or-hidden-information; reaction-or-replacement; duration-or-turn-history,,pending,not implemented,not tested
+rebecca-having-a-moment,Rebecca: Having a Moment,Legend,Red,deferred: unrevealed gameplay,2,,DATA-REBECCA: unrevealed gameplay; not implementable; DATA-NULL: numeric-vs-null power requires image verification,pending,not implemented,not tested
+reboot-optics,Reboot Optics,Program,Blue,candidate: verify official gameplay data,5,rival-scope; reaction-or-replacement; duration-or-turn-history,,pending,not implemented,not tested
+riding-nomad,Riding Nomad,Unit,Green,candidate: verify official gameplay data,2,,,pending,not implemented,not tested
+riot-shield,Riot Shield,Gear,Green,candidate: verify official gameplay data,2,rival-scope; reaction-or-replacement,DATA-GEAR: top/bottom textbox structure requires image review,spot-checked,not implemented,not tested
+rita-wheeler-no-stupid-questions,Rita Wheeler: No Stupid Questions,Unit,Blue,candidate: verify official gameplay data,2,rival-scope; choice-or-hidden-information; reaction-or-replacement; duration-or-turn-history,,pending,not implemented,not tested
+river-ward-detective-on-the-hunt,River Ward: Detective on the Hunt,Legend,Yellow,candidate: verify official gameplay data,4,choice-or-hidden-information; reaction-or-replacement,DATA-NULL: numeric-vs-null power requires image verification; SOURCE-CONFLICT: see audit conflict register,pending,not implemented,not tested
+rockn-rockerboy,Rockn' Rockerboy,Unit,Yellow,candidate: verify official gameplay data,2,,,pending,not implemented,not tested
+rogue-amendiares-preem-solo,Rogue Amendiares: Preem Solo,Legend,Yellow,candidate: verify official gameplay data,4,rival-scope; choice-or-hidden-information; duration-or-turn-history; effect-steal-or-swap,,pending,not implemented,not tested
+rogue-amendiares-queen-of-the-afterlife,Rogue Amendiares: Queen of the Afterlife,Unit,Blue,candidate: verify official gameplay data,3,rival-scope; reaction-or-replacement; duration-or-turn-history; effect-steal-or-swap,,pending,not implemented,not tested
+royce-don-t-call-me-simon,Royce: Don't Call Me Simon,Unit,Red,candidate: verify official gameplay data,2,rival-scope; reaction-or-replacement,,pending,not implemented,not tested
+royce-psycho-on-the-edge,Royce: Psycho on the Edge,Legend,Red,candidate: verify official gameplay data,4,duration-or-turn-history,,pending,not implemented,not tested
+ruthless-lowlife,Ruthless Lowlife,Unit,Red,candidate: verify official gameplay data,4,rival-scope,,pending,not implemented,not tested
+saburo-arasaka-stubborn-patriarch,Saburo Arasaka: Stubborn Patriarch,Legend,Green,candidate: verify official gameplay data,6,effect-steal-or-swap,DATA-NULL: numeric-vs-null power requires image verification,pending,not implemented,not tested
+safety-override,Safety Override,Program,Yellow,candidate: verify official gameplay data,2,rival-scope; reaction-or-replacement; duration-or-turn-history,,pending,not implemented,not tested
+sandayu-oda-hanako-s-guardian,Sandayu Oda: Hanako's Guardian,Unit,Green,candidate: verify official gameplay data,3,rival-scope,,pending,not implemented,not tested
+sandevistan,Sandevistan,Gear,Green,candidate: verify official gameplay data,4,duration-or-turn-history,DATA-GEAR: top/bottom textbox structure requires image review,pending,not implemented,not tested
+sasha-yakovleva-won-t-let-you-down,Sasha Yakovleva: Won't Let You Down,Legend,Blue,candidate: verify official gameplay data,3,rival-scope; choice-or-hidden-information; duration-or-turn-history,,pending,not implemented,not tested
+satori-sword-of-saburo,Satori: Sword of Saburo,Gear,Red,candidate: verify official gameplay data,5,rival-scope,DATA-GEAR: top/bottom textbox structure requires image review,pending,not implemented,not tested
+saul-bright-stormrider,Saul Bright: Stormrider,Unit,Green,candidate: verify official gameplay data,2,duration-or-turn-history,,pending,not implemented,not tested
+screw-lovelorn-fool,Screw: Lovelorn Fool,Unit,Red,candidate: verify official gameplay data,2,,,pending,not implemented,not tested
+secondhand-bombus,Secondhand Bombus,Unit,Yellow,candidate: verify official gameplay data,5,rival-scope; reaction-or-replacement; effect-steal-or-swap,,pending,not implemented,not tested
+shattered-memories,Shattered Memories,Program,Red,candidate: verify official gameplay data,4,all-player-effect; choice-or-hidden-information,,pending,not implemented,not tested
+sketchy-ripper,Sketchy Ripper,Unit,Yellow,candidate: verify official gameplay data,2,choice-or-hidden-information; effect-steal-or-swap,,pending,not implemented,not tested
+swordwise-huscle,Swordwise Huscle,Unit,Red,candidate: verify official gameplay data,5,,,pending,not implemented,not tested
+synapse-burnout,Synapse Burnout,Program,Green,candidate: verify official gameplay data,2,rival-scope; reaction-or-replacement; duration-or-turn-history,,pending,not implemented,not tested
+t-bug-amateur-philosopher,T-Bug: Amateur Philosopher,Unit,Yellow,candidate: verify official gameplay data,4,choice-or-hidden-information,,pending,not implemented,not tested
+take-control,Take Control,Program,Green,candidate: verify official gameplay data,2,rival-scope; reaction-or-replacement; duration-or-turn-history; effect-steal-or-swap,,pending,not implemented,not tested
+tetratronic-rippler,Tetratronic Rippler,Gear,Blue,candidate: verify official gameplay data,4,choice-or-hidden-information,DATA-GEAR: top/bottom textbox structure requires image review,pending,not implemented,not tested
+the-heist,The Heist,Program,Yellow,candidate: verify official gameplay data,2,reaction-or-replacement,,pending,not implemented,not tested
+the-relic-experimental-biochip,The Relic: Experimental Biochip,Gear,Yellow,candidate: verify official gameplay data,3,,DATA-GEAR: top/bottom textbox structure requires image review,pending,not implemented,not tested
+three-mouths-one-desire,"Three Mouths, One Desire",Program,Blue,candidate: verify official gameplay data,2,choice-or-hidden-information,,pending,not implemented,not tested
+towerfall,Towerfall,Program,Blue,candidate: verify official gameplay data,3,rival-scope; choice-or-hidden-information; reaction-or-replacement; duration-or-turn-history,,pending,not implemented,not tested
+trauma-team-operatives,Trauma Team Operatives,Unit,Yellow,candidate: verify official gameplay data,2,,,pending,not implemented,not tested
+trust-no-one,Trust No One,Program,Blue,candidate: verify official gameplay data,3,unqualified-gig-target,,pending,not implemented,not tested
+tyger-s-whisper,Tyger's Whisper,Unit,Green,candidate: verify official gameplay data,2,effect-steal-or-swap,,pending,not implemented,not tested
+unlikely-bond,Unlikely Bond,Program,Blue,candidate: verify official gameplay data,2,rival-scope,,pending,not implemented,not tested
+v-corporate-exile,V: Corporate Exile,Legend,Blue,candidate: verify official gameplay data,6,duration-or-turn-history,,pending,not implemented,not tested
+v-roamer-of-the-badlands,V: Roamer of the Badlands,Unit,Red,candidate: verify official gameplay data,2,duration-or-turn-history; effect-steal-or-swap,,pending,not implemented,not tested
+v-streetkid,V: Streetkid,Legend,Red,candidate: verify official gameplay data,5,duration-or-turn-history,SOURCE-CONFLICT: see audit conflict register,spot-checked,not implemented,not tested
+valentino-guerrera,Valentino Guerrera,Unit,Red,candidate: verify official gameplay data,2,rival-scope; reaction-or-replacement,,pending,not implemented,not tested
+valentino-street-racer,Valentino Street Racer,Unit,Green,candidate: verify official gameplay data,2,duration-or-turn-history,,pending,not implemented,not tested
+viktor-vektor-drop-your-illusions,Viktor Vektor: Drop Your Illusions,Unit,Yellow,candidate: verify official gameplay data,2,duration-or-turn-history,,pending,not implemented,not tested
+viktor-vektor-sit-down-and-relax,Viktor Vektor: Sit Down and Relax,Legend,Yellow,candidate: verify official gameplay data,6,choice-or-hidden-information,DATA-NULL: numeric-vs-null power requires image verification,pending,not implemented,not tested
+viktor-vektor-you-might-feel-a-little-pinch,Viktor Vektor: You Might Feel a Little Pinch,Unit,Yellow,candidate: verify official gameplay data,2,,,pending,not implemented,not tested
+wakako-okada-peace-and-harmony,Wakako Okada: Peace and Harmony,Legend,Blue,candidate: verify official gameplay data,3,rival-scope; unqualified-gig-target; choice-or-hidden-information; duration-or-turn-history,DATA-NULL: numeric-vs-null power requires image verification,pending,not implemented,not tested
+we-gotta-live-together,We Gotta Live Together,Program,Green,candidate: verify official gameplay data,2,rival-scope,,pending,not implemented,not tested
+westbrook-netrunner,Westbrook Netrunner,Unit,Blue,candidate: verify official gameplay data,2,rival-scope; duration-or-turn-history; effect-steal-or-swap,,pending,not implemented,not tested
+wild-in-the-streets,Wild in the Streets,Program,Green,candidate: verify official gameplay data,2,,,pending,not implemented,not tested
+wraith-marauders,Wraith Marauders,Unit,Green,candidate: verify official gameplay data,2,effect-steal-or-swap,,pending,not implemented,not tested
+yorinobu-arasaka-embracing-destruction,Yorinobu Arasaka: Embracing Destruction,Legend,Red,candidate: verify official gameplay data,6,choice-or-hidden-information; duration-or-turn-history,DATA-NULL: numeric-vs-null power requires image verification,pending,not implemented,not tested
+yorinobu-arasaka-steel-dragon,Yorinobu Arasaka: Steel Dragon,Unit,Red,candidate: verify official gameplay data,2,rival-scope; duration-or-turn-history,,pending,not implemented,not tested
+zetatech-berserk,Zetatech Berserk,Gear,Green,candidate: verify official gameplay data,2,,DATA-GEAR: top/bottom textbox structure requires image review,pending,not implemented,not tested
+zetatech-faceplate,Zetatech Faceplate,Gear,Yellow,candidate: verify official gameplay data,4,unqualified-gig-target,DATA-GEAR: top/bottom textbox structure requires image review,pending,not implemented,not tested
